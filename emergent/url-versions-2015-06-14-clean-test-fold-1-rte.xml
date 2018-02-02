@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="240" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Developers Told to Limit Features to Save Battery Life</t>
+<h>Developers have limited access to Apple Watch sensors and features, to make simpler apps that don't drain battery</h>
+</pair>
+<pair id="241" entailment="UNKNOWN" task="IE">
+<t>Apple is limiting features on the Apple Watch to save battery life, according to developers</t>
+<h>Developers have limited access to Apple Watch sensors and features, to make simpler apps that don't drain battery</h>
+</pair>
+<pair id="247" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Takes Two Hours to Charge, Only Delivers Notifications While on the Wrist</t>
+<h>The Apple Watch only receives notifications when on the wrist</h>
+</pair>
+<pair id="303" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch straps will be available to purchase separately at launch</t>
+<h>Apple have different Watch bands for sale at launch</h>
+</pair>
+<pair id="440" entailment="ENTAILMENT" task="IE">
+<t>The Washington Post Is Now Free On Amazon Kindles</t>
+<h>The Washington Post is developing a new app that will be pre-installed on the new Kindle Fire</h>
+</pair>
+<pair id="441" entailment="ENTAILMENT" task="IE">
+<t>Jeff Bezos Is Planning To Make The Washington Post Pre-Loaded On Every Kindle HDX</t>
+<h>The Washington Post is developing a new app that will be pre-installed on the new Kindle Fire</h>
+</pair>
+<pair id="494" entailment="ENTAILMENT" task="IE">
+<t>BiH: Seven Primary School Students Pregnant After Five-Day Excursion</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="495" entailment="ENTAILMENT" task="IE">
+<t>Seven girls as young as 13 become pregnant on a school trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="496" entailment="ENTAILMENT" task="IE">
+<t>Seven teenage girls get pregnant on school trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="497" entailment="CONTRADICTION" task="IE">
+<t>Media Fooled Again? Story Claims 7 of 28 Girls On School Trip Came Home Pregnant</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="498" entailment="ENTAILMENT" task="IE">
+<t>You all had an abortion Google Translate</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="499" entailment="ENTAILMENT" task="IE">
+<t>Parents are furious after seven girls aged 13-14 fall pregnant on a school trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="500" entailment="ENTAILMENT" task="IE">
+<t>Seven girls fall pregnant after five day school trip in Bosnia and Herzegovina</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="501" entailment="ENTAILMENT" task="IE">
+<t>Parents anger after seven Bosnian schoolgirls aged 13 and 14 fall pregnant on class trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="502" entailment="ENTAILMENT" task="IE">
+<t>Rare Case: Seven Bosnian Girls, Aged 13 And 14, Fall Pregnant After Five-Day School Trip Parents Outraged After School Cites Parental Neglect</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="503" entailment="ENTAILMENT" task="IE">
+<t>Bosnia: Seven underage girls return from five day school trip, pregnant</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="504" entailment="ENTAILMENT" task="IE">
+<t>Seven High School Girls Get Pregnant On Five-Day School Trip, Parents Outraged</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="505" entailment="ENTAILMENT" task="IE">
+<t>Seven girls fall pregnant after five day school trip in Bosnia and Herzegovina</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="506" entailment="ENTAILMENT" task="IE">
+<t>7 Bosnian teens get pregnant on school trip</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="507" entailment="ENTAILMENT" task="IE">
+<t>7 teen girls get pregnant on school trip Read more at http:www.wnd.com2014127-teen-girls-get-pregnant-on-school-tripF5filOd6yFpASPV9.99</t>
+<h>Seven underage Bosnian girls got pregnant on a school trip</h>
+</pair>
+<pair id="609" entailment="CONTRADICTION" task="IE">
+<t>Comcast calls rumor that it disconnects Tor users wildly inaccurate</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="610" entailment="ENTAILMENT" task="IE">
+<t>Comcast blocks Tor updated</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="611" entailment="CONTRADICTION" task="IE">
+<t>Setting the record straight on tor</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="612" entailment="ENTAILMENT" task="IE">
+<t>Comcast Is Threatening to Cut Off Customers Who Use Tor, a Private Web Browser</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="613" entailment="CONTRADICTION" task="IE">
+<t>Comcast Denies It Will Cut Off Customers Who Use Tor, The Web Browser For Criminals</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="614" entailment="UNKNOWN" task="IE">
+<t>Comcast Declares War on Tor?</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="615" entailment="CONTRADICTION" task="IE">
+<t>Comcast Says You Can Keep Your Tor</t>
+<h>Comcast is telling customers Tor is illegal to use</h>
+</pair>
+<pair id="728" entailment="UNKNOWN" task="IE">
+<t>Fidel Castro Rumors Sweep Internet, but No Sign in Cuba</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="729" entailment="UNKNOWN" task="IE">
+<t>Fidel Castro Is Dead, According to Viral Twitter Rumors</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="730" entailment="UNKNOWN" task="IE">
+<t>WATCH: Twitter catches fire amid rumors of Fidel Castro's death</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="731" entailment="UNKNOWN" task="IE">
+<t>RIPFidel fuels false rumors of Cuban leader's death after another Fidel Castro dies</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="732" entailment="CONTRADICTION" task="IE">
+<t>Rumor Fatigue Sets In at False Alarms of Castro's Death</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="733" entailment="UNKNOWN" task="IE">
+<t>FIDEL CASTRO DEATH WATCH: RUMORS HEAT UP, CUBA DENIES</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="734" entailment="CONTRADICTION" task="IE">
+<t>Confusion as Cuba's Castro mourned instead of Kenya's Fidel</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="735" entailment="UNKNOWN" task="IE">
+<t>Hundreds mourn the death of Fidel Castro after rumours sweep Twitter but are they confusing him with recently departed Fidel Castro Odinga from Nairobi?</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="736" entailment="UNKNOWN" task="IE">
+<t>Rumors Of Fidel Castro's Death Circulate After Prolonged Absence From Public Life</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="737" entailment="CONTRADICTION" task="IE">
+<t>Fidel Castro Dead? Yes, He Is But The Cuban Leader Is Alive, Death Rumors Proven False</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="738" entailment="UNKNOWN" task="IE">
+<t>Fidel Castro Rumors Sweep Internet, But No Sign in Cuba</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="739" entailment="UNKNOWN" task="IE">
+<t>Rumors about Fidel Castro's death again circulate on the Internet</t>
+<h>Fidel Castro has died</h>
+</pair>
+<pair id="1009" entailment="UNKNOWN" task="IE">
+<t>iOS 8.2 may launch Monday with new health features</t>
+<h>Apple will release iOS 8.2 on March 9</h>
+</pair>
+<pair id="1010" entailment="ENTAILMENT" task="IE">
+<t>iOS 8.2 arriving Monday, here are full release notes</t>
+<h>Apple will release iOS 8.2 on March 9</h>
+</pair>
+<pair id="1093" entailment="UNKNOWN" task="IE">
+<t>Former U.S. soldier says IS used chemical weapons in Kobani</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1094" entailment="UNKNOWN" task="IE">
+<t>Has ISIS used chemical weapons on Kobane? Claims under-siege town was hit by crude rocket attack</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1095" entailment="UNKNOWN" task="IE">
+<t>ISIS Kobani Update: Possible ISIS Chemical Attack On Kurdish Civilians In Kobani</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1096" entailment="UNKNOWN" task="IE">
+<t>BREAKING UDPATED: ISIS REPORTEDLY USE CHEMICAL WEAPONS IN KOBANE</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1097" entailment="UNKNOWN" task="IE">
+<t>Kurds fear Isis use of chemical weapon in Kobani</t>
+<h>ISIS used chemical weapons in Kobane</h>
+</pair>
+<pair id="1154" entailment="ENTAILMENT" task="IE">
+<t>Islamic State Flying Three Jets in Syria</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1155" entailment="UNKNOWN" task="IE">
+<t>Islamic State Training Pilots in Military Jets, Monitors Say</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1156" entailment="UNKNOWN" task="IE">
+<t>Islamic State training pilots to fly fighter jets</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1157" entailment="UNKNOWN" task="IE">
+<t>Opposition group: ISIS militants training to fly warplanes in Syria</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1158" entailment="ENTAILMENT" task="IE">
+<t>Does ISIS have an airforce? Terrorist fighter pilots are being trained on captured MiGs by Saddam Hussein's ex-air force officers</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1159" entailment="UNKNOWN" task="IE">
+<t>Islamic State Militants Have Been Flying 3 Captured Warplanes Over Syrian Airport, Witnesses Say</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1160" entailment="UNKNOWN" task="IE">
+<t>Islamic State May Have Fighter Jets Now After Seizing Russian-Made MiGs</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1161" entailment="UNKNOWN" task="IE">
+<t>Isis Syria News: Iraqi Pilots Training Isis Fighters to Fly Captured Planes</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1162" entailment="ENTAILMENT" task="IE">
+<t>Saddam Hussein's pilots training Islamic State group</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1163" entailment="UNKNOWN" task="IE">
+<t>Islamic State flying three jets in Syria: monitor</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1164" entailment="UNKNOWN" task="IE">
+<t>Islamic State training fighter pilots in captured jets, monitoring group says</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1165" entailment="UNKNOWN" task="IE">
+<t>Islamic State training pilots to fly MiG fighter planes, says monitoring group</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1166" entailment="UNKNOWN" task="IE">
+<t>Islamic State fighters training to fly captured jets watchdog</t>
+<h>ISIS fighters are being trained to fly three captured fighter jets</h>
+</pair>
+<pair id="1167" entailment="CONTRADICTION" task="IE">
+<t>DHS Rebuffs Congressman's Claim ISIS Infiltrating Southern Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1168" entailment="UNKNOWN" task="IE">
+<t>4 ISIS Terrorists Caught at Southern Border in 36 Hrs</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1169" entailment="CONTRADICTION" task="IE">
+<t>Categorically False: DHS Debunks Right-Wing Fiction That ISIS Attempted To Cross The U.S.- Mexico Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1170" entailment="UNKNOWN" task="IE">
+<t>GOP Rep: At Least Ten ISIS Fighters Have Been Caught Coming Across The Mexican Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1171" entailment="CONTRADICTION" task="IE">
+<t>Officials shoot down congressman's claims ISIS terrorists are running across US-Mexico border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1172" entailment="UNKNOWN" task="IE">
+<t>Two GOP Congressmen Say Suspected Terrorists Caught Crossing U.S.Mexico Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1173" entailment="UNKNOWN" task="IE">
+<t>Two GOP Congressmen Say Suspected Terrorists Caught Crossing U.S.Mexico Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1174" entailment="UNKNOWN" task="IE">
+<t>This Is Why Rumors That ISIS Is Crossing The Border Into The U.S. Aren't Going Away</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1175" entailment="CONTRADICTION" task="IE">
+<t>Homeland Security says terrorists haven't crossed U.S-Mexico border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1176" entailment="CONTRADICTION" task="IE">
+<t>Obama administration DENIES congressman's claim that at least ten ISIS fighters have been caught coming across the Mexican border in Texas</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1177" entailment="UNKNOWN" task="IE">
+<t>Congressman: At least 10 ISIS fighters caught trying to cross into US</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1178" entailment="UNKNOWN" task="IE">
+<t>GOP Rep. Duncan Hunter Claims At Least 10 ISIS Fighters Apprehended On Texas Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1179" entailment="CONTRADICTION" task="IE">
+<t>Jeh Johnson: Politicians Shouldn't Feed The Flames Of Fear Over ISIS, Ebola</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1180" entailment="CONTRADICTION" task="IE">
+<t>ISIS Border Crisis: DHS Chief Says Terrorists Not Entering US Through Mexico</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1181" entailment="CONTRADICTION" task="IE">
+<t>DHS: GOP Rep.s Claim ISIS Members Caught at U.S. Border Categorically False</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1182" entailment="UNKNOWN" task="IE">
+<t>ISIS Fighters Getting Caught Coming Across the U.S.-Mexican Border?</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1183" entailment="UNKNOWN" task="IE">
+<t>Is There an ISIS Threat on the Texas-Mexico Border or Not?</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1184" entailment="CONTRADICTION" task="IE">
+<t>No, Islamic State Militants Have Not Been Caught by U.S. Border Patrol</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1185" entailment="UNKNOWN" task="IE">
+<t>Rep. Duncan Hunter: At Least 10 ISIS Fighters Caught at Mexican Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1186" entailment="ENTAILMENT" task="IE">
+<t>Judicial Watch's Farrell: ISIS Terrorists Did Cross Mexican Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1187" entailment="UNKNOWN" task="IE">
+<t>SEE IT: ISIS militants caught trying to cross border into Texas, Congressman claims</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1188" entailment="CONTRADICTION" task="IE">
+<t>Homeland Security: No ISIL fighters on U.S. border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1189" entailment="CONTRADICTION" task="IE">
+<t>Pants on Fire: Duncan Hunter makes unconfirmed claim Border Patrol caught at least 10 ISIS fighters</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1190" entailment="UNKNOWN" task="IE">
+<t>Lawmaker Says At Least 10 Islamic State Fighters Have Been Captured at the Southern U.S. Border</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1191" entailment="UNKNOWN" task="IE">
+<t>US Lawmaker: Ten ISIS Fighters Have Been Apprehended Coming Across Southern Border Video</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1192" entailment="CONTRADICTION" task="IE">
+<t>Jeh Johnson shoots down Duncan Hunter's assertion IS is entering U.S. via Mexico</t>
+<h>ISIS fighters were caught trying to enter the U.S. via the U.S.-Mexico border</h>
+</pair>
+<pair id="1204" entailment="UNKNOWN" task="IE">
+<t>Here's What We Know About ISIS's Alleged Organ Harvesting Operation</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1205" entailment="UNKNOWN" task="IE">
+<t>ISIS organ harvesting must be probed by Security Council Iraqi envoy</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1206" entailment="UNKNOWN" task="IE">
+<t>Iraqi Official Accuses ISIS Of Harvesting Organs To Finance Operations</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1207" entailment="ENTAILMENT" task="IE">
+<t>Islamic State reaps profits from organ trafficking</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1208" entailment="UNKNOWN" task="IE">
+<t>ISIS might be harvesting organs, Iraqi diplomat says</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1209" entailment="ENTAILMENT" task="IE">
+<t>Blood money: How ISIS is selling human organs harvested from living hostages and its own dead soldiers to fund terror across the Middle East</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1210" entailment="ENTAILMENT" task="IE">
+<t>UN urged to investigate ISIS's bloody trade in human organs after Iraqi ambassador reveals doctors are being executed for not harvesting body parts</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1211" entailment="UNKNOWN" task="IE">
+<t>Islamic State is funding its terror operations by brutally harvesting organs, UN is warned</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1212" entailment="UNKNOWN" task="IE">
+<t>ISIS might be harvesting organs, Iraq tells UN</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1213" entailment="UNKNOWN" task="IE">
+<t>ISIS might be harvesting organs, Iraqi ambassador tells UN, amid reports of more hostages being burned alive</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1214" entailment="UNKNOWN" task="IE">
+<t>ISIS Might Be Harvesting Organs To Finance Operations, Iraqi Envoy Tells UN</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1215" entailment="UNKNOWN" task="IE">
+<t>Iraq's ambassador urges UN to investigate claims Isis is harvesting organs: We have bodies - it is clear they are missing certain parts</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1216" entailment="ENTAILMENT" task="IE">
+<t>ISIS Harvesting Victims Organs to Finance Terror</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1217" entailment="UNKNOWN" task="IE">
+<t>United Nations asked to investigate claims of organ harvesting by ISIS</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1218" entailment="UNKNOWN" task="IE">
+<t>ISIS is suspected of selling human organs for money in Iraq</t>
+<h>ISIS is harvesting and selling human organs to help fund its operations</h>
+</pair>
+<pair id="1459" entailment="ENTAILMENT" task="IE">
+<t>YUM Serving Up Marijuana Fried Chicken</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1460" entailment="ENTAILMENT" task="IE">
+<t>KFC Locations In Colorado To Begin Selling Marijuana</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1461" entailment="ENTAILMENT" task="IE">
+<t>KFC Gets Occupational Business License To Sell Marijuana In Colorado Restaurants KFC Gets Occupational Business License To Sell Marijuana In Colorado Restaurants</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1462" entailment="CONTRADICTION" task="IE">
+<t>Sorry, KFC isn't going to be selling weed in Colorado restaurants</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1463" entailment="CONTRADICTION" task="IE">
+<t>KFC Marijuana Sales To Begin In Colorado? It's Unbelievable Literally</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1464" entailment="UNKNOWN" task="IE">
+<t>If you really believed Colorado KFCs were selling pot, here's a reality check</t>
+<h>KFC restaurants in Colorado will start selling marijuana</h>
+</pair>
+<pair id="1759" entailment="ENTAILMENT" task="IE">
+<t>Chinese mistress is stripped naked and beaten senseless in backlash against booming country's concubine culture</t>
+<h>Mob Strips Adulterous Woman</h>
+</pair>
+<pair id="1760" entailment="ENTAILMENT" task="IE">
+<t>Shocking moment shows adulteress stripped naked and beaten in busy shopping centre</t>
+<h>Mob Strips Adulterous Woman</h>
+</pair>
+<pair id="1789" entailment="ENTAILMENT" task="IE">
+<t>Airport worker strips naked at security scanner in protest against guards</t>
+<h>A man got completely naked when passing through metal detectors at a Russian airport</h>
+</pair>
+<pair id="1790" entailment="ENTAILMENT" task="IE">
+<t>That's one way to get through security Frustrated traveller strips completely NAKED at airport to pass through metal detectors</t>
+<h>A man got completely naked when passing through metal detectors at a Russian airport</h>
+</pair>
+<pair id="1791" entailment="ENTAILMENT" task="IE">
+<t>Watch NAKED airport worker walk through scanner in bizarre protest against rough guards</t>
+<h>A man got completely naked when passing through metal detectors at a Russian airport</h>
+</pair>
+<pair id="1792" entailment="ENTAILMENT" task="IE">
+<t>Airport worker strips naked at Russian airport</t>
+<h>A man got completely naked when passing through metal detectors at a Russian airport</h>
+</pair>
+<pair id="1876" entailment="ENTAILMENT" task="IE">
+<t>NYPD to stop arresting people for minor marijuana offenses</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1877" entailment="UNKNOWN" task="IE">
+<t>NYPD to issue tickets instead of arrest for weed possession, report says</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1878" entailment="UNKNOWN" task="IE">
+<t>Soon Marijuana May Lead to Ticket, Not Arrest, in New York</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1879" entailment="UNKNOWN" task="IE">
+<t>New policy could reduce marijuana possession arrests</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1880" entailment="ENTAILMENT" task="IE">
+<t>NYPD to stop arrests for small amounts of marijuana</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1881" entailment="UNKNOWN" task="IE">
+<t>Marijuana May Soon Spark Just a Ticket in New York</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1882" entailment="ENTAILMENT" task="IE">
+<t>New York Plans to Reduce Marijuana Arrests Using Tickets</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1883" entailment="ENTAILMENT" task="IE">
+<t>It Just Got Harder To Get Arrested For Pot In New York City</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1884" entailment="UNKNOWN" task="IE">
+<t>Pot in NYC may soon net just a ticket, not an arrest</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1885" entailment="UNKNOWN" task="IE">
+<t>Marijuana Law New York: How No-Arrest Policy Could Make Things Worse For Minor Offenders</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1886" entailment="ENTAILMENT" task="IE">
+<t>Low-level marijuana possession could soon land you a ticket instead of arrest in New York City</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1887" entailment="ENTAILMENT" task="IE">
+<t>NYPD to stop arresting for minor marijuana possession, will issue tickets instead</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1888" entailment="UNKNOWN" task="IE">
+<t>In New York City, Marijuana May Mean Ticket, Not Arrest</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1889" entailment="ENTAILMENT" task="IE">
+<t>New York City Plans to End Arrests for Possession of Small Amounts of Marijuana</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1890" entailment="ENTAILMENT" task="IE">
+<t>NYC relaxes response to marijuana possession</t>
+<h>New York Police will start issuing tickets, rather than make arrests, for small amounts of marijuana</h>
+</pair>
+<pair id="1922" entailment="CONTRADICTION" task="IE">
+<t>Whoa, Paul Rudd Was UPDATE: Not One of the Airport Heroes Who Took Down the Homophobe</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1923" entailment="UNKNOWN" task="IE">
+<t>Did Paul Rudd Help Tackle That Dallas Airport Gay-Basher?</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1924" entailment="CONTRADICTION" task="IE">
+<t>No, That Wasn't Paul Rudd Tackling an Airport Homophobe</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1925" entailment="CONTRADICTION" task="IE">
+<t>Oh Hey, Paul Rudd Was One Of The Dallas Airport Homophobe Heroes No He Wasn't</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1926" entailment="CONTRADICTION" task="IE">
+<t>Paul Rudd Is Not the Viral Video Hero Who Tackled a Gay Basher in Dallas</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1927" entailment="UNKNOWN" task="IE">
+<t>Did Paul Rudd Help Take Down Dallas Airport Homophobe? UPDATED</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="1928" entailment="ENTAILMENT" task="IE">
+<t>Paul Rudd Helped Tackle A Violent Homophobe So That's Another Reason To Love Him UPDATE</t>
+<h>Paul Rudd helped take down the Dallas airport homophobe</h>
+</pair>
+<pair id="2077" entailment="UNKNOWN" task="IE">
+<t>iPhone 6 and Even Apple Watch To Feature Samsung Components Rumor</t>
+<h>Samsung will supply application processors for Apple Watch</h>
+</pair>
+<pair id="2078" entailment="UNKNOWN" task="IE">
+<t>Apple Reportedly Relying More Heavily on Samsung for iPhone 6 and Apple Watch Components</t>
+<h>Samsung will supply application processors for Apple Watch</h>
+</pair>
+<pair id="2105" entailment="ENTAILMENT" task="IE">
+<t>Scorpion stings woman on OSU plane</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2106" entailment="ENTAILMENT" task="IE">
+<t>Woman Bit By Scorpion on Alaska Airlines Flight Is Chill as Hell</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2107" entailment="ENTAILMENT" task="IE">
+<t>Scorpion Sting Delays Oregon State Flight</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2108" entailment="ENTAILMENT" task="IE">
+<t>Flight Delayed Due To Rampaging Scorpion</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2109" entailment="ENTAILMENT" task="IE">
+<t>Scorpion stings passenger, delays flight from Los Angeles to Portland</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2110" entailment="ENTAILMENT" task="IE">
+<t>Woman stung by scorpion on Alaska Airlines flight</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2111" entailment="ENTAILMENT" task="IE">
+<t>Scorpion stings flier on Alaska Airlines flight from L.A.</t>
+<h>An Alaska Airlines plane was delayed when a scorpion stung a woman onboard</h>
+</pair>
+<pair id="2292" entailment="UNKNOWN" task="IE">
+<t>Apple: Citi Sees 550 and 950 Apple Watches, Accessory Plethora</t>
+<h>The stainless steel Apple Watch will cost 550 USD</h>
+</pair>
+<pair id="2293" entailment="UNKNOWN" task="IE">
+<t>Citi sees Apple Watch price points of 550 and 950 myriad accessories</t>
+<h>The stainless steel Apple Watch will cost 550 USD</h>
+</pair>
+<pair id="2311" entailment="ENTAILMENT" task="IE">
+<t>Texas Boy Suspended For Threatening Classmate With The One Ring</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2312" entailment="ENTAILMENT" task="IE">
+<t>Elementary school suspends boy after he threatens to turn fellow student invisible with the One Ring from Tolkien novels</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2313" entailment="UNKNOWN" task="IE">
+<t>Kid Suspended For Allegedly Threatening Classmate With Hobbit Magic</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2314" entailment="ENTAILMENT" task="IE">
+<t>Texas boy suspended for saying he could make classmate disappear with Lord of the Rings sorcery</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2315" entailment="UNKNOWN" task="IE">
+<t>Parent: Fourth-grader suspended after using magic from The Hobbit</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2316" entailment="ENTAILMENT" task="IE">
+<t>Suspended boy threatened to make student disappear with Lord of the Rings replica ring</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2317" entailment="ENTAILMENT" task="IE">
+<t>Suspended boy threatened to make student disappear with Lord of the Rings replica ring</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2318" entailment="UNKNOWN" task="IE">
+<t>Texas boy, 9, suspended for threatening to use Hobbit magic, dad says</t>
+<h>A fourth-grade student from Texas was suspended after threatening another student with magic</h>
+</pair>
+<pair id="2345" entailment="ENTAILMENT" task="IE">
+<t>Speeding Up Seinfeld For Younger Viewers</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2346" entailment="ENTAILMENT" task="IE">
+<t>TBS Speeds up SEINFELD by 7.5 to Add 2 More Minutes of Commercials</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2347" entailment="UNKNOWN" task="IE">
+<t>TBS Is Probably Speeding Up Seinfeld Reruns To Fit In More Commercials</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2348" entailment="ENTAILMENT" task="IE">
+<t>TBS speeds up Seinfeld a full 7.5 percent - here is the proof</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2349" entailment="ENTAILMENT" task="IE">
+<t>TBS speeds up Seinfeld 7.5 to gain an extra 2 minutes of commercial ad time.</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2350" entailment="ENTAILMENT" task="IE">
+<t>What TBS's Sped-Up Seinfeld Reruns Tell Us About the Sorry State of America</t>
+<h>TBS speeds up Seinfeld episodes to fit in more commercials</h>
+</pair>
+<pair id="2491" entailment="ENTAILMENT" task="IE">
+<t>Crank-Boosting Behind Top Apps in App Store</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2492" entailment="UNKNOWN" task="IE">
+<t>App brush list actually do so sister you tired it?</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2493" entailment="UNKNOWN" task="IE">
+<t>A viral photo in China shows how to manipulate App Store rankings the hard way</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2494" entailment="ENTAILMENT" task="IE">
+<t>Crazy iPhone rig shows how Chinese workers manipulate App Store rankings</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2495" entailment="UNKNOWN" task="IE">
+<t>China App Store Manipulation Photo Goes Viral - But Is It Real?</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2496" entailment="ENTAILMENT" task="IE">
+<t>Viral Photo Shows How Chinese Workers Are Used to Manipulate App Store Rankings</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2497" entailment="ENTAILMENT" task="IE">
+<t>Staff Reporter</t>
+<h>Viral photo shows a worker at an app-ranking manipulation farm</h>
+</pair>
+<pair id="2571" entailment="ENTAILMENT" task="IE">
+<t>Pregnant St. Louis woman loses eye after police fire non-lethal round: reports</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2572" entailment="ENTAILMENT" task="IE">
+<t>Ferguson protester shot in the eye with rubber bullet by police</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2573" entailment="ENTAILMENT" task="IE">
+<t>Pregnant woman loses eye after Ferguson cops fire bean bag</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2574" entailment="ENTAILMENT" task="IE">
+<t>Pregnant Woman Loses Eye During Ferguson Riots After Officer Shoots Bean Bag Round At Car</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2575" entailment="CONTRADICTION" task="IE">
+<t>We just found out the Ferguson Protester who claim she was shot in the eye with a rubber bullet was a false story guys. Smh..</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2576" entailment="ENTAILMENT" task="IE">
+<t>A Pregnant Woman Has Lost Her Eye After Being Shot W Bean Bag In Ferguson</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2577" entailment="ENTAILMENT" task="IE">
+<t>Pregnant Ferguson woman loses her EYE after police shoot her car with bean bag during violent protests</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2578" entailment="ENTAILMENT" task="IE">
+<t>Pregnant woman loses eye after police shoot bean bag at her</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2579" entailment="ENTAILMENT" task="IE">
+<t>Ferguson riots: Pregnant woman loses eye after cops fire BEAN BAG round through car window</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2580" entailment="ENTAILMENT" task="IE">
+<t>I will have justice for what they did to me: Pregnant St. Louis woman loses eye after police fire non-lethal round at car during Ferguson protest VIDEO</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+<pair id="2581" entailment="ENTAILMENT" task="IE">
+<t>Ferguson protester shot in the eye with rubber bullet by police</t>
+<h>A woman lost her eye after being hit with a bean bag shot by police in Ferguson</h>
+</pair>
+</entailment-corpus>

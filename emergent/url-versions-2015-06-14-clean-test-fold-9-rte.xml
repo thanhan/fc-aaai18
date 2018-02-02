@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="1" entailment="ENTAILMENT" task="IE">
+<t>World's oldest burger</t>
+<h>Two Australian men kept a McDonald's Quarter Pounder with Cheese for 20 years</h>
+</pair>
+<pair id="2" entailment="ENTAILMENT" task="IE">
+<t>Two blokes dared to eat 20-year-old burger for charity</t>
+<h>Two Australian men kept a McDonald's Quarter Pounder with Cheese for 20 years</h>
+</pair>
+<pair id="3" entailment="ENTAILMENT" task="IE">
+<t>Would you take a bite out of the world's oldest burger? Men keep Quarter Pounder they bought 20 YEARS ago for a friend who never showed up to meet them</t>
+<h>Two Australian men kept a McDonald's Quarter Pounder with Cheese for 20 years</h>
+</pair>
+<pair id="4" entailment="ENTAILMENT" task="IE">
+<t>20 year old burger? McDonald's burger purchased in 1995 hasn't aged a bit</t>
+<h>Two Australian men kept a McDonald's Quarter Pounder with Cheese for 20 years</h>
+</pair>
+<pair id="5" entailment="ENTAILMENT" task="IE">
+<t>20-year-old burger: McDonald's Quarter Pounder looks eerily new after 2 decades</t>
+<h>Two Australian men kept a McDonald's Quarter Pounder with Cheese for 20 years</h>
+</pair>
+<pair id="6" entailment="UNKNOWN" task="IE">
+<t>Is this the world's oldest burger? Man claims to have kept McDonald's Quarter Pounder for 20 YEARS</t>
+<h>Two Australian men kept a McDonald's Quarter Pounder with Cheese for 20 years</h>
+</pair>
+<pair id="7" entailment="UNKNOWN" task="IE">
+<t>Is this the world's oldest burger? Man claims to have kept McDonald's Quarter Pounder for 20 YEARS</t>
+<h>Two Australian men kept a McDonald's Quarter Pounder with Cheese for 20 years</h>
+</pair>
+<pair id="8" entailment="ENTAILMENT" task="IE">
+<t>20-Year-Old Quarter Pounder Looks About the Same</t>
+<h>Two Australian men kept a McDonald's Quarter Pounder with Cheese for 20 years</h>
+</pair>
+<pair id="11" entailment="ENTAILMENT" task="IE">
+<t>400 men cut their testicles off believing it would help them meet God</t>
+<h>400 men were castrated on the orders of an Indian spiritual guru</h>
+</pair>
+<pair id="12" entailment="UNKNOWN" task="IE">
+<t>CBI registers criminal conspiracy case against Dera chief after claims 400 male followers were forcibly castrated</t>
+<h>400 men were castrated on the orders of an Indian spiritual guru</h>
+</pair>
+<pair id="13" entailment="ENTAILMENT" task="IE">
+<t>Guru who ordered 400 followers to be castrated so they could be closer to God is investigated for grievous bodily harm in India</t>
+<h>400 men were castrated on the orders of an Indian spiritual guru</h>
+</pair>
+<pair id="14" entailment="UNKNOWN" task="IE">
+<t>Court Orders Probe Into Complaints Of Forced Castration In Religious Dera Sect</t>
+<h>400 men were castrated on the orders of an Indian spiritual guru</h>
+</pair>
+<pair id="15" entailment="UNKNOWN" task="IE">
+<t>Dera Sacha Sauda Chief Forced Castration of 400 Devotees? CBI Files Case Against MSG: The Messenger of God Actor</t>
+<h>400 men were castrated on the orders of an Indian spiritual guru</h>
+</pair>
+<pair id="16" entailment="ENTAILMENT" task="IE">
+<t>India: 400 men cut off their testicles to get closer to God following advice from guru</t>
+<h>400 men were castrated on the orders of an Indian spiritual guru</h>
+</pair>
+<pair id="17" entailment="ENTAILMENT" task="IE">
+<t>Nuts Indian guru coaxes 400 followers to cut off their testicles, grow closer to God</t>
+<h>400 men were castrated on the orders of an Indian spiritual guru</h>
+</pair>
+<pair id="177" entailment="UNKNOWN" task="IE">
+<t>Rumor: Apple shooting for 19 hours of Apple Watch battery life under normal conditions, 2.5 hours heavy use</t>
+<h>Apple Watch battery will only last 2.5 to 4 hours of active use</h>
+</pair>
+<pair id="178" entailment="UNKNOWN" task="IE">
+<t>The Apple Watch Will Only Last 2.5 Hours With Heavy Use</t>
+<h>Apple Watch battery will only last 2.5 to 4 hours of active use</h>
+</pair>
+<pair id="179" entailment="UNKNOWN" task="IE">
+<t>The Apple Watch's battery life will reportedly be just like any other smartwatch</t>
+<h>Apple Watch battery will only last 2.5 to 4 hours of active use</h>
+</pair>
+<pair id="212" entailment="UNKNOWN" task="IE">
+<t>Chinese rumor suggests Apple Watch to launch in February, sapphire to blame for low supply</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="213" entailment="UNKNOWN" task="IE">
+<t>New rumor backs up reports that the Apple Watch will launch in February</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="214" entailment="UNKNOWN" task="IE">
+<t>New Rumour Suggests Apple Watch to Launch in February</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="215" entailment="UNKNOWN" task="IE">
+<t>Are Rumors of the Apple Watch in Feb True?</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="216" entailment="UNKNOWN" task="IE">
+<t>Apple Watch launch has new timetable: Analyst</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="217" entailment="UNKNOWN" task="IE">
+<t>Apple Watch launch reportedly planned for February with limited supply</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="218" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch delayed for February in limited quantity</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="219" entailment="UNKNOWN" task="IE">
+<t>Apple Watch mass production kicks off in January: Report</t>
+<h>The Apple Watch will launch in February</h>
+</pair>
+<pair id="374" entailment="CONTRADICTION" task="IE">
+<t>No, that broken pencil illustration isn't by Banksy</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="375" entailment="CONTRADICTION" task="IE">
+<t>Lucille Clerc's powerful message of perseverance goes viral after a fake Banksy account reposts it</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="376" entailment="CONTRADICTION" task="IE">
+<t>The Image That Everyone Is Sharing By Banksy Isn't By Banksy But It's Awesome</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="377" entailment="CONTRADICTION" task="IE">
+<t>No, Banksy Didn't Create That Charlie Hebdo Tribute Cartoon, But That Doesn't Mean You Can't Appreciate It</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="378" entailment="CONTRADICTION" task="IE">
+<t>This Powerful Cartoon About The Charlie Hebdo Attack Is Not By Banksy</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="379" entailment="CONTRADICTION" task="IE">
+<t>Did Banksy Post This Poignant Tribute To Paris Shooting Victims? Probably Not</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="380" entailment="CONTRADICTION" task="IE">
+<t>Banksy's illustrated response to the Charlie Hebdo attack isn't by Banksy. But it is striking</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="381" entailment="CONTRADICTION" task="IE">
+<t>A Bogus Banksy</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="382" entailment="CONTRADICTION" task="IE">
+<t>Banksy Instagram tribute to Charlie Hebdo victims not posted by artist</t>
+<h>Artist Banksy drew a cartoon about the Charlie Hebdo murders</h>
+</pair>
+<pair id="423" entailment="UNKNOWN" task="IE">
+<t>Apple is reportedly shutting down its Beats Music streaming service</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="424" entailment="UNKNOWN" task="IE">
+<t>Apple may end Beats Music brand, to keep subscription streaming service active u</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="425" entailment="UNKNOWN" task="IE">
+<t>Apple Is Shutting Down Beats Music Updated</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="426" entailment="ENTAILMENT" task="IE">
+<t>Apple Killing Beats Music: 5 Fast Facts You Need to Know</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="427" entailment="CONTRADICTION" task="IE">
+<t>Apple's Beats Music Brand May Go Away. Apple's Beats Music Service is Sticking Around.</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="428" entailment="UNKNOWN" task="IE">
+<t>Apple Plans to Phase Out Beats Music Brand</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="429" entailment="ENTAILMENT" task="IE">
+<t>Apple Plans To Shut Down Beats Music</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="430" entailment="UNKNOWN" task="IE">
+<t>Apple is reportedly shutting down Beats Music just three months after picking the company up.</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="431" entailment="UNKNOWN" task="IE">
+<t>Apple Rethinking Beats Music Brand</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="432" entailment="CONTRADICTION" task="IE">
+<t>Apple Denies Report That It Will Shut Down Beats Music</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="433" entailment="UNKNOWN" task="IE">
+<t>Apple to shut down Beats Music: Report</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="434" entailment="CONTRADICTION" task="IE">
+<t>Apple Reportedly Planning to Shut Down Beats Music Update: Not True</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="435" entailment="UNKNOWN" task="IE">
+<t>Apple plans to phase out Beats Music brand, report says</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="436" entailment="CONTRADICTION" task="IE">
+<t>Apple denies it is shutting down Beats Music</t>
+<h>Apple will shutdown Beats Music</h>
+</pair>
+<pair id="755" entailment="CONTRADICTION" task="IE">
+<t>White House denies it threatened families of slain American journalists</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="756" entailment="ENTAILMENT" task="IE">
+<t>The US Threatened To Prosecute Families Of The 2 Murdered Americans If They Paid A Ransom To ISIS</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="757" entailment="ENTAILMENT" task="IE">
+<t>James Foley's mother appalled by U.S. government handling of case</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="758" entailment="UNKNOWN" task="IE">
+<t>Would US sue parents of James Foley? Why White House is Defending Itself</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="759" entailment="ENTAILMENT" task="IE">
+<t>They got in our way: James Foley's brother backs mother attacking Obama administration over failure to save photojournalist before he was beheaded by ISIS</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="760" entailment="UNKNOWN" task="IE">
+<t>White House denies threatening families of James Foley and Steven Sotloff over ISIS ransom but adds we made the law clear to them</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="761" entailment="CONTRADICTION" task="IE">
+<t>White House Chief Of Staff Denis McDonough: No Threats Were Made To Foley, Sotloff Families Over Possible Ransom</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="762" entailment="UNKNOWN" task="IE">
+<t>James Foley's Family Claims Government Threatened Them Over Ransom Payments</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="763" entailment="UNKNOWN" task="IE">
+<t>WH won't say if Foley family was threatened not to pay ransom</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="764" entailment="CONTRADICTION" task="IE">
+<t>US denies it threatened Foley family</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="765" entailment="UNKNOWN" task="IE">
+<t>Foley family says was threatened by U.S. official over ransom: ABC</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="766" entailment="ENTAILMENT" task="IE">
+<t>U.S. Officials Threatened James Foley's Parents With Prosecution Over Ransom</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="767" entailment="ENTAILMENT" task="IE">
+<t>White House Threatened James Foley's Family with Prosecution</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="768" entailment="UNKNOWN" task="IE">
+<t>Parents say they were kept in the dark on attempts to save James Foley</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="769" entailment="ENTAILMENT" task="IE">
+<t>Government threatened Foleys with criminal charges over ransom</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="770" entailment="CONTRADICTION" task="IE">
+<t>WH: We didn't threaten Foley, Sotloff families</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="771" entailment="UNKNOWN" task="IE">
+<t>James Foley family: Obama officials vowed criminal charges if we paid son's ransom</t>
+<h>The US threatened to prosecute the family of slain journalist James Foley</h>
+</pair>
+<pair id="848" entailment="UNKNOWN" task="IE">
+<t>Results: 80 expect the 18-karat gold Apple Watch Edition to cost under 4500, but will it?</t>
+<h>The gold Apple Watch edition will cost under 4,500 USD</h>
+</pair>
+<pair id="1011" entailment="UNKNOWN" task="IE">
+<t>Latest iOS 8 bug reportedly causes unwanted deletion of iCloud Drive documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1012" entailment="ENTAILMENT" task="IE">
+<t>Another huge iOS 8 bug could delete your iCloud Drive files</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1013" entailment="ENTAILMENT" task="IE">
+<t>Nasty iOS 8 Bug Could Erase Your iCloud Drive Documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1014" entailment="ENTAILMENT" task="IE">
+<t>New iOS 8 bug can delete all of your iCloud documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1015" entailment="ENTAILMENT" task="IE">
+<t>A New iOS 8 Bug Can Delete All Of Your iCloud Documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1016" entailment="ENTAILMENT" task="IE">
+<t>iOS 8 bug could delete your iCloud Drive documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1017" entailment="ENTAILMENT" task="IE">
+<t>Don't Reset All Settings in iOS 8 unless you want to lose your iCloud files</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1018" entailment="ENTAILMENT" task="IE">
+<t>Bug in iOS 8's Reset All Settings Option Also Erases iCloud Drive Documents</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1019" entailment="UNKNOWN" task="IE">
+<t>iOS 8 bug reportedly erases iCloud Drive documents when settings are reset</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1020" entailment="UNKNOWN" task="IE">
+<t>Resetting iOS 8 Preferences May Wipe iCloud Files</t>
+<h>Reset All Settings option in iOS 8 deletes iWork files</h>
+</pair>
+<pair id="1049" entailment="ENTAILMENT" task="IE">
+<t>Iraq shoots down 2 UK planes delivering weapons to ISIL</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1050" entailment="UNKNOWN" task="IE">
+<t>Veterans Today reporting Iraqi Army Downs 2 UK Planes Carrying Weapons for ISIL</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1051" entailment="ENTAILMENT" task="IE">
+<t>Iraqi Army Downs 2 UK Planes Carrying Weapons for ISIL</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1052" entailment="ENTAILMENT" task="IE">
+<t>Iraqi Army Downs Two British Planes Carrying Weapons for ISIL Terrorists</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1053" entailment="ENTAILMENT" task="IE">
+<t>IRAQ ACCUSES BRITAIN OF DELIVERING WEAPONS TO ISLAMIC STATE</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1054" entailment="ENTAILMENT" task="IE">
+<t>Iraqi Army Downs 2 UK Planes Carrying Weapons for ISIL</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1055" entailment="ENTAILMENT" task="IE">
+<t>Iraqi Army Downs Two UK Planes Carrying Weapons for ISIS</t>
+<h>The Iraqi army shot down two British planes that were delivering weapons to ISIS</h>
+</pair>
+<pair id="1056" entailment="ENTAILMENT" task="IE">
+<t>Pentagon: 1 weapons bundle seized by militants</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1057" entailment="ENTAILMENT" task="IE">
+<t>ISIS fighters seize weapons airdrop meant for Kurds</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1058" entailment="ENTAILMENT" task="IE">
+<t>U.S. arms airdrop fell into ISIS hands: Pentagon</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1059" entailment="UNKNOWN" task="IE">
+<t>ISIS Claims to Have Intercepted Supplies From U.S. Airdrop</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1060" entailment="UNKNOWN" task="IE">
+<t>Watch: ISIS Claims to Have Captured U.S. Airdropped Weapons</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1061" entailment="UNKNOWN" task="IE">
+<t>Video: Islamic State Claims to Have Captured US Weapons Airdrop Near Kobane</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1062" entailment="UNKNOWN" task="IE">
+<t>ISIS Claims To Have Captured US Airdrop Weapons</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1063" entailment="UNKNOWN" task="IE">
+<t>ISIS: We have our hands on weapons, ammo air-dropped by U.S.</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1064" entailment="ENTAILMENT" task="IE">
+<t>Pentagon: ISIS seized materials airdropped to Kurds</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1065" entailment="ENTAILMENT" task="IE">
+<t>US to investigate video showing ISIS with weapons drop meant for Kurdish fighters</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1066" entailment="ENTAILMENT" task="IE">
+<t>Turkish president says American weapons drop for Kurdish fighters was wrong after supplies end up in the hands of ISIS</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1067" entailment="UNKNOWN" task="IE">
+<t>US probing claims ISIS fighters seized airdropped weapons meant for Kurds</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1068" entailment="ENTAILMENT" task="IE">
+<t>New ISIS Video Shows Militants Seizing Weapons Airdropped By US Near Kobani</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1069" entailment="UNKNOWN" task="IE">
+<t>Isis Syria News: Video Shows US Airdropped Weapons and Grenades Captured by Islamic State</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1070" entailment="ENTAILMENT" task="IE">
+<t>Turkish Leader Says U.S. Airdrop Aided ISIS Militants</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1071" entailment="ENTAILMENT" task="IE">
+<t>IS Fighters Seize Weapons Cache Meant for Kurds</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1072" entailment="ENTAILMENT" task="IE">
+<t>More American Weapons for ISIS</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1073" entailment="ENTAILMENT" task="IE">
+<t>Cold Turkey</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1074" entailment="UNKNOWN" task="IE">
+<t>ISIS Video: America's Air Dropped Weapons Now in Our Hands</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1075" entailment="ENTAILMENT" task="IE">
+<t>Pentagon: ISIS Got U.S. Weapons Package</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1076" entailment="ENTAILMENT" task="IE">
+<t>Isis apparently takes control of US weapons airdrop intended for Kurds</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1077" entailment="UNKNOWN" task="IE">
+<t>U.S. accidentally delivered weapons to the Islamic State by airdrop, militants say</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1078" entailment="ENTAILMENT" task="IE">
+<t>An accidental delivery of arms to the Islamic State and the problem with airdrops</t>
+<h>ISIS captured a U.S. airdrop of weapons intended for Kurdish fighters</h>
+</pair>
+<pair id="1342" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John identified as British man from West London</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1343" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John identified: ISIS killer named as Mohammed Emwazi from West London</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1344" entailment="UNKNOWN" task="IE">
+<t>Media outlets identify Jihadi John</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1345" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John named as London man</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1346" entailment="ENTAILMENT" task="IE">
+<t>ISIS executioner Jihadi John identified as Mohammed Emwazi</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1347" entailment="ENTAILMENT" task="IE">
+<t>ISIS Militant Jihadi John Identified As Young West Londoner</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1348" entailment="UNKNOWN" task="IE">
+<t>UPDATED Jihadi John identified as Mohammed Emwazi of London, reports say</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1349" entailment="ENTAILMENT" task="IE">
+<t>Islamic State killer Jihadi John named as Mohammed Emwazi</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1350" entailment="ENTAILMENT" task="IE">
+<t>We'll only feel closure when there's a bullet between his eyes: Daughter of British hostage beheaded by Jihadi John speaks out as killer is finally unmasked - but how DID he slip through the net?</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1351" entailment="UNKNOWN" task="IE">
+<t>ISIS executioner Jihadi John named by media</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1352" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John UNMASKED: Islamic State killer NAMED as west London graduate Mohammed Emwazi</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1353" entailment="UNKNOWN" task="IE">
+<t>Identity of ISIS terrorist known as Jihadi John reportedly revealed</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1354" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John: Isis fighter named as Mohammed Emwazi from west London</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1355" entailment="ENTAILMENT" task="IE">
+<t>Mohammed Emwazi: Man identified as Isis killer Jihadi John was stopped by MI5 while on safari holiday in Africa in 2010</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1356" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John: Mohammed Emwazi named as masked man behind ISIS beheadings</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1357" entailment="ENTAILMENT" task="IE">
+<t>ISIS Executioner Jihadi John Is Named as Mohammed Emwazi</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1358" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John in ISIS Videos Is Identified as Mohammed Emwazi of London</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1359" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John named as Mohammed Emwazi from London</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1360" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John named as Mohammed Emwazi, from west London</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1361" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John identity revealed as Mohammed Emwazi: live</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1362" entailment="UNKNOWN" task="IE">
+<t>Media reports identify Londoner as Islamic State's Jihadi John</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1363" entailment="UNKNOWN" task="IE">
+<t>Islamic State militant Jihadi John identified by media</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1364" entailment="ENTAILMENT" task="IE">
+<t>Jihadi John: Islamic State killer is identified as Londoner Mohammed Emwazi</t>
+<h>Jihadi John is a Londoner named Mohammed Emwazi</h>
+</pair>
+<pair id="1365" entailment="UNKNOWN" task="IE">
+<t>IS executioner Jihadi John injured in air strike: reports</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1366" entailment="UNKNOWN" task="IE">
+<t>JIHADI JOHN WHO BEHEADED JAMES FOLEY WOUNDED IN US AIRSTRIKE</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1367" entailment="UNKNOWN" task="IE">
+<t>The ISIS Executioner Who Killed 4 Hostages May Have Been Wounded In Airstrikes</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1368" entailment="UNKNOWN" task="IE">
+<t>EXCLUSIVE: Got him Jihadi John is wounded in US airstrike that killed 10 top ISIS commanders at secret bunker meeting in Iraq</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1369" entailment="UNKNOWN" task="IE">
+<t>ISIS executioner Jihadi John reported wounded in air strike UK investigating</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1370" entailment="UNKNOWN" task="IE">
+<t>Jihadi John Injured? ISIS Executioner May Have Been Wounded In US Airstrike: Report</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1371" entailment="ENTAILMENT" task="IE">
+<t>Isis: Masked Executioner Jihadi John Injured in US Led Airstrikes in Iraq</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1372" entailment="UNKNOWN" task="IE">
+<t>British terrorist Jihadi John injured in airstrike close to Syrian border</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1373" entailment="UNKNOWN" task="IE">
+<t>ISIS executioner Jihadi John allegedly wounded by U.S.-led air strike: report</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1374" entailment="UNKNOWN" task="IE">
+<t>UK looking into reports IS beheading suspect wounded</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1375" entailment="UNKNOWN" task="IE">
+<t>Jihadi John reportedly wounded in airstrike</t>
+<h>ISIS fighter Jihadi John was injured in an airstrike</h>
+</pair>
+<pair id="1610" entailment="ENTAILMENT" task="IE">
+<t>Police Looking For A Man That Slaps People When They Sneeze</t>
+<h>A man in England is wanted by police for slapping people who sneeze in public</h>
+</pair>
+<pair id="1611" entailment="ENTAILMENT" task="IE">
+<t>Man who slaps people around the head for sneezing hunted by police</t>
+<h>A man in England is wanted by police for slapping people who sneeze in public</h>
+</pair>
+<pair id="1612" entailment="ENTAILMENT" task="IE">
+<t>This Week In Weird News: Horrible Human Slaps Elderly Woman For Sneezing</t>
+<h>A man in England is wanted by police for slapping people who sneeze in public</h>
+</pair>
+<pair id="1613" entailment="ENTAILMENT" task="IE">
+<t>Police hunting mystery slapper in tweed jacket who attacks people who sneeze in town's high street</t>
+<h>A man in England is wanted by police for slapping people who sneeze in public</h>
+</pair>
+<pair id="1614" entailment="ENTAILMENT" task="IE">
+<t>Police hunt tweed-jacket wearing man who slaps shoppers for SNEEZING</t>
+<h>A man in England is wanted by police for slapping people who sneeze in public</h>
+</pair>
+<pair id="1615" entailment="ENTAILMENT" task="IE">
+<t>Man who SLAPS people if they sneeze in public being hunted by police</t>
+<h>A man in England is wanted by police for slapping people who sneeze in public</h>
+</pair>
+<pair id="1616" entailment="ENTAILMENT" task="IE">
+<t>CARLISLE HEAD SLAPPER ATTACKS SNEEZING WOMEN</t>
+<h>A man in England is wanted by police for slapping people who sneeze in public</h>
+</pair>
+<pair id="1617" entailment="ENTAILMENT" task="IE">
+<t>British Man Slaps People If They Sneeze In Public</t>
+<h>A man in England is wanted by police for slapping people who sneeze in public</h>
+</pair>
+<pair id="1618" entailment="ENTAILMENT" task="IE">
+<t>Mystery man slaps shoppers around head for sneezing</t>
+<h>A man in England is wanted by police for slapping people who sneeze in public</h>
+</pair>
+<pair id="1619" entailment="UNKNOWN" task="IE">
+<t>Was Charles Manson's Fiance Playing Him to Get Custody of His Corpse?</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1620" entailment="UNKNOWN" task="IE">
+<t>Charles Manson's fiancee allegedly wanted to marry him for his corpse</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1621" entailment="UNKNOWN" task="IE">
+<t>Charles Manson's fiancee allegedly wanted to marry him for his corpse</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1622" entailment="UNKNOWN" task="IE">
+<t>Charles Manson's fiance wanted to marry him for his corpse: source</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1623" entailment="UNKNOWN" task="IE">
+<t>Charles Manson's fiancee used him for his ... corpse?</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1624" entailment="UNKNOWN" task="IE">
+<t>BOOK: CHARLES MANSON'S FIANC WANTED MARRIAGE SO SHE COULD DISPLAY HIS CORPSE IN TOURIST ATTRACTION</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1625" entailment="UNKNOWN" task="IE">
+<t>Manson's fiancee wants to put his corpse on display: Report</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1626" entailment="UNKNOWN" task="IE">
+<t>Charles Manson's fiance only wanted to marry him so she could put his corpse on display in a glass coffin after he died</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1627" entailment="UNKNOWN" task="IE">
+<t>Charles Manson wedding off after it emerges that fiancee Afton Elaine Burton just wanted his corpse for display</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1628" entailment="ENTAILMENT" task="IE">
+<t>Charles Manson Wedding Off: Fiancee's Morbid Plan To Exploit His Corpse Emerges</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1629" entailment="UNKNOWN" task="IE">
+<t>Charles Manson wedding off as bride wanted to display his dead body in glass coffin</t>
+<h>Charles Manson's fiance wanted to marry him to obtain custody of his corpse</h>
+</pair>
+<pair id="1731" entailment="ENTAILMENT" task="IE">
+<t>Missing Afghan soldiers taken into custody at Canadian border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1732" entailment="ENTAILMENT" task="IE">
+<t>3 Afghan Soldiers Detained at Canadian Border After Leaving U.S. Base</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1733" entailment="UNKNOWN" task="IE">
+<t>Source: Missing Afghan soldiers at Canadian border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1734" entailment="ENTAILMENT" task="IE">
+<t>Missing Afghan soldiers found at US Canada border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1735" entailment="UNKNOWN" task="IE">
+<t>Sources: Missing Afghan Soldiers May Have Been Found Near Canadian Border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1736" entailment="UNKNOWN" task="IE">
+<t>Source: Three Afghan soldiers located at Canadian border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1737" entailment="UNKNOWN" task="IE">
+<t>Three missing Afghan soldiers caught at Canadian border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1738" entailment="ENTAILMENT" task="IE">
+<t>Three Afghan soldiers who vanished from Massachusetts military base are FOUND trying to cross into Canada</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1739" entailment="ENTAILMENT" task="IE">
+<t>Missing Afghan soldiers found at Canadian border near Niagara Falls</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1740" entailment="ENTAILMENT" task="IE">
+<t>Missing Afghan Soldiers Apprehended Trying To Cross Border Into Canada</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1741" entailment="ENTAILMENT" task="IE">
+<t>Found at Canadian border: 3 Afghan soldiers missing from Cape Cod</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1742" entailment="ENTAILMENT" task="IE">
+<t>Missing Afghani soldiers found trying to cross US border to Canada</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1743" entailment="ENTAILMENT" task="IE">
+<t>Found Missing Afghan Soldiers Caught Trying to Enter Canada</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1744" entailment="ENTAILMENT" task="IE">
+<t>Afghan Soldiers Found at Canadian Border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1745" entailment="ENTAILMENT" task="IE">
+<t>Three Afghan soldiers found at Canada border after leaving Cape Cod base</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1746" entailment="ENTAILMENT" task="IE">
+<t>3 missing Afghan officers detained at Canadian border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1747" entailment="UNKNOWN" task="IE">
+<t>Team 5 source: Missing Afghan soldiers found at Canadian border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1748" entailment="UNKNOWN" task="IE">
+<t>Missing Afghan soldiers found at Canadian border</t>
+<h>Three missing Afghan soldiers were found trying to enter Canada</h>
+</pair>
+<pair id="1861" entailment="CONTRADICTION" task="IE">
+<t>North Korea denies plans to open a restaurant in Scotland</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1862" entailment="ENTAILMENT" task="IE">
+<t>North Korean dictator Kim Jong-Un to open restaurant in Scotland</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1863" entailment="UNKNOWN" task="IE">
+<t>Is Kim Jong-Un Really Opening a Restaurant in Scotland?</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1864" entailment="UNKNOWN" task="IE">
+<t>Could Kim Jong Un open a restaurant in Scotland?</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1865" entailment="UNKNOWN" task="IE">
+<t>Anyone for dog meat soup? Kim Jong-Un considers opening restaurant in Scotland selling North Korean delicacies</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1866" entailment="UNKNOWN" task="IE">
+<t>North Korea dictator Kim Jong-un set to open a new restaurant in SCOTLAND</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1867" entailment="ENTAILMENT" task="IE">
+<t>KIM DINE WITH ME: Porky president Kim Jong-un to open UK restaurant serving DOG</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1868" entailment="ENTAILMENT" task="IE">
+<t>North Korean leader Kim Jong-un to open restaurant in Scotland</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1869" entailment="UNKNOWN" task="IE">
+<t>Is North Korea, world's most secret state, really planning a new restaurant in Scotland?</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1870" entailment="CONTRADICTION" task="IE">
+<t>Kim Jong-Un's Scottish Dog Meat Restaurant Is Probably Fabricated Shite</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1871" entailment="UNKNOWN" task="IE">
+<t>Is Kim Jong-un Opening North Korean Restaurant in Scotland?</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1872" entailment="CONTRADICTION" task="IE">
+<t>North Korea denies reports Kim Jong-un is to open state-backed restaurant in Scotland</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1873" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-un set to open a new restaurant in SCOTLAND</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1874" entailment="ENTAILMENT" task="IE">
+<t>Kim Jong-Un planning Scottish restaurant</t>
+<h>North Korea plans to open a restaurant in Scotland</h>
+</pair>
+<pair id="1891" entailment="ENTAILMENT" task="IE">
+<t>BREAKING: Huge Explosion At Saudi Aramco Oil Pipeline Evokes Conspiracy Theories Photos</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1892" entailment="UNKNOWN" task="IE">
+<t>Oil Futures Jump on Rumored Pipeline Explosion in Saudi Arabia</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1893" entailment="UNKNOWN" task="IE">
+<t>U.S., Brent crude jump on rumor of oil pipeline blast in Saudi Arabia</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1894" entailment="UNKNOWN" task="IE">
+<t>Hearing Unconfirmed Reports of Saudi Pipeline Explosion</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1895" entailment="ENTAILMENT" task="IE">
+<t>Oil spikes on U.S. inventory data, Saudi pipeline blast</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1896" entailment="UNKNOWN" task="IE">
+<t>Heads up oil traders: Big pipeline explosion reported in Saudi Arabia</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1897" entailment="CONTRADICTION" task="IE">
+<t>Saudi oil explosion now said to be diesel pipeline</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1898" entailment="UNKNOWN" task="IE">
+<t>Crude Sees a Bid on Reports of Saudi Arabia Pipeline Explosion</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1899" entailment="ENTAILMENT" task="IE">
+<t>Oil market shrugs off Saudi pipeline blast</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1900" entailment="CONTRADICTION" task="IE">
+<t>Saudi oil pipeline fire under control, security source says</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1901" entailment="ENTAILMENT" task="IE">
+<t>Saudi Stocks, Currency Tumble As Aramco Pipeline Explodes ISIS Sabotage Concerns</t>
+<h>An oil pipeline exploded in Saudi Arabia</h>
+</pair>
+<pair id="1902" entailment="CONTRADICTION" task="IE">
+<t>Loggers have NOT accidentally cut down world's oldest tree</t>
+<h>Loggers cut down the world's oldest tree</h>
+</pair>
+<pair id="1903" entailment="ENTAILMENT" task="IE">
+<t>Loggers Accidentally Cut Down World's Oldest Tree in Amazon Forest</t>
+<h>Loggers cut down the world's oldest tree</h>
+</pair>
+<pair id="1904" entailment="CONTRADICTION" task="IE">
+<t>Fake News Report Claims Loggers Have Cut Down World's Oldest Tree</t>
+<h>Loggers cut down the world's oldest tree</h>
+</pair>
+<pair id="1905" entailment="CONTRADICTION" task="IE">
+<t>No, the world's oldest tree has not been accidentally cut down by loggers in the Amazon</t>
+<h>Loggers cut down the world's oldest tree</h>
+</pair>
+<pair id="2113" entailment="UNKNOWN" task="IE">
+<t>Seth Rogen will play Steve Wozniak in upcoming Steve Jobs film</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2114" entailment="ENTAILMENT" task="IE">
+<t>Seth Rogen to play Steve Wozniak alongside Christian Bale's Steve Jobs</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2115" entailment="ENTAILMENT" task="IE">
+<t>Seth Rogen Is Woz</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2116" entailment="UNKNOWN" task="IE">
+<t>Seth Rogen reportedly nabs Steve Wozniak role in Steve Jobs filmSteve Jobs Iconic Moments</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2117" entailment="UNKNOWN" task="IE">
+<t>Seth Rogen reported to play Woz in the upcoming Steve Jobs movie</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2118" entailment="ENTAILMENT" task="IE">
+<t>Seth Rogen to Play Apple Co-Founder Wozniak in Steve Jobs Biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2119" entailment="ENTAILMENT" task="IE">
+<t>Seth Rogen To Play Steve Wozniak In Steve Jobs Biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2120" entailment="ENTAILMENT" task="IE">
+<t>Seth Rogen to play Woz in Jobs biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2121" entailment="UNKNOWN" task="IE">
+<t>Return of the Mac: Seth Rogen in talks to star as Apple co-founder Steve Wozniak in upcoming Steve Jobs biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2122" entailment="UNKNOWN" task="IE">
+<t>Steve Jobs Biopic Eyes Seth Rogen to Play Apple Co-Founder Steve Wozniak</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2123" entailment="ENTAILMENT" task="IE">
+<t>Seth Rogen to Star as Steve Wozniak in Sony's Steve Jobs Biopic Updated</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2124" entailment="UNKNOWN" task="IE">
+<t>Rumor: Seth Rogen to Appear as Woz in Sony's Steve Jobs Film</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2125" entailment="ENTAILMENT" task="IE">
+<t>Seth Rogen to Play Apple's Steve Wozniak</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2126" entailment="ENTAILMENT" task="IE">
+<t>Seth Rogen set to play Steve Wozniak in Danny Boyle's Steve Jobs biopic</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2127" entailment="UNKNOWN" task="IE">
+<t>Seth Rogen may play Steve Wozniak alongside Christian Bale as Steve Jobs</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2128" entailment="UNKNOWN" task="IE">
+<t>Seth Rogen Eyed to Play Apple's Steve Wozniak in Christian Bale's Steve Jobs Movie Exclusive</t>
+<h>Seth Rogen will play Steve Wozniak in a film about Steve Jobs</h>
+</pair>
+<pair id="2216" entailment="ENTAILMENT" task="IE">
+<t>Kurt Sutter Announces Plans For Sons Of Anarchy Movie Starring Charlie Hunnam, Brad Pitt</t>
+<h>There will be a Sons of Anarchy film</h>
+</pair>
+<pair id="2217" entailment="CONTRADICTION" task="IE">
+<t>Sons of Anarchy Movie Hoax: Kurt Sutter Announces Charlie Hunnam, Brad Pitt Film Article is Totally Fake</t>
+<h>There will be a Sons of Anarchy film</h>
+</pair>
+<pair id="2351" entailment="ENTAILMENT" task="IE">
+<t>NEWS Meet the Teletubbies Sun Baby: 19-Year-Old Jess Smith Reveals Herself as the Smiling Face Who Looked Over Teletubbyland</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2352" entailment="ENTAILMENT" task="IE">
+<t>Teletubbies Sun Baby: Fans Freak Out Over Jess Smith, 19</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2353" entailment="UNKNOWN" task="IE">
+<t>PopWatch Teenager fights for the right to be recognized as Teletubbies smiling sun-baby</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2354" entailment="UNKNOWN" task="IE">
+<t>Meet The College Student Who Claims She Was The Teletubbies Sun Baby</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2355" entailment="ENTAILMENT" task="IE">
+<t>It was me Student, 19, reveals SHE was the Teletubbies giggling baby in the sky - and was paid just 250 and a box of toys</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2356" entailment="UNKNOWN" task="IE">
+<t>This College Student Claims She Was The Teletubbies Sun Baby</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2357" entailment="ENTAILMENT" task="IE">
+<t>Canterbury Christ Church University student Jess Smith, from Chatham, starred as Teletubbies sun</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2358" entailment="ENTAILMENT" task="IE">
+<t>Say eh-oh to the Teletubbies SUN BABY - can you still recognise her after 19 years?</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2359" entailment="ENTAILMENT" task="IE">
+<t>This Is What The Sun Baby From Teletubbies Looks Like Now</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2360" entailment="ENTAILMENT" task="IE">
+<t>The baby from Teletubbies reveals herself</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2361" entailment="UNKNOWN" task="IE">
+<t>Jess Smith, 19, Claims She Was Teletubbies Giggling Baby: What Did She Get Paid?</t>
+<h>Jess Smith of Chatham, Kent was the smiling sun baby in the Teletubbies TV show</h>
+</pair>
+<pair id="2362" entailment="UNKNOWN" task="IE">
+<t>Tesla will build its Gigafactory in Nevada, not Texas</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2363" entailment="ENTAILMENT" task="IE">
+<t>Tesla to Choose Nevada for Battery Factory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2364" entailment="ENTAILMENT" task="IE">
+<t>Tesla choosing Nevada for battery factory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2365" entailment="UNKNOWN" task="IE">
+<t>Tesla Said to Select Nevada for Its First Battery Site</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2366" entailment="UNKNOWN" task="IE">
+<t>Tesla Chooses Nevada For Site Of Its Massive Battery Factory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2367" entailment="UNKNOWN" task="IE">
+<t>Tesla chooses Nevada for battery factory: Sources</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2368" entailment="ENTAILMENT" task="IE">
+<t>Tesla Motors set to choose Nevada for its gigafactory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2369" entailment="ENTAILMENT" task="IE">
+<t>Gigafactory location: Tesla Motors confirms Nevada announcement Thursday</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2370" entailment="UNKNOWN" task="IE">
+<t>Tesla chooses Nevada for new battery factory plant</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2371" entailment="UNKNOWN" task="IE">
+<t>Tesla settles on Nevada for gigafactory site -CNBC</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2372" entailment="ENTAILMENT" task="IE">
+<t>Tesla picks Nevada for battery Gigafactory</t>
+<h>Tesla is building its gigfactory in Nevada</h>
+</pair>
+<pair id="2500" entailment="ENTAILMENT" task="IE">
+<t>Vogue's Anna Wintour Pissed Off With New 1 World Trade Center Offices, Infested With Rats</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2501" entailment="ENTAILMENT" task="IE">
+<t>Vogue's Rat Infestation: Disturbing New Details</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2502" entailment="ENTAILMENT" task="IE">
+<t>Vogue's Shiny New Office Has a Big Rat Problem</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2503" entailment="ENTAILMENT" task="IE">
+<t>Now the Vogue Rats Are Chewing Through Couture</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2504" entailment="UNKNOWN" task="IE">
+<t>So, There Might Be a Rat Infestation at Vogue</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2505" entailment="ENTAILMENT" task="IE">
+<t>WTC rats scare off Anna Wintour</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2506" entailment="ENTAILMENT" task="IE">
+<t>Rats are still running around at Vogue</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2507" entailment="ENTAILMENT" task="IE">
+<t>In Vogue vs Rats War, the Rats Are Winning</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2508" entailment="ENTAILMENT" task="IE">
+<t>Kimye's Fault? Anna Wintour's NYC Vogue Offices Hit With Disgusting Rat Infestation: Rat Droppings On Desks</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2509" entailment="UNKNOWN" task="IE">
+<t>They ate through the ceilings and pooped on the keyboards: Rats are taking over Vogue's new World Trade Center office and Anna Wintour no longer wants to work there</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2510" entailment="UNKNOWN" task="IE">
+<t>Anna Wintour refuses to work at new World Trade Center Vogue office due to rat infestation</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2511" entailment="UNKNOWN" task="IE">
+<t>Eye-catching Rare sighting of Anna Wintour without her trademark sunglasses as she leaves rat-infested Vogue office</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2512" entailment="UNKNOWN" task="IE">
+<t>Vogue's new digs are reportedly swarming with rats</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2513" entailment="ENTAILMENT" task="IE">
+<t>Conde Nast's rat problem at One World Trade Centre: From red carpets to rodent droppings</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2514" entailment="ENTAILMENT" task="IE">
+<t>Anna Wintour: Is Rat Infestation At NYC Vogue Office Kim Kardashian's Fault?</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2515" entailment="ENTAILMENT" task="IE">
+<t>Rats at Vogue's NYC offices - watch your step, Anna Wintour</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2516" entailment="ENTAILMENT" task="IE">
+<t>Rat problem worsens at One World Trade Center offices of Conde Nast</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2517" entailment="UNKNOWN" task="IE">
+<t>Does Vogue's New Office Have a Rat Infestation?</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2518" entailment="ENTAILMENT" task="IE">
+<t>It's Okay To Laugh About The Fact That The Vogue Rat Infestation is Getting Worse</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+<pair id="2519" entailment="ENTAILMENT" task="IE">
+<t>The rats eat Prada at Vogue NY office</t>
+<h>Vogue magazine's new offices are infested with rats</h>
+</pair>
+</entailment-corpus>

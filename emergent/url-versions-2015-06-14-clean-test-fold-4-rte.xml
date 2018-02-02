@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="9" entailment="UNKNOWN" task="IE">
+<t>UBS survey finds 10 of consumers want a smartwatch, expects 24M Apple Watch sales in fiscal 2015</t>
+<h>Apple will sell 24 million Apple Watches in the first nine months</h>
+</pair>
+<pair id="10" entailment="UNKNOWN" task="IE">
+<t>10 of Consumers Very Likely to Buy a Smartwatch in 2015, Suggesting 24M Apple Watches</t>
+<h>Apple will sell 24 million Apple Watches in the first nine months</h>
+</pair>
+<pair id="175" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch: Release well initially only in Apple Stores</t>
+<h>Apple Watch will only be sold in Apple Stores at launch</h>
+</pair>
+<pair id="176" entailment="ENTAILMENT" task="IE">
+<t>If you want an Apple Watch, you'll probably be trekking to an Apple Store</t>
+<h>Apple Watch will only be sold in Apple Stores at launch</h>
+</pair>
+<pair id="199" entailment="UNKNOWN" task="IE">
+<t>Report claims steel Apple Watch to start at 500, gold model between 4-5K</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="200" entailment="UNKNOWN" task="IE">
+<t>Rumor: Gold Apple Watch Edition priced up to 5,000, steel version at 500, will debut on Feb. 14</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="201" entailment="UNKNOWN" task="IE">
+<t>Rumor: Stainless Steel Apple Watch Will Cost 500, Gold 4,000</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="202" entailment="UNKNOWN" task="IE">
+<t>Apple Watch to start at 500 in stainless steel, thousands for gold model</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="203" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Stainless Steel variant reportedly priced at 500, 4,000 for the gold variant</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="204" entailment="UNKNOWN" task="IE">
+<t>Stainless steel Apple Watch could cost just 499, but gold will be 10 times as pricey</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="205" entailment="UNKNOWN" task="IE">
+<t>Info iGen: 500 for Apple Watch, February 14?</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="206" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Pricing to Reportedly Start at 500 for Stainless Steel, 4,000 for Gold</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="207" entailment="UNKNOWN" task="IE">
+<t>Stainless steel Apple Watch will be priced 500, gold at 5,000</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="208" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch pricing: Will you spend 5000 for Gold edition, 500 for stainless steel?</t>
+<h>The gold Apple Watch Edition will cost between 4,000 and 5,000 USD</h>
+</pair>
+<pair id="273" entailment="UNKNOWN" task="IE">
+<t>Will Apple hit a Valentine's Day 2015 target for the Apple Watch's release?</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="274" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Likely Be Launched On Valentine's Day Plus First Apple Watch Accessory To Be Showcased In CES 2015</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="275" entailment="UNKNOWN" task="IE">
+<t>Your Apple Watch might be ready just in time for Valentine's Day</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="276" entailment="UNKNOWN" task="IE">
+<t>Rumor: Apple Watch Production Gearing Up For Valentine's Day Release With High Prices</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="277" entailment="UNKNOWN" task="IE">
+<t>Valentine's Day 2015 May Be The Apple Watch Release Target</t>
+<h>The Apple Watch will ship for Valentine's Day</h>
+</pair>
+<pair id="360" entailment="CONTRADICTION" task="IE">
+<t>No, Banksy has not been arrested sigh</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="361" entailment="ENTAILMENT" task="IE">
+<t>Graffiti Artist Banksy Arrested In London Identity Revealed</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="362" entailment="CONTRADICTION" task="IE">
+<t>Everybody Relax, Banksy Wasn't Arrested And Exposed As A 35-Year-Old Man</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="363" entailment="UNKNOWN" task="IE">
+<t>Street Artist BANKSY Arrested? Again?</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="364" entailment="CONTRADICTION" task="IE">
+<t>A Bunch Of People Thought Banksy Got Arrested But It Was A Hoax</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="365" entailment="CONTRADICTION" task="IE">
+<t>Everyone chill Banksy has NOT been arrested</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="366" entailment="CONTRADICTION" task="IE">
+<t>Met police denies reports of Banksy arrest</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="367" entailment="CONTRADICTION" task="IE">
+<t>Once Again, The Banksy Arrest Is A Giant Hoax. Repeat: A Hoax.</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="368" entailment="CONTRADICTION" task="IE">
+<t>Banksy Arrested Real Identity Revealed Is The Same Hoax From Last Year</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="369" entailment="CONTRADICTION" task="IE">
+<t>Hoax Banksy Arrested in London Story Dupes the Internet Again</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="370" entailment="CONTRADICTION" task="IE">
+<t>Banksy not arrested: Internet duped by fake report claiming artist's identity revealed</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="371" entailment="CONTRADICTION" task="IE">
+<t>No, Banksy hasn't been arrested</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="372" entailment="CONTRADICTION" task="IE">
+<t>Calm down everyone, Banksy hasn't been arrested: 9 clues that it's a hoax</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="373" entailment="CONTRADICTION" task="IE">
+<t>Banksy arrest hoax: US website claims street artist caught in Watford</t>
+<h>Anonymous street artist Banksy was arrested</h>
+</pair>
+<pair id="478" entailment="ENTAILMENT" task="IE">
+<t>Russians Bag Better Bigfoot Footage</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="479" entailment="UNKNOWN" task="IE">
+<t>According to some Russians this dark figure stumbling through the snowy woods is a Yeti - and they even have a footprint. Hmmmmm</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="480" entailment="UNKNOWN" task="IE">
+<t>Bigfoot Strolls Through A Russian Forest -- At Least That's The Claim VIDEO</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="481" entailment="UNKNOWN" task="IE">
+<t>Russian Yeti Or Bigfoot Hoax? New Footage Sparks Debate</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="482" entailment="UNKNOWN" task="IE">
+<t>Is this proof of bigfoot? New yeti video shows giant hairy beast walking through forest</t>
+<h>A video of bigfoot was shot in southwestern Russia</h>
+</pair>
+<pair id="527" entailment="UNKNOWN" task="IE">
+<t>Source: Tom Brokaw Wants Brian Williams Fired</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="528" entailment="ENTAILMENT" task="IE">
+<t>Tom Brokaw wants Brian Williams fired</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="529" entailment="UNKNOWN" task="IE">
+<t>Tom Brokaw wants Brian Williams out: NBC legend furious at Iraq war lie, as it's claimed executives warned anchor to stop exaggerating the story in the past</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="530" entailment="ENTAILMENT" task="IE">
+<t>NBC's Tom Brokaw reportedly wants Brian Williams fired over fabricated Iraq helicopter story</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="531" entailment="UNKNOWN" task="IE">
+<t>Tom Brokaw Wants Brian Williams Fired Over Iraq Helicopter Story: Report</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="532" entailment="UNKNOWN" task="IE">
+<t>Tom Brokaw Wants Brian Williams Fired</t>
+<h>Tom Brokaw wants Brian Williams fired</h>
+</pair>
+<pair id="616" entailment="UNKNOWN" task="IE">
+<t>50 foot crab : Is this a Crabzilla spotted in the UK?</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="617" entailment="UNKNOWN" task="IE">
+<t>Crabzilla a 50-foot colossal conundrum</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="618" entailment="UNKNOWN" task="IE">
+<t>Could Crabzilla, a 50-foot-long crab be real?</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="619" entailment="UNKNOWN" task="IE">
+<t>The papers: Pension reforms - and crabzilla</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="620" entailment="CONTRADICTION" task="IE">
+<t>The Whole Internet Is Waiting For This Pic Of A Monster 50-Foot Crab To Be Declared A Hoax</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="621" entailment="UNKNOWN" task="IE">
+<t>Crabzilla Photo appears to show giant CRAB measuring at least 50ft across lurking in the waters off Whitstable</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="622" entailment="CONTRADICTION" task="IE">
+<t>Is Crabzilla real or not? Leading marine biologist rules picture of giant crab lurking in shallow waters must be a HOAX</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="623" entailment="UNKNOWN" task="IE">
+<t>Is this Crabzilla? Giant crab measuring 50ft spotted off British coast</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="624" entailment="UNKNOWN" task="IE">
+<t>Crabzilla or Crapzilla -- You Decide</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="625" entailment="ENTAILMENT" task="IE">
+<t>Crabzilla Satellite Picture Reveals Giant Crustacean Lurking Off The Coast Of Whitstable</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="626" entailment="CONTRADICTION" task="IE">
+<t>Five reasons Crabzilla is definitely not real</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="627" entailment="UNKNOWN" task="IE">
+<t>Crabzilla: Photo Appears To Show Giant, 50-Foot Crab Lurking In British Waters</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="628" entailment="UNKNOWN" task="IE">
+<t>Mystery of 50ft giant crab caught on camera in Kent harbour</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="629" entailment="ENTAILMENT" task="IE">
+<t>50ft crustacean, dubbed Crabzilla, photographed lurking beneath the waters in Whitstable</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="630" entailment="UNKNOWN" task="IE">
+<t>Crabzilla artist Quinton Winter reveals all after image of crab off Whitstable appeared at Horsebridge Centre</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="631" entailment="ENTAILMENT" task="IE">
+<t>Mystery of 50ft giant crab caught on camera yards from British harbour</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="632" entailment="ENTAILMENT" task="IE">
+<t>Crabzilla spotted off the coast of Britain</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="633" entailment="UNKNOWN" task="IE">
+<t>Is this Crabzilla? Giant Monster Crab Caught on Camera</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="634" entailment="UNKNOWN" task="IE">
+<t>Crabzilla</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="635" entailment="UNKNOWN" task="IE">
+<t>Is this a Crabzilla spotted in the UK? Monster crab measures about 50 feet</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="636" entailment="ENTAILMENT" task="IE">
+<t>Giant Crab</t>
+<h>A 50-foot crab was photographed in the U.K.</h>
+</pair>
+<pair id="645" entailment="UNKNOWN" task="IE">
+<t>Apple rumored to further enhance personalization of Apple Watch with custom engravings</t>
+<h>Apple will offer custom engraving on the Apple Watch</h>
+</pair>
+<pair id="646" entailment="UNKNOWN" task="IE">
+<t>APPLE WATCH: THE ENGRAVING MAY ALSO BE PART OF THE SHOW</t>
+<h>Apple will offer custom engraving on the Apple Watch</h>
+</pair>
+<pair id="807" entailment="CONTRADICTION" task="IE">
+<t>YPG Confirms: Gill Rosenberg Not Captured in Kobani</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="808" entailment="CONTRADICTION" task="IE">
+<t>Canadian-Israeli Woman Says She Hasn't Been Captured By ISIS</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="809" entailment="UNKNOWN" task="IE">
+<t>Gill Rosenberg, Canadian citizen, reportedly captured by ISIS in Syria</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="810" entailment="CONTRADICTION" task="IE">
+<t>Canadian woman captured by ISIS in Syria says she is actually fine and still fighting the jihadists, despite kidnap reports</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="811" entailment="CONTRADICTION" task="IE">
+<t>Israeli Canadian fighting ISIS posts on Facebook: I'm safe and secure</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="812" entailment="UNKNOWN" task="IE">
+<t>Unconfirmed reports claim Canadian-Israeli Gill Rosenberg captured by ISIS</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="813" entailment="UNKNOWN" task="IE">
+<t>Canadian-Israeli Woman May Have Been Captured In Syria: Reports</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="814" entailment="CONTRADICTION" task="IE">
+<t>Gill Rosenberg, Canadian-Israeli Woman Feared Kidnapped By ISIS, Says She's Safe</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="815" entailment="UNKNOWN" task="IE">
+<t>ISIS Claims It Kidnapped Gill Rosenberg, The First Western Woman To Fall Into The Group's Hands</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="816" entailment="CONTRADICTION" task="IE">
+<t>Israeli-Canadian Woman Captured By ISIS Says She Is Safe And Secure</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="817" entailment="UNKNOWN" task="IE">
+<t>No hard evidence of Isis claims it kidnapped Canadian-Israeli woman Gill Rosenberg</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="818" entailment="CONTRADICTION" task="IE">
+<t>Kurds Deny Gill Rosenberg was in Kobane</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="819" entailment="UNKNOWN" task="IE">
+<t>Gill Rosenberg, former IDF soldier, possibly captured by ISIS while fighting with Kurds</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="820" entailment="UNKNOWN" task="IE">
+<t>ISIS kidnaps Canadian-Israeli, former IDF soldier who went to fight with the Kurds</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="821" entailment="CONTRADICTION" task="IE">
+<t>YPG Confirms: Gill Rosenberg Not Captured in Kobani</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="822" entailment="ENTAILMENT" task="IE">
+<t>BREAKING Gill Rosenberg former IDF soldier was captured by ISIS</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="823" entailment="UNKNOWN" task="IE">
+<t>Canadian-Israeli woman reportedly kidnapped by ISIS: Jerusalem Post</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="824" entailment="UNKNOWN" task="IE">
+<t>Ottawa investigating reports that IS has captured a Canadian-Israeli woman</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="825" entailment="UNKNOWN" task="IE">
+<t>Ottawa investigates reports that Isis has captured Canadian-Israeli woman</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="826" entailment="UNKNOWN" task="IE">
+<t>Female Israeli fighter said abducted by Islamic State Read more: Female Israeli fighter said abducted by Islamic State</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="827" entailment="UNKNOWN" task="IE">
+<t>Conflicting reports on alleged IS capture of Canadian woman</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="828" entailment="UNKNOWN" task="IE">
+<t>Israeli-Canadian woman fighting Islamic State has been kidnapped by terror group</t>
+<h>Canadian-Israeli Gill Rosenberg captured by ISIS while fighting with Kurdish forces</h>
+</pair>
+<pair id="857" entailment="UNKNOWN" task="IE">
+<t>Gold Apple Watch Edition price? Speculators say at least 10,000</t>
+<h>The gold Apple Watch Edition will cost 9,999 USD</h>
+</pair>
+<pair id="911" entailment="ENTAILMENT" task="IE">
+<t>NEWS You'll Never Guess How a Homeless Man Spent 100Watch the Touching Video</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="912" entailment="CONTRADICTION" task="IE">
+<t>Eyewitness: Viral Video That Netted 130K in Donations is Bullshit</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="913" entailment="CONTRADICTION" task="IE">
+<t>Was Heart-Tugging Viral Video Of Generous Homeless Man All A Hoax?</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="914" entailment="ENTAILMENT" task="IE">
+<t>What This Homeless Guy Did With 100 Completely Stunned The Man Who Gave It To Him</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="915" entailment="ENTAILMENT" task="IE">
+<t>This Selfless Homeless Man Receives 100 Doesn't Spend A Dime On Himself</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="916" entailment="CONTRADICTION" task="IE">
+<t>Was The Video Of That Homeless Man Doing Good Deeds With 100 All An Elaborate Hoax?</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="917" entailment="UNKNOWN" task="IE">
+<t>Homeless man who became a YouTube sensation after spending 100 on food for his beggar friends gets a surprise Christmas meal, makeover and night in a hotel in new video... but is it all a hoax by a serial prankster'?</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="918" entailment="UNKNOWN" task="IE">
+<t>Homeless man who received a meal and hotel stay after spending 100 donation on food for friends insists it was NOT a hoax despite new witness insisting there was no way he could have been secretly filmed</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="919" entailment="ENTAILMENT" task="IE">
+<t>Prankster Gives Homeless Man 100, Secretly Follows Him And Learns He Buys Food For Others</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="920" entailment="ENTAILMENT" task="IE">
+<t>Josh Paler Lin Gives A Homeless Man 100 And Follows Him To See How He Spends It</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="921" entailment="ENTAILMENT" task="IE">
+<t>See How This Homeless Man Spends A Hundred Dollars, And Keep A Tissue Handy Video</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="922" entailment="CONTRADICTION" task="IE">
+<t>Viral Video Of Homeless Man Spending 100 On Food For Other Homeless Was Faked, Witness Says</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="923" entailment="ENTAILMENT" task="IE">
+<t>Give a homeless man 100 and see what he does with it Video</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="924" entailment="ENTAILMENT" task="IE">
+<t>SEE IT: California homeless man uses 100 gift to give food to others</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="925" entailment="ENTAILMENT" task="IE">
+<t>What One Homeless Man Does with 100 Will Astonish You VIDEO</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="926" entailment="ENTAILMENT" task="IE">
+<t>Homeless man receives 100... then shocks everyone with how he spends it</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="927" entailment="ENTAILMENT" task="IE">
+<t>After Giving A Homeless Man 100, This Guy Secretly Filmed Him...</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="928" entailment="CONTRADICTION" task="IE">
+<t>Did Josh Paler Lin Stage His Viral Video About Helping the Homeless?</t>
+<h>YouTube star Josh Paler Lin gave a homeless man 100 and filmed how he spent it without the man's knowledge</h>
+</pair>
+<pair id="1098" entailment="UNKNOWN" task="IE">
+<t>ISIS Claims Female American Hostage, Kayla Mueller, Killed in Airstrike</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1099" entailment="UNKNOWN" task="IE">
+<t>Purported ISIS claim: Jordan airstrike kills female US hostage</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1100" entailment="UNKNOWN" task="IE">
+<t>Jordanian airstrike killed American aid worker held hostage by ISIS according to statement by militants</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1101" entailment="UNKNOWN" task="IE">
+<t>Kayla Jean Mueller, U.S. hostage, killed in Jordan airstrike, ISIS claims</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1102" entailment="UNKNOWN" task="IE">
+<t>ISIS claims that female American aid worker who has been held hostage for 18 months has died in Jordanian air strike - but minister insists it's a PR stunt by jihadis</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1103" entailment="UNKNOWN" task="IE">
+<t>Isis claims US hostage Kayla Mueller killed in coalition airstrike</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1104" entailment="UNKNOWN" task="IE">
+<t>Unconfirmed: ISIS Claims Kayla Mueller, American Female Hostage, Is Dead</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1105" entailment="UNKNOWN" task="IE">
+<t>ISIS Claims an American Hostage, Kayla Mueller, Died in Airstrike in Syria</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1106" entailment="UNKNOWN" task="IE">
+<t>Isis supporters claim US hostage killed in Jordanian air strike in Syria</t>
+<h>American hostage Kayla Mueller was killed in a coalition bombing campaign against ISIS</h>
+</pair>
+<pair id="1107" entailment="ENTAILMENT" task="IE">
+<t>IS Beheads Briton David Cawthorne Haines, Threatens to Execute Another Briton, Alan Henning</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1108" entailment="UNKNOWN" task="IE">
+<t>Unverified video shows beheading of aid worker David Haines</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1109" entailment="ENTAILMENT" task="IE">
+<t>Hostage David Haines Murder Evil, PM Says</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1110" entailment="ENTAILMENT" task="IE">
+<t>British Aid Worker Confirmed Murdered By ISIS</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1111" entailment="UNKNOWN" task="IE">
+<t>ISIS Video Claims to Show Beheading of British Hostage</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1112" entailment="ENTAILMENT" task="IE">
+<t>Cameron vows to hunt down IS monsters after Haines murder</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1113" entailment="ENTAILMENT" task="IE">
+<t>David Haines Beheaded By ISIS, Execution Video Contains Threats Against UK: Reports</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1114" entailment="UNKNOWN" task="IE">
+<t>ISIS video showing beheading triggers international response</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1115" entailment="UNKNOWN" task="IE">
+<t>ISIS Extremists Claim to Behead British Hostage David Haines</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1116" entailment="UNKNOWN" task="IE">
+<t>ISIS Video Purports To Show Beheading Of British Aid Worker</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1117" entailment="ENTAILMENT" task="IE">
+<t>ISIS Video Shows Execution of David Cawthorne Haines, British Aid Worker</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1118" entailment="ENTAILMENT" task="IE">
+<t>British hostage David Haines beheaded by Islamic State terrorists</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1119" entailment="UNKNOWN" task="IE">
+<t>Isis video claims to show beheading of British hostage David Haines</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1120" entailment="ENTAILMENT" task="IE">
+<t>British aid worker David Haines beheaded by ISIL</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1121" entailment="UNKNOWN" task="IE">
+<t>Unconfirmed reports saying ISIS UK Hostage David Haines Beheaded</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1122" entailment="ENTAILMENT" task="IE">
+<t>David Haines beheading video confirmed genuine UK PM Cameron vows to hunt down ISIS monsters</t>
+<h>ISIS beheaded British aid worker Daivd Haines</h>
+</pair>
+<pair id="1470" entailment="UNKNOWN" task="IE">
+<t>Jordan Vs ISIS: Reports Say King Abdullah II Could Personally Lead Airstrikes After Pilot's Death</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1471" entailment="UNKNOWN" task="IE">
+<t>Jordan's King May Participate Personally In ISIS Raids</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1472" entailment="ENTAILMENT" task="IE">
+<t>Jordan king cites Clint Eastwood in revenge vow</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1473" entailment="UNKNOWN" task="IE">
+<t>JORDANIAN KING PERSONALLY FLYING SORTIES AGAINST ISIS</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1474" entailment="CONTRADICTION" task="IE">
+<t>Jordan's King Abdullah Did Not Personally Fly Airstrikes On ISIS</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1475" entailment="UNKNOWN" task="IE">
+<t>Will King of Jordan lead airstrikes on ISIS HIMSELF? Reports say trained pilot plans to take part in attack after quoting Clint Eastwood's Unforgiven to Congressmen</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1476" entailment="CONTRADICTION" task="IE">
+<t>No, Jordan's King Abdullah II is not personally flying planes against Isis</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1477" entailment="CONTRADICTION" task="IE">
+<t>Rumors of King Abdullah Flying in Airstrikes Not True, Fox Excited Anyway</t>
+<h>Jordan's King Abdullah II will participate in air strikes against ISIS</h>
+</pair>
+<pair id="1478" entailment="ENTAILMENT" task="IE">
+<t>Korean Housewife's Hair Sucked Up into Robot Vacuum</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1479" entailment="ENTAILMENT" task="IE">
+<t>Robot vacuum cleaner ate a woman's hair Google Translate</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1480" entailment="ENTAILMENT" task="IE">
+<t>South Korean Woman's Hair Eaten By Robot Vacuum Cleaner</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1481" entailment="ENTAILMENT" task="IE">
+<t>South Korean woman freed by firefighters after robot vacuum cleaner eats her hair as she sleeps</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1482" entailment="ENTAILMENT" task="IE">
+<t>Robot vacuum cleaner attacks South Korea housewife's hair</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1483" entailment="ENTAILMENT" task="IE">
+<t>South Korean woman's hair eaten by robot vacuum cleaner as she slept</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1484" entailment="ENTAILMENT" task="IE">
+<t>Robot vacuum cleaner EATS WOMAN</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1485" entailment="ENTAILMENT" task="IE">
+<t>Korean housewife attacked by robot vacuum cleaner</t>
+<h>A South Korean woman's hair was accidentally eaten by a robot vacuum cleaner</h>
+</pair>
+<pair id="1553" entailment="ENTAILMENT" task="IE">
+<t>McDonald's Will Stop Serving Overweight Customers Beginning 1115</t>
+<h>McDonald's will stop serving overweight customers</h>
+</pair>
+<pair id="1554" entailment="CONTRADICTION" task="IE">
+<t>Fake-News: McDonald's Will Stop Serving Overweight Customers</t>
+<h>McDonald's will stop serving overweight customers</h>
+</pair>
+<pair id="1555" entailment="ENTAILMENT" task="IE">
+<t>MCDONALD'S WILL STOP SERVING OVERWEIGHT CUSTOMERS BEGINNING 1115</t>
+<h>McDonald's will stop serving overweight customers</h>
+</pair>
+<pair id="1556" entailment="CONTRADICTION" task="IE">
+<t>McDonald's to Stop Serving Overweight Customers in January? Nope, 1152015 Story is Fake</t>
+<h>McDonald's will stop serving overweight customers</h>
+</pair>
+<pair id="1642" entailment="CONTRADICTION" task="IE">
+<t>Fox News Floats BS Story About Fleeing Marines Giving Rebels Their Guns</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1643" entailment="UNKNOWN" task="IE">
+<t>MARINES ORDERED BY STATE DEPT TO SURRENDER WEAPONS IN US EMBASSY EVAC IN YEMEN</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1644" entailment="UNKNOWN" task="IE">
+<t>Official: Houthis take U.S. vehicles, weapons in Yemen</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1645" entailment="UNKNOWN" task="IE">
+<t>Pete Hegseth: Marines Exit Yemen Forced to Surrender Dignity, Weapons</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1646" entailment="ENTAILMENT" task="IE">
+<t>Yemen's Houthi rebels seize U.S. Marines weapons at airport</t>
+<h>The final Marines to leave the U.S. embassy in Yemen handed their weapons over to Houthi rebels</h>
+</pair>
+<pair id="1793" entailment="UNKNOWN" task="IE">
+<t>NHL expansion to include Toronto, Quebec City, Seattle and Las Vegas: Report</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1794" entailment="UNKNOWN" task="IE">
+<t>Four new NHL expansion teams? Vegas, Seattle, Toronto and Quebec by 2017: Report</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1795" entailment="UNKNOWN" task="IE">
+<t>NHL expansion plans in the works: reports</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1796" entailment="UNKNOWN" task="IE">
+<t>NHL expansion could include Las Vegas, others</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1797" entailment="CONTRADICTION" task="IE">
+<t>NHL expansion ahead? No, says Gary Bettman</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1798" entailment="CONTRADICTION" task="IE">
+<t>Bettman says NHL expansion not imminent</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1799" entailment="CONTRADICTION" task="IE">
+<t>NHL Expansion Plan Report Is Complete Fabrication: Bettman</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1800" entailment="UNKNOWN" task="IE">
+<t>Toronto, Seattle, Quebec City to join Vegas in 2017 NHL expansion</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1801" entailment="UNKNOWN" task="IE">
+<t>NHL expansion rumors: This time, Las Vegas is about to get a team</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1802" entailment="CONTRADICTION" task="IE">
+<t>NHL denies Las Vegas expansion report</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1803" entailment="ENTAILMENT" task="IE">
+<t>Gallagher: Bettman has changed his tune on NHL expansion</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1804" entailment="UNKNOWN" task="IE">
+<t>NHL expansion to Las Vegas a done deal</t>
+<h>The NHL will announce an expansion to Las Vegas in 2014</h>
+</pair>
+<pair id="1963" entailment="UNKNOWN" task="IE">
+<t>NASA: Planetary Alignment On Jan 4, 2015 Will Decrease Gravity For 5 Minutes Causing Partial Weightlessness???</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1964" entailment="ENTAILMENT" task="IE">
+<t>Planetary Alignment On Jan 4, 2015 Will Decrease Gravity For 5 Minutes Causing Partial Weightlessness</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1965" entailment="CONTRADICTION" task="IE">
+<t>You're Not Going to Become Weightless on January 4th</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1966" entailment="CONTRADICTION" task="IE">
+<t>No, a Planetary Alignment on Jan. 4, 2015, Won't Decrease Gravity</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1967" entailment="CONTRADICTION" task="IE">
+<t>Planetary Alignment Decrease Gravity Hoax on Jan 4, 2015: Will Decrease Gravity For 5 Minutes Causing Partial Weightlessness in January is Totally Bogus</t>
+<h>A unique planetary alignment on Jan. 4, 2015 will cause partial weightlessness on earth</h>
+</pair>
+<pair id="1986" entailment="UNKNOWN" task="IE">
+<t>Predator Drone Reportedly Spotted Over ISIS Stronghold</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1987" entailment="ENTAILMENT" task="IE">
+<t>Armed U.S. drones spotted flying over Syria in possible hunt for ISIS leader</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1988" entailment="UNKNOWN" task="IE">
+<t>Predator Drone Reportedly Sighted Circling Raqqa, Syria</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1989" entailment="UNKNOWN" task="IE">
+<t>American Predator Drone Circling Islamic State's Stronghold</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1990" entailment="UNKNOWN" task="IE">
+<t>US Drones Over Syria Looking for ISIS Leader Abu Bakr al-Baghdadi</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1991" entailment="UNKNOWN" task="IE">
+<t>A Predator Drone Has Reportedly Been Spotted Circling Above ISIS's Capital City</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1992" entailment="ENTAILMENT" task="IE">
+<t>SEND IN THE DRONES: Predator drones flown over IS headquarters in Syria</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1993" entailment="ENTAILMENT" task="IE">
+<t>US Drones, Hunting for ISIS Leader, Seen Flying over Syrian Airspace</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1994" entailment="UNKNOWN" task="IE">
+<t>Predator Drone Reportedly Spotted Over ISIS Hotbed in Syria Airstrikes Hit ISIS Targets</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1995" entailment="ENTAILMENT" task="IE">
+<t>US drones hunt Isis leader in Syria</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1996" entailment="ENTAILMENT" task="IE">
+<t>Predator drones being flown over Isil's Syrian capital</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="1997" entailment="UNKNOWN" task="IE">
+<t>Brown Moses on what's flying over Iraq and Syria</t>
+<h>A predator drone was sighted over Raqqa, Syria</h>
+</pair>
+<pair id="2064" entailment="CONTRADICTION" task="IE">
+<t>Rumor debunked: RoboCop-style robots are not patrolling Microsoft's campus</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2065" entailment="ENTAILMENT" task="IE">
+<t>Here Are Microsoft's New Robot Security Guards</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2066" entailment="ENTAILMENT" task="IE">
+<t>Robot security guards now patrolling Microsoft's Silicon Valley campus</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2067" entailment="ENTAILMENT" task="IE">
+<t>Microsoft Hires Dalek-style Robocops to Guard Silicon Valley HQ</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2068" entailment="ENTAILMENT" task="IE">
+<t>Microsoft's Silicon Valley campus now guarded by Daleks</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2069" entailment="ENTAILMENT" task="IE">
+<t>Microsoft turns to robotic security guards to watch for trouble</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2070" entailment="ENTAILMENT" task="IE">
+<t>Microsoft Tried Out Robot Security Guards on Its Silicon Valley Campus</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2071" entailment="ENTAILMENT" task="IE">
+<t>Knightscope Security Robots Are Keeping Microsoft Campuses Safe and They Look Really Scary</t>
+<h>Robot security guards are patrolling a Microsoft campus in Silicon Valley</h>
+</pair>
+<pair id="2265" entailment="ENTAILMENT" task="IE">
+<t>This Is a Truly Horrifying Story About a Spider</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2266" entailment="CONTRADICTION" task="IE">
+<t>No, A Spider Did Not Burrow Under A Man's Skin And Live There For Days</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2267" entailment="ENTAILMENT" task="IE">
+<t>Dylan Thomas Finds Tropical Spider Burrowed Under Skin</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2268" entailment="ENTAILMENT" task="IE">
+<t>Tourist dubbed Spider Man after spider burrows under skin for days</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2269" entailment="ENTAILMENT" task="IE">
+<t>A Spider Lived Inside This Tourist's Body For 3 Days After Burrowing Into His Skin Through A Scar</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2270" entailment="ENTAILMENT" task="IE">
+<t>Tourist wakes to find strange red trail on his stomach - and discovers a spider has burrowed through his appendix scar and crawled UNDER his skin while on holiday in Bali</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2271" entailment="CONTRADICTION" task="IE">
+<t>Web of confusion as scientists cast doubt on man's claims that a spider burrowed into his stomach through his SCAR</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2272" entailment="ENTAILMENT" task="IE">
+<t>Spider Burrows Into Australian Man's Appendix Scar VIDEO</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2273" entailment="ENTAILMENT" task="IE">
+<t>Spider burrowed through tourist's stomach and up into his chest</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2274" entailment="ENTAILMENT" task="IE">
+<t>Tropical spider burrowed under man's skin through appendix scar and lived there for THREE DAYS</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2275" entailment="ENTAILMENT" task="IE">
+<t>Bali spider burrows under Aussie's chest</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2276" entailment="ENTAILMENT" task="IE">
+<t>Man discovers spider living under his skin during Bali vacation</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2277" entailment="ENTAILMENT" task="IE">
+<t>Bunbury local discovered a spider had burrowed under his skin on Bali holiday</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2278" entailment="CONTRADICTION" task="IE">
+<t>Expert casts doubt on Bunbury man Dylan Thomas's burrowing stomach-spider story</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2279" entailment="CONTRADICTION" task="IE">
+<t>No, a spider probably didn't crawl through a man's body for several days</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2280" entailment="UNKNOWN" task="IE">
+<t>Bali Awry</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2281" entailment="CONTRADICTION" task="IE">
+<t>Spiderman squished: Experts debunk claims</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2282" entailment="ENTAILMENT" task="IE">
+<t>Tropical spider burrows under man's skin through scar</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2283" entailment="ENTAILMENT" task="IE">
+<t>Spider burrowed into appendix scar, crawled through WA man's body</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2284" entailment="UNKNOWN" task="IE">
+<t>The Guy Who Said a Spider Burrowed Under His Skin? Experts Say</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2285" entailment="ENTAILMENT" task="IE">
+<t>Strange mark turns out to be tropical spider burrowing under vacationer's skin</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2286" entailment="UNKNOWN" task="IE">
+<t>Tropical spider burrowed under man's skin through scar - video report</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2287" entailment="ENTAILMENT" task="IE">
+<t>Tropical spider burrows under man's skin, lives there for three days</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2288" entailment="ENTAILMENT" task="IE">
+<t>Tropical spider burrowed under Bali tourist's skin</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2289" entailment="CONTRADICTION" task="IE">
+<t>Spiderman squished: Perth experts debunk spider burrowing claims</t>
+<h>A tropical spider burrowed under a man's skin</h>
+</pair>
+<pair id="2469" entailment="ENTAILMENT" task="IE">
+<t>Trans Teen Dies by Suicide, Leaves Tumblr Note: There's No Way Out</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2470" entailment="ENTAILMENT" task="IE">
+<t>Transgender Teen Commits Suicide Pens A Heartbreaking Note Urging The World To Change</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2471" entailment="ENTAILMENT" task="IE">
+<t>Transgender teenager, 17, leaves heartbreaking suicide note blaming her Christian parents before walking in front of tractor trailer on highway</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2472" entailment="ENTAILMENT" task="IE">
+<t>Transgender Teen Leelah Alcorn Blames Christian Parents In Tumblr Suicide Note</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2473" entailment="ENTAILMENT" task="IE">
+<t>Transgender Teen Leelah Alcorn Commits Suicide By Walking In Front Of Semi Truck, Blames Parents In Viral Suicide Note</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2474" entailment="UNKNOWN" task="IE">
+<t>Transgender teen struck and killed on Ohio interstate in apparent suicide</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2475" entailment="ENTAILMENT" task="IE">
+<t>Transgender teen who committed suicide left heartbreaking note saying she would never be happy</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2476" entailment="ENTAILMENT" task="IE">
+<t>Ohio Trans Teen Commits Suicide, Leaves Heartbreaking Note Declaring There's No Way Out</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+<pair id="2477" entailment="ENTAILMENT" task="IE">
+<t>Transgender teen leaves note on Tumblr blaming Christian parents for suicide</t>
+<h>Transgender teenager Leelah Alcorn committed suicide and left a note on her Tumblr</h>
+</pair>
+</entailment-corpus>

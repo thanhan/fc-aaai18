@@ -1,0 +1,10 @@
+gensim
+matplotlib
+nltk
+numpy
+pandas
+repoze.lru
+scikit_learn
+scipy
+seaborn
+tld

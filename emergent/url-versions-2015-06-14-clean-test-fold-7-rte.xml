@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="111" entailment="ENTAILMENT" task="IE">
+<t>Obama Orders Fed To Adopt Euro Currency</t>
+<h>President Obama ordered the Federal Reserve to adopt the Euro</h>
+</pair>
+<pair id="173" entailment="UNKNOWN" task="IE">
+<t>Samsung reportedly missing out on huge 50 million Apple Watch display deal</t>
+<h>Apple will sell 50 million Apple Watches in 2015</h>
+</pair>
+<pair id="174" entailment="ENTAILMENT" task="IE">
+<t>Apple hopes to sell over 50 million watches in 2015</t>
+<h>Apple will sell 50 million Apple Watches in 2015</h>
+</pair>
+<pair id="180" entailment="ENTAILMENT" task="IE">
+<t>Apple reportedly not happy with one day Watch battery life, expects improvements by 2015 launch</t>
+<h>Apple Watch battery doesn't last more than one day</h>
+</pair>
+<pair id="181" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch users will need to recharge nightly, company still working to improve uptime before launch</t>
+<h>Apple Watch battery doesn't last more than one day</h>
+</pair>
+<pair id="182" entailment="ENTAILMENT" task="IE">
+<t>It's confirmed: You'll have to recharge your Apple Watch every night</t>
+<h>Apple Watch battery doesn't last more than one day</h>
+</pair>
+<pair id="183" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Will Need Charging Every Day</t>
+<h>Apple Watch battery doesn't last more than one day</h>
+</pair>
+<pair id="184" entailment="ENTAILMENT" task="IE">
+<t>CodeRed: Apple Watch Battery Life Charge Nightly</t>
+<h>Apple Watch battery doesn't last more than one day</h>
+</pair>
+<pair id="185" entailment="ENTAILMENT" task="IE">
+<t>Apple Isn't Happy With The Battery Life Of Its New Smartwatch</t>
+<h>Apple Watch battery doesn't last more than one day</h>
+</pair>
+<pair id="186" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch battery will require nightly charging</t>
+<h>Apple Watch battery doesn't last more than one day</h>
+</pair>
+<pair id="187" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Battery Life Currently About a Day, but May Improve for 2015 Launch</t>
+<h>Apple Watch battery doesn't last more than one day</h>
+</pair>
+<pair id="637" entailment="UNKNOWN" task="IE">
+<t>ISIS supporters mourn death of youngest fighter</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="638" entailment="UNKNOWN" task="IE">
+<t>The cub of Baghdadi: ISIS reports its youngest jihadist got martyred in battle</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="639" entailment="UNKNOWN" task="IE">
+<t>The cub of Baghdadi: Has this boy become the youngest victim of Isis's use of child soldiers?</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="640" entailment="UNKNOWN" task="IE">
+<t>ISIS Releases YouTube Video Showing 10-Year-Old Martyr Allegedly Killed in Battle</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="641" entailment="UNKNOWN" task="IE">
+<t>Our youngest martyr: ISIS boasts a jihadi fighter aged just TEN was killed as he went into battle with his father in Syria</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="642" entailment="UNKNOWN" task="IE">
+<t>The cub of Baghdadi: Has this boy become the youngest victim yet of Isis's use of child soldiers?</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="643" entailment="UNKNOWN" task="IE">
+<t>Islamic State reports youngest jihadist martyred in battle</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="644" entailment="ENTAILMENT" task="IE">
+<t>ISIS pays tribute to its Cub of Baghdadi child soldier</t>
+<h>A child soldier with ISIS was killed in battle, making him youngest Islamic State fighter to die</h>
+</pair>
+<pair id="714" entailment="UNKNOWN" task="IE">
+<t>Evander Kane On Way Out From Source, Price Is Very High Who Is In?</t>
+<h>Evander Kane could be traded by the Jets</h>
+</pair>
+<pair id="715" entailment="UNKNOWN" task="IE">
+<t>KANE'S FUTURE IN WINNIPEG IN DOUBT?</t>
+<h>Evander Kane could be traded by the Jets</h>
+</pair>
+<pair id="772" entailment="CONTRADICTION" task="IE">
+<t>Rob O'Neill may have killed bin Laden, but didn't take out gangster intruders</t>
+<h>Robert O'Neill, the former SEAL who claims to have shot Bin Laden, was attacked in his home by members of a street gang</h>
+</pair>
+<pair id="773" entailment="ENTAILMENT" task="IE">
+<t>Bin Laden Shooter Rob O'Neill Mistakenly Attacked By Street Thugs Seeking To Collect Debt From Neighbor</t>
+<h>Robert O'Neill, the former SEAL who claims to have shot Bin Laden, was attacked in his home by members of a street gang</h>
+</pair>
+<pair id="783" entailment="CONTRADICTION" task="IE">
+<t>The FoxNewsPress Account Tweeting Lawsuit Threats Is a Fake</t>
+<h>Fox News is using FoxNewsPress to respond to Twitter users over the viral hashtag FoxNewsFacts</h>
+</pair>
+<pair id="784" entailment="CONTRADICTION" task="IE">
+<t>No - a Fox News Twitter account isn't responding to tweets on the FoxNewsFacts hashtag</t>
+<h>Fox News is using FoxNewsPress to respond to Twitter users over the viral hashtag FoxNewsFacts</h>
+</pair>
+<pair id="785" entailment="CONTRADICTION" task="IE">
+<t>Fake Fox News Twitter account emerges after FoxNewsFacts goes viral</t>
+<h>Fox News is using FoxNewsPress to respond to Twitter users over the viral hashtag FoxNewsFacts</h>
+</pair>
+<pair id="786" entailment="UNKNOWN" task="IE">
+<t>Police identify shooter in Florida State tragedy</t>
+<h>The Floria State University shooter is named Myron May</h>
+</pair>
+<pair id="787" entailment="UNKNOWN" task="IE">
+<t>AP Police say gunman in FSU library shooting, Myron May, was alumnus</t>
+<h>The Floria State University shooter is named Myron May</h>
+</pair>
+<pair id="788" entailment="ENTAILMENT" task="IE">
+<t>Saudi Arabia's national airline planning to introduce gender segregation on flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="789" entailment="CONTRADICTION" task="IE">
+<t>Saudi airline rep denies plan to separate men and women on flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="790" entailment="UNKNOWN" task="IE">
+<t>Saudi Arabia May Be Taking Misogyny to the Skies</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="791" entailment="UNKNOWN" task="IE">
+<t>Saudi Airline Considering Separating Passengers By Gender</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="792" entailment="UNKNOWN" task="IE">
+<t>Saudi national airline may introduce gender segregation on its flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="793" entailment="CONTRADICTION" task="IE">
+<t>No gender segregation on Saudia</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="794" entailment="ENTAILMENT" task="IE">
+<t>Saudi Arabia's national airline to introduce gender segregation after a string of complaints from male passengers</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="795" entailment="ENTAILMENT" task="IE">
+<t>Saudi Airlines to ban gender-mixing seating</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="796" entailment="ENTAILMENT" task="IE">
+<t>Saudi airline, Saudia, to ban gender-mixing</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="797" entailment="ENTAILMENT" task="IE">
+<t>Saudi Arabia airline segregation: Saudi airlines to assign seats based on gender</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="798" entailment="ENTAILMENT" task="IE">
+<t>Saudi Arabia's national airline plans to keep men and women apart</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="799" entailment="ENTAILMENT" task="IE">
+<t>Saudi Arabia set to introduce gender segregation on national airline flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="800" entailment="ENTAILMENT" task="IE">
+<t>Saudi Arabia Airline Segregation: New Islamic Law Takes Flight On Airliner, Seating By Gender Coming Soon</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="801" entailment="ENTAILMENT" task="IE">
+<t>Saudi Airlines Sexist: Airline Intends To Enforce Rules To Separate Male And Female Passengers</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="802" entailment="ENTAILMENT" task="IE">
+<t>Saudi Arabian airline to separate genders after men complain about blokes sitting next to their wives</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="803" entailment="ENTAILMENT" task="IE">
+<t>Saudi Airlines to Separate Men and Women on Flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="804" entailment="CONTRADICTION" task="IE">
+<t>Saudi Arabian Airline Rep Denies Plan to Separate Men and Women on Flights</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="805" entailment="ENTAILMENT" task="IE">
+<t>Saudi Airlines to segregate sexes</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="806" entailment="ENTAILMENT" task="IE">
+<t>US Ally Saudi Arabia Starts Gender Segregation On National Airline</t>
+<h>Saudi Arabia's national airline will introduce gender segregation on flights</h>
+</pair>
+<pair id="862" entailment="ENTAILMENT" task="IE">
+<t>Student accidentally sets college on fire during fireworks proposal</t>
+<h>Man Sets College On Fire With Marriage Proposal</h>
+</pair>
+<pair id="863" entailment="ENTAILMENT" task="IE">
+<t>The Unluckiest Man In The World Set His College On Fire With A Fireworks Marriage Proposal</t>
+<h>Man Sets College On Fire With Marriage Proposal</h>
+</pair>
+<pair id="864" entailment="ENTAILMENT" task="IE">
+<t>Hopeless romantic BURNS DOWN college sports hall after fireworks proposal stunt fails</t>
+<h>Man Sets College On Fire With Marriage Proposal</h>
+</pair>
+<pair id="865" entailment="ENTAILMENT" task="IE">
+<t>Blundering boyfriend burns down college after trying to impress his girlfriend with elaborate marriage proposal</t>
+<h>Man Sets College On Fire With Marriage Proposal</h>
+</pair>
+<pair id="866" entailment="UNKNOWN" task="IE">
+<t>Source: Hackers send new message to Sony</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="867" entailment="ENTAILMENT" task="IE">
+<t>HACKERS TO SONY: If You Make Any More Trouble, We'll Destroy You</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="868" entailment="UNKNOWN" task="IE">
+<t>Hackers tell Sony wise to cancel film, don't make more trouble -CNN</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="869" entailment="ENTAILMENT" task="IE">
+<t>Sony Hackers Email: Thanks For Running Scared, We'll Stop Now</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="870" entailment="UNKNOWN" task="IE">
+<t>CNN Reports Hackers Sent Message to Sony: You've Done the Right Thing</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="871" entailment="ENTAILMENT" task="IE">
+<t>Hackers: Sony Very Wise to Pull Film</t>
+<h>The group behind the Sony hack sent a message to company execs praising their decision to pull The Interview</h>
+</pair>
+<pair id="964" entailment="CONTRADICTION" task="IE">
+<t>Hugh Hefner Dead? Fans Panic That Playboy Founder Is Gone</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="965" entailment="ENTAILMENT" task="IE">
+<t>BREAKING: Playboy Tycoon Hugh Hefner Passes Away at Age of 88</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="966" entailment="CONTRADICTION" task="IE">
+<t>Hugh Hefner Dead Rumors Not True</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="967" entailment="CONTRADICTION" task="IE">
+<t>Rumours of my death are greatly exaggerated: Relax ladies, Hugh Hefner is alive and kicking</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="968" entailment="CONTRADICTION" task="IE">
+<t>Hugh Hefner dead: Playboy founder makes it to film night despite mortality rumours</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="969" entailment="CONTRADICTION" task="IE">
+<t>Hugh Hefner Found Dead But Still Makes It To Family Movie Night</t>
+<h>Playboy founder Hugh Hefner is dead</h>
+</pair>
+<pair id="972" entailment="UNKNOWN" task="IE">
+<t>Apple Watch to Be Shower-Proof, Have 100,000 Apps at Launch: Reports</t>
+<h>There will be 100,000 or more Apple Watch Apps in the AppStore by April 10</h>
+</pair>
+<pair id="973" entailment="UNKNOWN" task="IE">
+<t>Wildest Apple Watch rumor yet: 100,000 apps at launch</t>
+<h>There will be 100,000 or more Apple Watch Apps in the AppStore by April 10</h>
+</pair>
+<pair id="974" entailment="ENTAILMENT" task="IE">
+<t>And finally: Apple Watch to launch 9 March with 100,000 apps</t>
+<h>There will be 100,000 or more Apple Watch Apps in the AppStore by April 10</h>
+</pair>
+<pair id="1310" entailment="UNKNOWN" task="IE">
+<t>Daash Syria Announces Egyptian escape b Zakat funds Google Translate</t>
+<h>An ISIS treasurer stole money from the organization and fled</h>
+</pair>
+<pair id="1311" entailment="ENTAILMENT" task="IE">
+<t>An Egyptian ISIS treasurer stole 1 million and fled to Turkey</t>
+<h>An ISIS treasurer stole money from the organization and fled</h>
+</pair>
+<pair id="1312" entailment="UNKNOWN" task="IE">
+<t>Isis Egyptian treasurer steals Zakat funds and flees to Turkey</t>
+<h>An ISIS treasurer stole money from the organization and fled</h>
+</pair>
+<pair id="1313" entailment="UNKNOWN" task="IE">
+<t>ISIS Treasurer Reportedly Steals 1M From Group, Flees To Turkey</t>
+<h>An ISIS treasurer stole money from the organization and fled</h>
+</pair>
+<pair id="1395" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-Un may be dying because he's addicted to Swiss Cheese</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1396" entailment="ENTAILMENT" task="IE">
+<t>Cheese blamed for North Korean leader Kim Jong-un's broken ankles</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1397" entailment="ENTAILMENT" task="IE">
+<t>Cheese addiction breaks Kim Jong-un's ankles</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1398" entailment="ENTAILMENT" task="IE">
+<t>Is Kim Jong ill? North Korean dictator in poor health as his weight has ballooned thanks to an obsession with cheese</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1399" entailment="ENTAILMENT" task="IE">
+<t>Kim Jong IS Un-well and it could be GOUT North Korea confirms its young dictator is suffering discomfort after addiction to Swiss cheese revealed</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1400" entailment="ENTAILMENT" task="IE">
+<t>Fat dictator Kim Jong-un dying from cheese addiction</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1401" entailment="ENTAILMENT" task="IE">
+<t>Missing Kim Jong-un suffering with condition after CHEESE binge</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1402" entailment="UNKNOWN" task="IE">
+<t>Switzerland's Assassination, Kim Jong Un Might Die From Cheese Overdose</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1403" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-un's discomfort down to cheese addiction</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1404" entailment="ENTAILMENT" task="IE">
+<t>Kim Jong-un loves CHEESE so much he's ballooned in size and walks with limp</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1405" entailment="UNKNOWN" task="IE">
+<t>North Korean dictator Kim Jong-un may be seriously ill from eating too much Emmental cheese: report</t>
+<h>Kim Jong Un is ill because he eats too much cheese</h>
+</pair>
+<pair id="1447" entailment="UNKNOWN" task="IE">
+<t>MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1448" entailment="ENTAILMENT" task="IE">
+<t>Michael Zehaf-Bibeau was shot nearly a dozen times before Kevin Vickers fatally wounded him</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1449" entailment="UNKNOWN" task="IE">
+<t>MPs credit sergeant-at-arms for saving lives in Parliament Hill shootings</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1450" entailment="ENTAILMENT" task="IE">
+<t>Sergeant-at-Arms stopped shooter on Parliament Hill</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1451" entailment="ENTAILMENT" task="IE">
+<t>Pictured: Heroic sergeant-at-arms, 58, walking through Parliament gun in hand just moments after he killed gunman Michael Zehaf-Bibeau</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1452" entailment="ENTAILMENT" task="IE">
+<t>Emotional sergeant-at-arms is greeted back to parliament with a rousing standing ovation a day after he heroically shot dead terrorist - the first time he used weapon in 30 year career</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1453" entailment="ENTAILMENT" task="IE">
+<t>Parliament Hill shooting: Sergeant-At-Arms Kevin Vickers the family hero who took down Ottawa gunman</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1454" entailment="UNKNOWN" task="IE">
+<t>Kevin Vickers Hailed As Hero For Reportedly Shooting Gunman Inside Parliament</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1455" entailment="ENTAILMENT" task="IE">
+<t>Ottawa shooting: Sergeant-at-Arms Kevin Vickers hailed a hero for shooting rampaging gunman</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1456" entailment="ENTAILMENT" task="IE">
+<t>How Canadian Sergeant-at-Arms Kevin Vickers killed shooter in parliament</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1457" entailment="ENTAILMENT" task="IE">
+<t>Kevin Vickers, Sergeant-At-Arms, Shoots a Shooting Suspect in Ottawa Called a Hero Pictures</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1458" entailment="ENTAILMENT" task="IE">
+<t>AWESOME Canadian Parliament's Sergeant-at-Arms Kevin Vickers Takes Out Gunman</t>
+<h>Kevin Vickers, the Sergeant-at-Arms in the House of Commons, shot a gunman on Parliament Hill</h>
+</pair>
+<pair id="1497" entailment="ENTAILMENT" task="IE">
+<t>Robert Plant ripped up 800M Led Zeppelin reunion contract</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1498" entailment="ENTAILMENT" task="IE">
+<t>Robert Plant Literally Ripped Up An 800 Million Contract To Reunite Led Zeppelin</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1499" entailment="UNKNOWN" task="IE">
+<t>Robert Plant Reportedly Tears Up 800 Million Led Zeppelin Reunion Contract</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1500" entailment="CONTRADICTION" task="IE">
+<t>Rumor Robert Plant Ripped Up 800 Million Contract To Reunite Led Zeppelin Called Rubbish</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1501" entailment="ENTAILMENT" task="IE">
+<t>Led Zeppelin Reunion: Robert Plant Rips Up 300 Million Contract, Refuses To Rejoin Legendary Band</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1502" entailment="ENTAILMENT" task="IE">
+<t>Led Zeppelin's Robert Plant ripped up a 924 million reunion contract</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1503" entailment="CONTRADICTION" task="IE">
+<t>It's rubbish that Robert Plant turned down 500m Led Zeppelin reformation offer, says publicist</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1504" entailment="CONTRADICTION" task="IE">
+<t>No, Robert Plant Didn't Rip Up an 800 Million Contract</t>
+<h>Robert Plant ripped up an 800 million contract offer to reunite Led Zeppelin</h>
+</pair>
+<pair id="1524" entailment="UNKNOWN" task="IE">
+<t>Rumor: Apple Watch Screens To Be Supplied By LG Display And Samsung Display</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1525" entailment="UNKNOWN" task="IE">
+<t>LG Display, Samsung unit to supply Apple Watch screens: Report</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1526" entailment="UNKNOWN" task="IE">
+<t>LG Display, Samsung unit to supply Apple Watch screens: South Korea paper</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1527" entailment="UNKNOWN" task="IE">
+<t>Samsung Rumoured to be Supplying the Screens for Apple Watch... Mk II</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1528" entailment="UNKNOWN" task="IE">
+<t>LG Display, Samsung unit to supply Apple Watch screens: South Korea paper</t>
+<h>LG will supply the screens for the Apple Watch that goes on sale in April</h>
+</pair>
+<pair id="1675" entailment="ENTAILMENT" task="IE">
+<t>You can still order a McPizza at these two McDonald's locations</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1676" entailment="CONTRADICTION" task="IE">
+<t>No, McPizza is not available in two US McDonald's Google Translate</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1677" entailment="ENTAILMENT" task="IE">
+<t>Attention children of the 90s: you can still get McDonald's pizza</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1678" entailment="ENTAILMENT" task="IE">
+<t>You can still order a McPizza at these two McDonald's locations</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1679" entailment="ENTAILMENT" task="IE">
+<t>Here Are the 2 Places Left Where You Can Find That Taste of the 90s, McDonald's Pizza</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1680" entailment="ENTAILMENT" task="IE">
+<t>There Are Still Two McDonald's That Serve McPizza From the 90s</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1681" entailment="ENTAILMENT" task="IE">
+<t>DISCONTINUED 90S MCPIZZA STILL EXISTS AT THESE MCDONALD'S LOCATIONS</t>
+<h>Two locations in the U.S. are still serving the original McDonald's pizza</h>
+</pair>
+<pair id="1968" entailment="CONTRADICTION" task="IE">
+<t>No, a mechanical polar bear is not about to be given an Asbo</t>
+<h>A mechanical polar bear in the U.K. was threatened with an Anti-Social Behaviour Order ASBO</h>
+</pair>
+<pair id="1969" entailment="UNKNOWN" task="IE">
+<t>Mechanical polar bear threatened with ASBO for singing Christmas songs</t>
+<h>A mechanical polar bear in the U.K. was threatened with an Anti-Social Behaviour Order ASBO</h>
+</pair>
+<pair id="1970" entailment="UNKNOWN" task="IE">
+<t>Unbearable Carolling toy in Shefford gagged by council</t>
+<h>A mechanical polar bear in the U.K. was threatened with an Anti-Social Behaviour Order ASBO</h>
+</pair>
+<pair id="1971" entailment="ENTAILMENT" task="IE">
+<t>Singing polar bear facing ASBO after noise complaint</t>
+<h>A mechanical polar bear in the U.K. was threatened with an Anti-Social Behaviour Order ASBO</h>
+</pair>
+<pair id="2340" entailment="UNKNOWN" task="IE">
+<t>Lady on FB: I'm 41, Intersex, and Fucked Michael Phelps on First Date</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2341" entailment="UNKNOWN" task="IE">
+<t>Michael Phelps self-proclaimed girlfriend, 41, reveals she was born a male as she describes her amazing intimacy with Olympic swimmer</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2342" entailment="ENTAILMENT" task="IE">
+<t>Taylor Lianne Chandler: Everything you need to know about Michael Phelps intersex girlfriend</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2343" entailment="UNKNOWN" task="IE">
+<t>Taylor Lianne Chandler: Michael Phelps Cougar Girlfriend Revealed?</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2344" entailment="UNKNOWN" task="IE">
+<t>Michael Phelps alleged girlfriend says she was born intersex</t>
+<h>Taylor Lianne Chandler had a romantic relaitonship with Olympic swimmer Michael Phelps</h>
+</pair>
+<pair id="2384" entailment="UNKNOWN" task="IE">
+<t>Is There Really a Sharia Law Islamic Tribunal in Dallas, Texas?</t>
+<h>A jurisdiction of Texas is now under Sharia law</h>
+</pair>
+<pair id="2385" entailment="UNKNOWN" task="IE">
+<t>Islamic tribunal confirmed in Texas</t>
+<h>A jurisdiction of Texas is now under Sharia law</h>
+</pair>
+<pair id="2386" entailment="UNKNOWN" task="IE">
+<t>Islamic Tribunal Using Sharia Law In Texas Has Been Confirmed Tribunal members say they will avoid Sharia's criminal law.</t>
+<h>A jurisdiction of Texas is now under Sharia law</h>
+</pair>
+<pair id="2556" entailment="CONTRADICTION" task="IE">
+<t>Willie Nelson dead 2015 : Guitarist killed by internet death hoax</t>
+<h>Willie Nelson is dead</h>
+</pair>
+<pair id="2557" entailment="ENTAILMENT" task="IE">
+<t>Country Music Legend Willie Nelson Dies at Age 81</t>
+<h>Willie Nelson is dead</h>
+</pair>
+<pair id="2558" entailment="CONTRADICTION" task="IE">
+<t>Willie Nelson Dead? Internet Freaks Out As Another Celebrity Death Hoax Makes The Rounds</t>
+<h>Willie Nelson is dead</h>
+</pair>
+<pair id="2559" entailment="CONTRADICTION" task="IE">
+<t>Willie Nelson Dead? Viral Hoax Fools Internet</t>
+<h>Willie Nelson is dead</h>
+</pair>
+<pair id="2560" entailment="ENTAILMENT" task="IE">
+<t>Elderly Woman Arrested for Kidnapping Neighbor's Cats Making Fur Coats</t>
+<h>An 85-year-old woman was arrested for making fur coats out of her neighbors cats</h>
+</pair>
+<pair id="2561" entailment="ENTAILMENT" task="IE">
+<t>Elderly Woman Arrested for Kidnapping Neighbor's Cats Making Fur Coats</t>
+<h>An 85-year-old woman was arrested for making fur coats out of her neighbors cats</h>
+</pair>
+<pair id="2562" entailment="ENTAILMENT" task="IE">
+<t>Little old lady Arrested for Making Fur Coats with Neighbor's Cats</t>
+<h>An 85-year-old woman was arrested for making fur coats out of her neighbors cats</h>
+</pair>
+</entailment-corpus>

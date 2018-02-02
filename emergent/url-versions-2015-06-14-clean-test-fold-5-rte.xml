@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="147" entailment="UNKNOWN" task="IE">
+<t>Rumor: Apple in late-stage talks to buy Path social platform</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="148" entailment="UNKNOWN" task="IE">
+<t>Apple May Buy Social Network Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="149" entailment="UNKNOWN" task="IE">
+<t>Wednesday Apple Rumors: Apple May Be Ready to Buy Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="150" entailment="UNKNOWN" task="IE">
+<t>Source: Apple set to acquire Path in an attempt to bolster iOS social cred</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="151" entailment="UNKNOWN" task="IE">
+<t>Morin goes back on transparency pledge, refuses to confirm or deny report that Apple is buying Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="152" entailment="UNKNOWN" task="IE">
+<t>Four Reasons Not To Give Up Hope If Apple Buys Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="153" entailment="UNKNOWN" task="IE">
+<t>Apple reported to be near buying Path social network</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="154" entailment="UNKNOWN" task="IE">
+<t>Apple in late stages to acquire Path, report says</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="155" entailment="UNKNOWN" task="IE">
+<t>Here's What You Can Do On Path, The Social Network That Apple May Be About To Acquire</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="156" entailment="UNKNOWN" task="IE">
+<t>Apple Will Acquire Path, The Struggling Social Network</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="157" entailment="UNKNOWN" task="IE">
+<t>Apple could be eyeing purchase of social networking app Path</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="158" entailment="UNKNOWN" task="IE">
+<t>Everything You Need To Know About Path, The Struggling Social Network In Apple's Sights</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="159" entailment="UNKNOWN" task="IE">
+<t>Apple Reportedly Close to Acquiring Path, Looking to Integrate Service Into Messages</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="160" entailment="UNKNOWN" task="IE">
+<t>Apple may buy Path, that social app you don't use</t>
+<h>Apple is buying Path</h>
+</pair>
+<pair id="171" entailment="CONTRADICTION" task="IE">
+<t>Apple plans relaunched Beats streaming music service for WWDC, skipping March event Apple TV still coming</t>
+<h>Apple will reveal a refreshed Apple TV at the March 9th Spring Forward Event</h>
+</pair>
+<pair id="226" entailment="UNKNOWN" task="IE">
+<t>Tim Cook: Apple Watch will be showerproof, Apple Pay goal for Europe is end of the year</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="227" entailment="UNKNOWN" task="IE">
+<t>Apple Watch to Be Shower-Proof, Have 100,000 Apps at Launch: Reports</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="228" entailment="ENTAILMENT" task="IE">
+<t>Yes, you can wear your Apple Watch in the shower</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="229" entailment="UNKNOWN" task="IE">
+<t>That's one way to clean it: Apple Watch will reportedly survive a trip through the shower</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="230" entailment="UNKNOWN" task="IE">
+<t>Tim Cook: I wear my Apple Watch in the shower</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="231" entailment="UNKNOWN" task="IE">
+<t>Tim Cook Reportedly Showers with Apple Watch, Suggesting It's Waterproof</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="232" entailment="UNKNOWN" task="IE">
+<t>Cook said to confirm Apple Watch is showerproof, lasts a day</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="233" entailment="UNKNOWN" task="IE">
+<t>Tim Cook Reportedly Reveals Apple Watch Waterproofing Has Improved</t>
+<h>The Apple Watch is sufficiently water resistant to wear in the shower</h>
+</pair>
+<pair id="248" entailment="ENTAILMENT" task="IE">
+<t>Apple saving money on the gold in Apple Watch Edition, could be planning a platinum model for future designs</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="249" entailment="UNKNOWN" task="IE">
+<t>Future Apple Watches could include platinum models - report</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="250" entailment="UNKNOWN" task="IE">
+<t>Forget 18-karat gold, next-generation Apple Watch Edition could use platinum: Report</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="251" entailment="ENTAILMENT" task="IE">
+<t>Apple to Take Reservations for Trying On Apple Watch, Considered Platinum Model</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="252" entailment="ENTAILMENT" task="IE">
+<t>The next Apple Watch could be platinum</t>
+<h>Apple is considering the release of a platinum edition of the Apple Watch</h>
+</pair>
+<pair id="284" entailment="ENTAILMENT" task="IE">
+<t>KGI: iPhone sales forecast at 73M for Q4 ahead of Apple Watch debut in March, 12 MacBook Air in Q1</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="285" entailment="UNKNOWN" task="IE">
+<t>APPLE WATCH MAY GO ON SALE IN MARCH ACCORDING TO ANALYST</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="286" entailment="UNKNOWN" task="IE">
+<t>The World's Most Accurate Apple Analyst Says The Apple Watch Is Coming In March</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="287" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch shipments to start in March: 12in new MacBook Air expected to be launched in same quarter</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="288" entailment="UNKNOWN" task="IE">
+<t>Apple Reported to Begin Shipping Apple Watch in March, 12-Inch MacBook Air in Early 2015</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="289" entailment="UNKNOWN" task="IE">
+<t>Apple Watch to go on sale in March, claims analyst</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="290" entailment="UNKNOWN" task="IE">
+<t>New report tips Apple Watch release in March, 12in MacBook Air in Q1</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="291" entailment="UNKNOWN" task="IE">
+<t>Apple Watch on Your Wrist in March, 12-inch MacBook Air Set for Q1 Launch: Analyst</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="292" entailment="UNKNOWN" task="IE">
+<t>Analyst Confirms Apple Watch And 12-inch MacBook Air's Q1 2015 Launch</t>
+<h>The Apple Watch will ship in March</h>
+</pair>
+<pair id="293" entailment="UNKNOWN" task="IE">
+<t>Apple struggled to find purpose for Apple Watch after many planned health features were cut, 5 million units ordered</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="294" entailment="ENTAILMENT" task="IE">
+<t>Apple scrapped advanced Apple Watch health monitoring features due to reliability issues</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="295" entailment="UNKNOWN" task="IE">
+<t>A bunch of cool health features were cut from the Apple Watch at the last minute</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="296" entailment="UNKNOWN" task="IE">
+<t>Apple was forced to nix key health features from its smartwatch -- report</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="297" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch won't be the digital doctor it could have been</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="298" entailment="UNKNOWN" task="IE">
+<t>Apple cut watch health features due to erratic sensors</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="299" entailment="ENTAILMENT" task="IE">
+<t>Original Apple Watch Health Features Were Dropped Due to Consistency Issues</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="300" entailment="UNKNOWN" task="IE">
+<t>What Exactly Is an Apple Watch For?</t>
+<h>Apple removed from Apple Watch a skin-conductivity sensor that would give a more accurate heart rate</h>
+</pair>
+<pair id="508" entailment="ENTAILMENT" task="IE">
+<t>Accused Boston Marathon Bomber Severely Injured In Prison, May Never Walk Or Talk Again</t>
+<h>Boston marathon bombing suspect Dzhokhar Tsarnaev was severely beaten in prison</h>
+</pair>
+<pair id="509" entailment="UNKNOWN" task="IE">
+<t>Dzhokhar Tsarnaev Beaten In Prison? Satirical Site Claims Boston Marathon Bombing Suspect Blinded And Paralyzed</t>
+<h>Boston marathon bombing suspect Dzhokhar Tsarnaev was severely beaten in prison</h>
+</pair>
+<pair id="561" entailment="CONTRADICTION" task="IE">
+<t>China: Satirical site warns citizens over name choices</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="562" entailment="ENTAILMENT" task="IE">
+<t>Chinese State Media Warns People To Stop Calling Themselves Dumbledore</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="563" entailment="ENTAILMENT" task="IE">
+<t>Tips for Chinese choosing an English name</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="564" entailment="CONTRADICTION" task="IE">
+<t>How did Fake Chinese News Site Dupe Washington Post, Atlantic, BBC?</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="565" entailment="ENTAILMENT" task="IE">
+<t>Chinese advised to choose British-sounding names to get ahead</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="566" entailment="ENTAILMENT" task="IE">
+<t>The Chinese Guide to Avoiding a Bad English Name</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="567" entailment="CONTRADICTION" task="IE">
+<t>Satirical news site attacks China's weird English names</t>
+<h>The Chinese public broadcaster published an article on Tips for Chinese choosing an English name.</h>
+</pair>
+<pair id="662" entailment="ENTAILMENT" task="IE">
+<t>REVEALED: Woman Behind 5 Million Per Year Youtube Channel Is a Former Porn Star Read more at: http:nextshark.comrevealed-woman-behind-5-million-per-year-youtube-channel-is-a-former-porn-starrmns</t>
+<h>The woman behind the hugely popular DC Toys Collector Disney Collector YouTube channel is a former porn star</h>
+</pair>
+<pair id="663" entailment="ENTAILMENT" task="IE">
+<t>Mystery woman behind the richest hands on the internet revealed: Former pornstar makes 5m a year unwrapping Disney toys on YouTube</t>
+<h>The woman behind the hugely popular DC Toys Collector Disney Collector YouTube channel is a former porn star</h>
+</pair>
+<pair id="664" entailment="ENTAILMENT" task="IE">
+<t>Former Porn Star Behind YouTube Sensation DC Toy Collector, Makes 5 Million Per Year Unboxing Disney Toys</t>
+<h>The woman behind the hugely popular DC Toys Collector Disney Collector YouTube channel is a former porn star</h>
+</pair>
+<pair id="829" entailment="ENTAILMENT" task="IE">
+<t>ADVISORY-Islamist rebel leader killed in U.S. strike - Somali government</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="830" entailment="UNKNOWN" task="IE">
+<t>Somalia Shebab chief Ahmed Abdi Godane likely dead in US strike: Source</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="831" entailment="UNKNOWN" task="IE">
+<t>6 Islamist militants killed in US attack in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="832" entailment="ENTAILMENT" task="IE">
+<t>Somali terrorist leader dead after US airstrike</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="833" entailment="UNKNOWN" task="IE">
+<t>US airstrike targets Al Shabaab leader Ahmed Abdi Godane in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="834" entailment="ENTAILMENT" task="IE">
+<t>Al-Shabaab Terror Group Leader Killed in U.S. Airstrike</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="835" entailment="UNKNOWN" task="IE">
+<t>Pentagon: Somali terror group leader killed in U.S. airstrike</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="836" entailment="UNKNOWN" task="IE">
+<t>Al-Shabab leader who ordered Kenya mall massacre believed killed in US drone attack in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="837" entailment="ENTAILMENT" task="IE">
+<t>US confirms death of Somalia terror group leader</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="838" entailment="ENTAILMENT" task="IE">
+<t>Terror Leader Ahmed Abdi Godane Killed in U.S. Strike</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="839" entailment="ENTAILMENT" task="IE">
+<t>U.S. airstrike kills Islamic Al Shabab terrorist leader in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="840" entailment="UNKNOWN" task="IE">
+<t>Leader of Qaeda-Linked Somali Group Is Dead, U.S. Says</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="841" entailment="UNKNOWN" task="IE">
+<t>Pentagon: death of al Shabaab leader in U.S. strike would be major blow</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="842" entailment="ENTAILMENT" task="IE">
+<t>Al-Shabaab leader Ahmed Abdi Godane killed by US air strike in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="843" entailment="ENTAILMENT" task="IE">
+<t>Pentagon: Airstrike kills terror leader in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="844" entailment="ENTAILMENT" task="IE">
+<t>White House confirms al-Shabab leader killed in airstrike in Somalia</t>
+<h>The U.S. killed Ahmed Abdi Godane in an airstrike</h>
+</pair>
+<pair id="1025" entailment="UNKNOWN" task="IE">
+<t>Next-gen iPhone rumored to sport dual-lenses, DSLR quality in biggest camera jump ever</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1026" entailment="UNKNOWN" task="IE">
+<t>iPhone 6s ... transfiguration Nurse</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1027" entailment="ENTAILMENT" task="IE">
+<t>Next-generation Apple iPhones features leaked</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1028" entailment="ENTAILMENT" task="IE">
+<t>We're Getting More Detail On The Amazing New Camera Apple Is Planning For The Next iPhone</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1029" entailment="UNKNOWN" task="IE">
+<t>Crystal Baller: Dual-lens iPhone 6s, ARM-based Macs and 6 more crazy Apple rumors</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1030" entailment="UNKNOWN" task="IE">
+<t>iPhone 6s To Have DSLR-Quality Camera? Rumors Suggest Dual-Lens Camera, Apple Watch Force Touch Feature</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1031" entailment="UNKNOWN" task="IE">
+<t>iPhone 6s Rumored to Include 2GB of Faster RAM and Force Touch Technology</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1032" entailment="UNKNOWN" task="IE">
+<t>iPhone 6S rumors suggest new camera, HealthKit sensors</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1033" entailment="UNKNOWN" task="IE">
+<t>iPhone 6s Rumor Suggests Dual Lens Optical Zoom Camera, Pressure Sensors Inbound</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1034" entailment="UNKNOWN" task="IE">
+<t>Phone 6s Will Sport Dual-lens Camera, Healthkit Sensors: Rumor</t>
+<h>The iPhone 6s will have a dual-lens camera</h>
+</pair>
+<pair id="1079" entailment="CONTRADICTION" task="IE">
+<t>ISIS Advances to Within 10 Miles of Baghdad</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1080" entailment="UNKNOWN" task="IE">
+<t>ISIS FIGHTING JUST ONE MILE OUTSIDE BAGHDAD DESPITE AIRSTRIKES</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1081" entailment="UNKNOWN" task="IE">
+<t>ISIS fighters now at the gates of Baghdad: Islamic militants fighting just one mile from Iraqi capital despite days Western airstrikes</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1082" entailment="ENTAILMENT" task="IE">
+<t>ISIS Baghdad March: Islamic State 1 Mile Away From Iraqi Capital</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1083" entailment="UNKNOWN" task="IE">
+<t>Isis just one mile from Baghdad as al-Qaeda fighters join forces against Syria air strikes</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1084" entailment="ENTAILMENT" task="IE">
+<t>ISIS Is One Mile From Baghdad</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1085" entailment="UNKNOWN" task="IE">
+<t>ISIS Islamists at the Gates of Baghdad</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1086" entailment="UNKNOWN" task="IE">
+<t>Islamic State reportedly on Baghdad's outskirts after week of victories</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1087" entailment="ENTAILMENT" task="IE">
+<t>ISIS militants less than 2 miles from Baghdad, fierce fighting reported near Iraqi capital</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1088" entailment="UNKNOWN" task="IE">
+<t>Isis just one mile from Baghdad as al-Qaeda joins militants fight against West</t>
+<h>ISIS is a mile away from Baghdad</h>
+</pair>
+<pair id="1320" entailment="ENTAILMENT" task="IE">
+<t>Italian fisherman catches monstrous 280-pound catfish</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1321" entailment="ENTAILMENT" task="IE">
+<t>Caught a catfish record in Po: 127 kg and 2.67 meters</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1322" entailment="ENTAILMENT" task="IE">
+<t>Giant 8ft 9in catfish weighing 19 stone caught in Italy is thought to be the biggest ever reeled in with a rod and line</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1323" entailment="ENTAILMENT" task="IE">
+<t>Italian catches huge wels catfish is it a record?</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1324" entailment="ENTAILMENT" task="IE">
+<t>Enormous 20-stone catfish caught with fishing rod in Italy after 40-minute boat battle</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1325" entailment="ENTAILMENT" task="IE">
+<t>280 Pound Catfish: Fisherman Makes Huge Catch In Italy, Catfish Could Set Record</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1326" entailment="ENTAILMENT" task="IE">
+<t>Fisherman lands 19 STONE catfish which could be biggest in world to be hooked</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1327" entailment="ENTAILMENT" task="IE">
+<t>Monster catfish which looks big enough to swallow a man whole caught in Italy</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1328" entailment="UNKNOWN" task="IE">
+<t>Surreal Photos of Fisherman's Jaw-Dropping Catch Will Likely Have People Wondering If It's Real</t>
+<h>Italian fishermen caught a 280-pound catfish</h>
+</pair>
+<pair id="1486" entailment="UNKNOWN" task="IE">
+<t>Female Kurdish poster girl fighter feared killed</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1487" entailment="ENTAILMENT" task="IE">
+<t>Poster girl in fight against ISIS is beheaded by terror group</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1488" entailment="UNKNOWN" task="IE">
+<t>ISIS CAPTURES, BEHEADS KURDISH FEMALE FIGHTER REHANA IN KOBANE</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1489" entailment="UNKNOWN" task="IE">
+<t>ISIS Reportedly Beheaded The Poster Child For Kurdish Female Fighters</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1490" entailment="CONTRADICTION" task="IE">
+<t>Rehana, Poster Girl for Kurdish Peshmerga, Alive and Fighting Fiercely, After ISIS Claims of Beheading Her</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1491" entailment="UNKNOWN" task="IE">
+<t>Poster girl for Kurdish freedom fighters in Kobane is captured and beheaded by ISIS killers who posted gruesome pictures online</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1492" entailment="CONTRADICTION" task="IE">
+<t>Rehana is alive and well... ISIS fanatics have NOT beheaded her: Poster girl for Kurdish freedom fighters escaped Kobane hellhole, friends tell MailOnline</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1493" entailment="CONTRADICTION" task="IE">
+<t>Female Kurdish Fighter Rehana is Alive, Claim Supporters Post CNN Video as Proof</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1494" entailment="ENTAILMENT" task="IE">
+<t>URGENT: ISIS beheads Kurdish female fighter Rehana</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1495" entailment="CONTRADICTION" task="IE">
+<t>Kurdish resistance denies ISIS claims that they have beheaded poster girl Rehana</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1496" entailment="UNKNOWN" task="IE">
+<t>Claims famous Kurdish Peshmerga fighter Rehana may have been decapitated</t>
+<h>Kurdish fighter Rehana was killed by ISIS</h>
+</pair>
+<pair id="1531" entailment="CONTRADICTION" task="IE">
+<t>Twitter messages attributed to Lisa Bonet was hoax, manager says</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1532" entailment="CONTRADICTION" task="IE">
+<t>Lisa Bonet Did NOT Send Cryptic Tweet About Bill Cosby Twitter Account Fake</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1533" entailment="UNKNOWN" task="IE">
+<t>Purported Lisa Bonet Twitter Account Suspended After Cryptic Cosby Tweet</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1534" entailment="CONTRADICTION" task="IE">
+<t>Fake Lisa Bonet Tweet on Cosby Scandal Fools Major Media Outlets</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1535" entailment="CONTRADICTION" task="IE">
+<t>Lisa Bonet Denies Slamming Bill Cosby on Twitter</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1536" entailment="CONTRADICTION" task="IE">
+<t>Lisa Bonet Tweet About Bill Cosby Sent From Fake Account, Manager Confirms</t>
+<h>Former Cosby Show actor Lisa Bonet tweeted about the accusations against Bill Cosby</h>
+</pair>
+<pair id="1568" entailment="ENTAILMENT" task="IE">
+<t>Electric shock turns Russian boy into Marvel's Magneto</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1569" entailment="ENTAILMENT" task="IE">
+<t>Isilkulskom student has gained superhero powers after shock</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1570" entailment="ENTAILMENT" task="IE">
+<t>Meet Magneto Boy, the kid who attracts metal with his body</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1571" entailment="ENTAILMENT" task="IE">
+<t>Omsk schoolboy turned into a man-magnet after shock</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1572" entailment="ENTAILMENT" task="IE">
+<t>This boy nearly died, now he has a superpower like Marvel's Magneto</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1573" entailment="UNKNOWN" task="IE">
+<t>Schoolboy who got electric shock from lamppost claims he now has magnetic powers</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1574" entailment="UNKNOWN" task="IE">
+<t>Boy who suffered powerful electric shock claims he now has superpowers like X-Men's Magneto as metal objects stick to him</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1575" entailment="ENTAILMENT" task="IE">
+<t>Meet the X-BOY: Electric shock turns kid into MAGNETO</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1576" entailment="ENTAILMENT" task="IE">
+<t>Real-life Magneto boy becomes living magnet after getting massive electric shock from street lamp</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1577" entailment="UNKNOWN" task="IE">
+<t>Schoolboy almost killed by electric shock claims he now has superpowers like Magneto</t>
+<h>A Russian boy attracts metal objects with his body after being hit with jolt of electricity</h>
+</pair>
+<pair id="1630" entailment="ENTAILMENT" task="IE">
+<t>Watch marine take sniper shot to the head and live</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1631" entailment="ENTAILMENT" task="IE">
+<t>Video shows dramatic moment bullet strikes U.S. Marine's head and he survives thanks to kevlar helmet</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1632" entailment="ENTAILMENT" task="IE">
+<t>Video: Marine survives Taliban sniper headshot thanks to helmet</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1633" entailment="ENTAILMENT" task="IE">
+<t>Incredible Video Shows A US Marine Surviving Being Shot In The Head By A Sniper In Afghanistan</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1634" entailment="ENTAILMENT" task="IE">
+<t>Moment U.S. Marine is saved by his Kevlar helmet as Taliban sniper bullet hits him in head</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1635" entailment="ENTAILMENT" task="IE">
+<t>Watch: US marine survives Taliban sniper headshot in Afghanistan</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1636" entailment="ENTAILMENT" task="IE">
+<t>Video: Marine saved by helmet after Taliban sniper attack</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1637" entailment="ENTAILMENT" task="IE">
+<t>Watch US Marine get shot in HEAD by Taliban sniper - and live to tell tale</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1638" entailment="ENTAILMENT" task="IE">
+<t>Watch: US Marine saved by helmet after being shot by Taliban sniper</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1639" entailment="ENTAILMENT" task="IE">
+<t>US Marine survives headshot in Afghanistan</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1640" entailment="ENTAILMENT" task="IE">
+<t>Marine Gets Shot in the Head, Walks Away</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1641" entailment="ENTAILMENT" task="IE">
+<t>US Marine survives headshot from Taliban video</t>
+<h>Video shows a U.S. Marine surviving being shot in the helmet</h>
+</pair>
+<pair id="1848" entailment="ENTAILMENT" task="IE">
+<t>NEWS Read the Touching Letter This 9-Year-Old Girl Sent Her Teacher After He Came Out to the Class</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1849" entailment="ENTAILMENT" task="IE">
+<t>9-year-old girl pens touching letter to teacher who came out as gay</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1850" entailment="ENTAILMENT" task="IE">
+<t>Even though you're gay, I will always treat you the same way as I do now: Moving letter from nine-year-old to her school teacher after he came out to his class</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1851" entailment="ENTAILMENT" task="IE">
+<t>Gay Teacher Receives Touching Letter From Student, 9, After He Comes Out</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1852" entailment="ENTAILMENT" task="IE">
+<t>9-Year-Old Writes Moving Letter to Teacher Who Came Out as Gay to His Class</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1853" entailment="ENTAILMENT" task="IE">
+<t>Nine-year-old girl writes letter to amazing, fantastic teacher after he comes out as gay</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1854" entailment="ENTAILMENT" task="IE">
+<t>School pupil writes moving letter to her teacher after he comes out as gay</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1855" entailment="ENTAILMENT" task="IE">
+<t>A 9-year-old girl gave this hearfelt letter to her teacher after he came out as gay</t>
+<h>A 9 year old student sent a heartwarming letter to her teacher after he came out to the class</h>
+</pair>
+<pair id="1858" entailment="ENTAILMENT" task="IE">
+<t>A North Korean Student Is On The Run In France After Escaping Pyongyang Agents</t>
+<h>The son of a North Korean is on the run in France</h>
+</pair>
+<pair id="1859" entailment="ENTAILMENT" task="IE">
+<t>Son of North Korean aide linked to Kim Jong-un's executed uncle is on the run in France amid fears he will be killed by regime</t>
+<h>The son of a North Korean is on the run in France</h>
+</pair>
+<pair id="1860" entailment="ENTAILMENT" task="IE">
+<t>North Korean student on the run in France after escaping from Pyongyang's agents</t>
+<h>The son of a North Korean is on the run in France</h>
+</pair>
+<pair id="1972" entailment="ENTAILMENT" task="IE">
+<t>NEWS All Dogs Go to Heaven Pope Francis Confirms Paradise Is Open to All of God's Creatures</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1973" entailment="ENTAILMENT" task="IE">
+<t>Do all dogs go to heaven? Pope tells grieving boy: Paradise is open to all of God's creatures</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1974" entailment="CONTRADICTION" task="IE">
+<t>Pope Francis did not tell boy heaven has room for pets, contrary to report</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1975" entailment="ENTAILMENT" task="IE">
+<t>Pope Francis tells boy whose dog had died that heaven is open to all</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1976" entailment="CONTRADICTION" task="IE">
+<t>Pope Francis turns out not to have made pets in heaven comment</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1977" entailment="ENTAILMENT" task="IE">
+<t>Dogs DO go to heaven and cats, and horses: Pope assures young boy that there is a place in paradise for animals as well</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1978" entailment="ENTAILMENT" task="IE">
+<t>Pope says dogs can go to heaven: Paradise is open to all of God's creatures</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1979" entailment="ENTAILMENT" task="IE">
+<t>Animal lovers abuzz over pope's comments that paradise is open to all of God's creatures</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1980" entailment="CONTRADICTION" task="IE">
+<t>Sorry, Fido. Pope Francis did NOT say our pets are going to heaven</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1981" entailment="UNKNOWN" task="IE">
+<t>Some dogs go to heaven? Pope's remark to boy opens can of worms on animal rights</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="1982" entailment="ENTAILMENT" task="IE">
+<t>Paradise is open to all, even dogs, Pope tells boy</t>
+<h>Pope Francis told a boy whose dog had died that Paradise is open to all of God's creatures</h>
+</pair>
+<pair id="2294" entailment="UNKNOWN" task="IE">
+<t>Star Wars: The Force Awakens May Get An Early Release DateReport</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2295" entailment="ENTAILMENT" task="IE">
+<t>J.J. Abrams Asks Disney To Move Up Star Wars: The Force Awakens Release Date</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2296" entailment="CONTRADICTION" task="IE">
+<t>Non, le lancement du nouveau Star Wars ne sera pas devanc cet t</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2297" entailment="UNKNOWN" task="IE">
+<t>Star Wars VII for a New SUMMER Release Date?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2298" entailment="UNKNOWN" task="IE">
+<t>Has J.J. Abrams Asked for THE FORCE AWAKENS Release Date to be Moved Up?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2299" entailment="UNKNOWN" task="IE">
+<t>Star Wars VII News, Update: JJ Abrams Pushing for Summer Release?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2300" entailment="UNKNOWN" task="IE">
+<t>The Force Awakens Release Date: JJ Abrams Plan for an Early Release of Star Wars Movie?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2301" entailment="UNKNOWN" task="IE">
+<t>Star Wars: The Force Awakens to be released this summer?</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2302" entailment="ENTAILMENT" task="IE">
+<t>Star Wars 7: JJ Abrams want to move release to summer 2015</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2303" entailment="ENTAILMENT" task="IE">
+<t>The Force Awakens News: Director J.J. Abrams Eyes Summer Release for Star Wars 7 Because of Too Many Spoilers</t>
+<h>J.J. Abrams wants a summer release date for Star Wars: Episode VII</h>
+</pair>
+<pair id="2330" entailment="ENTAILMENT" task="IE">
+<t>Michael Phelps Reported Girlfriend Reveals She Was Born Intersex</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2331" entailment="UNKNOWN" task="IE">
+<t>Michael Phelps Tinder Girlfriend Was Born Male We Made Love During Halftime</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2332" entailment="UNKNOWN" task="IE">
+<t>Lady on FB: I'm 41, Intersex, and Fucked Michael Phelps on First Date</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2333" entailment="ENTAILMENT" task="IE">
+<t>Michael Phelps Sex Scandal: Troubled Olympian's Girlfriend Was Born A Man</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2334" entailment="ENTAILMENT" task="IE">
+<t>Michael Phelps girlfriend reveals she was born a man and never told the swimmer</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2335" entailment="ENTAILMENT" task="IE">
+<t>Michael Phelps self-proclaimed girlfriend, 41, reveals she was born a male as she describes her amazing intimacy with Olympic swimmer</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2336" entailment="ENTAILMENT" task="IE">
+<t>Michael Phelps self-proclaimed girlfriend says she was born a BOY and reveals amazing sex with Olympian</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2337" entailment="ENTAILMENT" task="IE">
+<t>Michael Phelps girlfriend Taylor Lianne Chandler reveals she was raised as a boy</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2338" entailment="ENTAILMENT" task="IE">
+<t>Michael Phelps girlfriend was born male but did not tell swimmer about her past</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2339" entailment="ENTAILMENT" task="IE">
+<t>Michael Phelps alleged girlfriend says she was born intersex</t>
+<h>Taylor Lianne Chandler was born intersex</h>
+</pair>
+<pair id="2448" entailment="ENTAILMENT" task="IE">
+<t>Tiger Woods selling Swedish villa island included</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2449" entailment="ENTAILMENT" task="IE">
+<t>Tiger Woods luxe Viking island in Sweden is for sale</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2450" entailment="ENTAILMENT" task="IE">
+<t>Tee-off in your own putting paradise: Swedish luxury island owned by Tiger Woods up for sale - and it comes with a villa, a hot tub and a lodge</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2451" entailment="ENTAILMENT" task="IE">
+<t>For sale: Tiger's former island in Sweden</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2452" entailment="ENTAILMENT" task="IE">
+<t>Tiger Woods Is Selling His Private Island For 7.1 Million</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2453" entailment="ENTAILMENT" task="IE">
+<t>Tiger Woods prices private island at 7.1 million</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2454" entailment="CONTRADICTION" task="IE">
+<t>No, it's not Tiger Woods selling an island in Lake Mlaren</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2455" entailment="ENTAILMENT" task="IE">
+<t>Tiger Woods former luxury island goes on sale</t>
+<h>Tiger Woods is selling his island in Lake Mlaren, Sweden</h>
+</pair>
+<pair id="2582" entailment="ENTAILMENT" task="IE">
+<t>Teen wakes up mid-brain surgery and asks doctors How's it going?</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2583" entailment="ENTAILMENT" task="IE">
+<t>Teen wakes up during brain surgery, asks how it's going</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2584" entailment="ENTAILMENT" task="IE">
+<t>Iga Jasica Says Awakening During Brain Surgery Was No Mistake</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2585" entailment="ENTAILMENT" task="IE">
+<t>Teenager wakes up while undergoing BRAIN SURGERY in Poland... and asks the surgeons how the operation is going</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2586" entailment="ENTAILMENT" task="IE">
+<t>Iga Jasica brain surgery: Teen wakes up mid-procedure on table, chats about cat</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2587" entailment="ENTAILMENT" task="IE">
+<t>19-year-old girl wakes up during brain surgery, asks doctors How's it going?</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2588" entailment="ENTAILMENT" task="IE">
+<t>Brain Surgery Recovery: Teenage Girl Wakes Up During Procedure, Talks About Cats</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2589" entailment="ENTAILMENT" task="IE">
+<t>How's it going?: Teenager wakes up during brain surgery and asks doctors for progress report</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2590" entailment="ENTAILMENT" task="IE">
+<t>How's it going?: Teen wakes up during brain surgery</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2591" entailment="ENTAILMENT" task="IE">
+<t>Teen Iga Jasica wakes up during brain surgery, asks how it's going</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2592" entailment="ENTAILMENT" task="IE">
+<t>Surgery Patient Wakes Up, Asks Doc How's It Going?</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2593" entailment="ENTAILMENT" task="IE">
+<t>Polish Teenager Wakes Up During Brain Surgery, Talks To Doctor</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+<pair id="2594" entailment="ENTAILMENT" task="IE">
+<t>Brain op shock as teen wakes up mid-surgery</t>
+<h>A woman woke up during brain surgery and talked about cats, asked the surgeons How's it going?</h>
+</pair>
+</entailment-corpus>

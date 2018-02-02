@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="18" entailment="ENTAILMENT" task="IE">
+<t>AUSTRALIA: 600-POUND WOMAN GIVES BIRTH TO 40-POUND BABY</t>
+<h>A 600-pound Australian woman gave birth to 40-pound baby</h>
+</pair>
+<pair id="73" entailment="UNKNOWN" task="IE">
+<t>British Jihadi Killed In US Airstrike - Reports</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="74" entailment="UNKNOWN" task="IE">
+<t>Teenage British jihadi killed in US airstrikes: 19-year-old from Brighton died in US-led bombing</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="75" entailment="ENTAILMENT" task="IE">
+<t>Brit teenage jihadi killed in Syrian airstrike as Britain set to enter war</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="76" entailment="UNKNOWN" task="IE">
+<t>Jihadist Brit teen killed in US air strikes</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="77" entailment="UNKNOWN" task="IE">
+<t>British teenager Ibrahim Kamara Killed In US Airstrikes In Syria</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="78" entailment="ENTAILMENT" task="IE">
+<t>Syria: Teenage British Jihadi from Brighton Killed in US Airstrikes</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="79" entailment="ENTAILMENT" task="IE">
+<t>Brighton teenage jihadi known as Khalil al-Britani killed in Syria drone strike</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="80" entailment="UNKNOWN" task="IE">
+<t>British teenage jihadist killed during US air strikes on Syria</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="81" entailment="UNKNOWN" task="IE">
+<t>Brighton jihadi among five killed in Syria drone strike</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="82" entailment="ENTAILMENT" task="IE">
+<t>Brighton teenager killed in US air strikes in Syria</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="83" entailment="UNKNOWN" task="IE">
+<t>British teenage jihadi believed to have been killed in Syria</t>
+<h>Jihadist Khalil al-Britani was killed</h>
+</pair>
+<pair id="131" entailment="CONTRADICTION" task="IE">
+<t>Don't cancel your ski plans, Apple's not having an event in Feb.</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="132" entailment="UNKNOWN" task="IE">
+<t>Rumor: Apple to hold event this month to unveil Retina MacBook Air finalize Apple Watch specs</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="133" entailment="UNKNOWN" task="IE">
+<t>Apple's next big event reportedly set for late February</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="134" entailment="UNKNOWN" task="IE">
+<t>Apple could make a Special Event in late February Update</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="135" entailment="UNKNOWN" task="IE">
+<t>Apple Media Event Rumored for Late February, Apple Watch and 12 MacBook Air Likely Topics Updated</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="136" entailment="UNKNOWN" task="IE">
+<t>Apple May Or May Not Hold An Event On The 24th Of February Rumor</t>
+<h>Apple will hold a special medialaunch event in February</h>
+</pair>
+<pair id="242" entailment="UNKNOWN" task="IE">
+<t>Rumor: Apple Watch to feature 512MB of RAM, 4GB of storage</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="243" entailment="UNKNOWN" task="IE">
+<t>Apple Watch will reportedly have pretty unimpressive specs</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="244" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Specs Tipped Said to Feature 512MB RAM, 4GB of Storage</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="245" entailment="UNKNOWN" task="IE">
+<t>Apple's Watch Will Come In 2 Storage Sizes</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="246" entailment="UNKNOWN" task="IE">
+<t>Spec leak suggests Apple Watch will be on par with Android Wear rivals</t>
+<h>Apple Watch will have 512 MB of RAM and 4GB or 8GB storage options</h>
+</pair>
+<pair id="305" entailment="CONTRADICTION" task="IE">
+<t>Sorry, Argentina's President Didn't Actually Adopt a Jewish Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="306" entailment="ENTAILMENT" task="IE">
+<t>Werewolf Legend Leads To Jewish Godson's Adoption by Argentina President</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="307" entailment="ENTAILMENT" task="IE">
+<t>President of Argentina Adopts Boy to Stop Him from Becoming a Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="308" entailment="ENTAILMENT" task="IE">
+<t>President of Argentina adopts godson to stop him from turning into a werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="309" entailment="ENTAILMENT" task="IE">
+<t>Argentina's President Just Adopted a Son So He Won't Turn into a Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="310" entailment="UNKNOWN" task="IE">
+<t>Did Argentina's President Adopt A Jewish Baby To Stop It From Becoming A Werewolf??</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="311" entailment="CONTRADICTION" task="IE">
+<t>People Actually Believed Argentina's President Adopted A Jewish Boy To Stop His Change Into A Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="312" entailment="UNKNOWN" task="IE">
+<t>There's A Weird Story Going Around About How Argentina's President Just Saved A Jewish Man From Becoming A Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="313" entailment="ENTAILMENT" task="IE">
+<t>Argentina's President Adopted A Jewish Godson To Stop Him From Turning Into A Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="314" entailment="UNKNOWN" task="IE">
+<t>The story of the Argentinean president, werewolves and seventh sons</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="315" entailment="ENTAILMENT" task="IE">
+<t>Werewolf legend leads Argentine president to adopt</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="316" entailment="ENTAILMENT" task="IE">
+<t>Argentina's President Adopts Young Boy so He Won't Turn Into Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="317" entailment="ENTAILMENT" task="IE">
+<t>Argentina president adopts Jewish godson for first time in country's history</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="318" entailment="UNKNOWN" task="IE">
+<t>Argentina President, Christina Kirchner, Has Bizarre Werewolf Mishap</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="319" entailment="ENTAILMENT" task="IE">
+<t>Argentina's President Cristina Kirchner Adopts Jewish Godson To Prevent Him Turning Into A Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="320" entailment="ENTAILMENT" task="IE">
+<t>President of Argentina adopts Jewish boy to stop him turning into werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="321" entailment="UNKNOWN" task="IE">
+<t>President of Argentina adopts Jewish godson to stop him turning into a werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="322" entailment="ENTAILMENT" task="IE">
+<t>Argentina's president adopts Jewish godson to counteract werewolf legend</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="323" entailment="CONTRADICTION" task="IE">
+<t>Argentina's President Didn't Adopt A Jewish Child To Avoid Becoming A Werewolf So What Did She Do?</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="324" entailment="ENTAILMENT" task="IE">
+<t>Argentina's President Adopts Boy to End Werewolf Curse</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="325" entailment="CONTRADICTION" task="IE">
+<t>Argentine President Takes On Godson But Not To Keep Werewolf At Bay</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="326" entailment="ENTAILMENT" task="IE">
+<t>Argentina president adopts young Jewish boy as godson to prevent him from turning into werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="327" entailment="ENTAILMENT" task="IE">
+<t>Argentina's President Adopts Jewish Boy to Keep Him from Turning into a Werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="328" entailment="ENTAILMENT" task="IE">
+<t>Seventh Sons Will Turn into Werewolves</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="329" entailment="UNKNOWN" task="IE">
+<t>Argentina's president adopts godson to prevent him becoming a werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="330" entailment="CONTRADICTION" task="IE">
+<t>No, Argentina's president did not adopt a Jewish child to stop him turning into a werewolf</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="331" entailment="ENTAILMENT" task="IE">
+<t>Argentinian President Cristina Kirchner adopts Jewish boy to protect him from werewolf stigma</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="332" entailment="ENTAILMENT" task="IE">
+<t>Adopting Potential Werewolves Is Routine Business for Argentine Presidents</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="333" entailment="UNKNOWN" task="IE">
+<t>Did Argentina's president adopt a Jewish boy to save him from life as a werewolf'?</t>
+<h>The president of Argentina became the adopted godmother of a boy to help stop him from becoming a werewolf</h>
+</pair>
+<pair id="568" entailment="ENTAILMENT" task="IE">
+<t>Unlucky in love man chops off own penis</t>
+<h>Claim a Chinese man chopped off his own penis due to his frustration with not finding love</h>
+</pair>
+<pair id="569" entailment="ENTAILMENT" task="IE">
+<t>Unlucky in love man CHOPS OFF own penis because he was fed up with not having a girlfriend</t>
+<h>Claim a Chinese man chopped off his own penis due to his frustration with not finding love</h>
+</pair>
+<pair id="570" entailment="ENTAILMENT" task="IE">
+<t>Yang Hu, worker in Zhejiang, cuts off own penis over desperation of finding love</t>
+<h>Claim a Chinese man chopped off his own penis due to his frustration with not finding love</h>
+</pair>
+<pair id="680" entailment="UNKNOWN" task="IE">
+<t>Man With Ebola-Like Symptoms Claims Contact With Patient Zero in Texas</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="681" entailment="UNKNOWN" task="IE">
+<t>Update: Frisco paramedics transporting patient believed to be exhibiting Ebola-like symptoms</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="682" entailment="ENTAILMENT" task="IE">
+<t>Texas deputy showing Ebola symptoms was sent into patient zero's apartment WITHOUT protection but started growing concerned when his squad car and his uniform were quarantined</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="683" entailment="UNKNOWN" task="IE">
+<t>Ebola Frisco 2014: Patient Shows Virus Symptoms After Apparent Thomas Eric Duncan Contact</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="684" entailment="UNKNOWN" task="IE">
+<t>Frisco: Sick patient claims to have had contact with Ebola victim</t>
+<h>A man in Frisco, Texas being examined for Ebola came into direct contact with Ebola victim Thomas E. Duncan</h>
+</pair>
+<pair id="695" entailment="ENTAILMENT" task="IE">
+<t>Texas Town Quarantined After Family Of Five Test Positive For The Ebola Virus</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="696" entailment="CONTRADICTION" task="IE">
+<t>UPDATE: Internet report of Ebola outbreak in Purdon not true</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="697" entailment="CONTRADICTION" task="IE">
+<t>Report of quarantined Texas town NOT real shared on a fake news website</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="698" entailment="CONTRADICTION" task="IE">
+<t>Officials: Report That Area Town Is Under Ebola Quarantine Is False</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="699" entailment="UNKNOWN" task="IE">
+<t>Texas, Hold Em</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="700" entailment="CONTRADICTION" task="IE">
+<t>Purdon Ebola Hoax: Texas Town Quarantined After Family Of Five Test Positive For The Ebola Virus Report Totally Fake</t>
+<h>The town of Purdon, Texas was quarantined after a family of five tested positive for Ebola</h>
+</pair>
+<pair id="716" entailment="ENTAILMENT" task="IE">
+<t>Doubts raised over authenticity of Charlie Hebdo footage.</t>
+<h>The BBC carried a report that questions the official version of the Charlie Hebdo murders</h>
+</pair>
+<pair id="717" entailment="CONTRADICTION" task="IE">
+<t>Fake BBC News website set up to carry Charlie Hebdo attack conspiracy theories</t>
+<h>The BBC carried a report that questions the official version of the Charlie Hebdo murders</h>
+</pair>
+<pair id="898" entailment="CONTRADICTION" task="IE">
+<t>No, that high school kid didn't make 72 million trading stocks</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="899" entailment="ENTAILMENT" task="IE">
+<t>Teen Made 72 Million Trading Stocks, Confirms Teen Dominance Worldwide</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="900" entailment="ENTAILMENT" task="IE">
+<t>High school student scores 72M playing the stock market</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="901" entailment="CONTRADICTION" task="IE">
+<t>EXCLUSIVE: New York Mag's Boy Genius Investor Made It All Up</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="902" entailment="UNKNOWN" task="IE">
+<t>High School Student Rumored to Have Made 72 Million Trading Stocks</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="903" entailment="UNKNOWN" task="IE">
+<t>The Story Of The High School Trader Who Made 72 Million Is A Rumor Spun Out Of Control</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="904" entailment="CONTRADICTION" task="IE">
+<t>Whiz kid stock picker: I didn't actually make 72M trading</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="905" entailment="UNKNOWN" task="IE">
+<t>New York schoolboy made 72million trading stocks on his lunch breaks - and now takes his friends out to dine on 400 caviar, drives a BMW and has definitely made his immigrant parents proud</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="906" entailment="ENTAILMENT" task="IE">
+<t>NYC High School Student Nicknamed Teen Wolf Made 72 Million On Stock Market</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="907" entailment="UNKNOWN" task="IE">
+<t>Did This Kid Really Make 72 Million During Lunch?</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="908" entailment="ENTAILMENT" task="IE">
+<t>Teen Makes 72 Million on the Stock Market</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="909" entailment="CONTRADICTION" task="IE">
+<t>Mohammed Islam Denies Making 72 Million From Stock Market Trading</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="910" entailment="UNKNOWN" task="IE">
+<t>Meet the 17-Year-Old Rumored to Have Made 72 Million During His High-School Lunch Breaks Updated</t>
+<h>A N.Y. high schooler earned 72 million in the stock market</h>
+</pair>
+<pair id="1314" entailment="ENTAILMENT" task="IE">
+<t>Israel opens dams, floods Gaza</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1315" entailment="UNKNOWN" task="IE">
+<t>Palestine accuses Israel of opening dams, flooding Gaza, forcing evacuations</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1316" entailment="CONTRADICTION" task="IE">
+<t>The Flood Libel Propagandists of 2015</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1317" entailment="ENTAILMENT" task="IE">
+<t>Hundreds of Palestinians flee floods in Gaza as Israel opens dams</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1318" entailment="CONTRADICTION" task="IE">
+<t>Israel denies causing Gaza floods by opening dams</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1319" entailment="ENTAILMENT" task="IE">
+<t>Hundreds of Palestinians flee as Israel opens dams into Gaza Valley</t>
+<h>Israel caused flooding in Gaza by opening river dams</h>
+</pair>
+<pair id="1376" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-un Had Surgery on Fractured Ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1377" entailment="ENTAILMENT" task="IE">
+<t>Cheese blamed for North Korean leader Kim Jong-un's broken ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1378" entailment="UNKNOWN" task="IE">
+<t>Kim Had Ankle Surgery: Source</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1379" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-un Broke Both Ankles and Is Hospitalized, Report Claims</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1380" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-un is so fat from eating cheese that he has broken his ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1381" entailment="UNKNOWN" task="IE">
+<t>North Korean leader Kim Jong-un's mystery illness actually two broken ankles, newspaper says</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1382" entailment="ENTAILMENT" task="IE">
+<t>Cheese addiction breaks Kim Jong-un's ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1383" entailment="ENTAILMENT" task="IE">
+<t>South Korea: Kim Jong Un had ankle surgery to remove cyst</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1384" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-Un in hospital with two fractured ankles after ballooning to around 20 stone and going on numerous meet the people walkabout PR stunts</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1385" entailment="UNKNOWN" task="IE">
+<t>Report claims Kim Jong-un underwent surgery to repair fractured ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1386" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-un: North Korean leader recovering from ankle surgery</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1387" entailment="ENTAILMENT" task="IE">
+<t>North Korea dictator Kim Jong-un undergoes surgery after breaking both ankles on military tour</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1388" entailment="UNKNOWN" task="IE">
+<t>Kim Jong Un hospitalized with two broken ankles, reportedly from wearing heels and being overweight</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1389" entailment="ENTAILMENT" task="IE">
+<t>North Korean leader Kim Jong-un not missing, just having ankle surgery</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1390" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-un so fat he has fractured his ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1391" entailment="ENTAILMENT" task="IE">
+<t>Kim Jong-un So Fat He Injured His Ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1392" entailment="UNKNOWN" task="IE">
+<t>Four theories on what may be ailing Kim Jong-un</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1393" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-un: obese leader fractured both ankles</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1394" entailment="UNKNOWN" task="IE">
+<t>North Korean leader Kim Jong Un had ankle surgery, report says</t>
+<h>Kim Jong Un broke both of his ankles</h>
+</pair>
+<pair id="1425" entailment="ENTAILMENT" task="IE">
+<t>Jose Canseco Accidentally Shoots Self in the Hand at Vegas Home</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1426" entailment="UNKNOWN" task="IE">
+<t>ReportJose Canseco accidentally shot at his home tonight</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1427" entailment="ENTAILMENT" task="IE">
+<t>Jose Canseco shoots self in hand</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1428" entailment="UNKNOWN" task="IE">
+<t>Jose Canseco accidentally shot</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1429" entailment="ENTAILMENT" task="IE">
+<t>Jose Canseco Accidentally Shot Himself in the Hand UPDATE - Shot Off Middle Finger</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1430" entailment="ENTAILMENT" task="IE">
+<t>Baseball star Jose Canseco hurt in accidental shooting</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1431" entailment="ENTAILMENT" task="IE">
+<t>Former Baseball Star Jose Canseco Accidentally Shot Himself In The Hand</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1432" entailment="UNKNOWN" task="IE">
+<t>Jose Canseco accidentally shot</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1433" entailment="UNKNOWN" task="IE">
+<t>Jose Canseco injured in accidental shooting, per reports</t>
+<h>Jose Canseco was shot</h>
+</pair>
+<pair id="1444" entailment="CONTRADICTION" task="IE">
+<t>Fowler Falls For Fake Website, Makes Crazy Claims About Tennis Star</t>
+<h>Kei Nishikori is the world's highest-paid tennis player</h>
+</pair>
+<pair id="1445" entailment="ENTAILMENT" task="IE">
+<t>Kei Nishikori Highest-Paid Tennis player in the World</t>
+<h>Kei Nishikori is the world's highest-paid tennis player</h>
+</pair>
+<pair id="1446" entailment="CONTRADICTION" task="IE">
+<t>Satire Website Fools ESPN, Kei Nishikori isn't highest paid tennis star</t>
+<h>Kei Nishikori is the world's highest-paid tennis player</h>
+</pair>
+<pair id="1465" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-Un Has Difficulty Walking And Needs About 100 Days To Recuperate</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1466" entailment="UNKNOWN" task="IE">
+<t>Has Kim's SISTER taken over North Korea? Dictator fails to show for key Communist event but does send a nice flower basket instead</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1467" entailment="UNKNOWN" task="IE">
+<t>North Korea Leader Kim Jong Un Is Still In Charge: Source</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1468" entailment="UNKNOWN" task="IE">
+<t>North Korea leader Kim is still in charge, has injured leg: source</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1469" entailment="ENTAILMENT" task="IE">
+<t>N. Korea's Kim has leg injury but in control</t>
+<h>Kim Jong Un hurt his leg during military exercises</h>
+</pair>
+<pair id="1514" entailment="UNKNOWN" task="IE">
+<t>BlackBerry shares up after unconfirmed report on possible Lenovo bid</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1515" entailment="UNKNOWN" task="IE">
+<t>BlackBerry BBRY Could Receive An Offer By Cash-Rich Lenovo As Early As This Week: Report</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1516" entailment="UNKNOWN" task="IE">
+<t>EXCLUSIVE: Lenovo Could Make An Offer For BlackBerry As Early As This Week</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1517" entailment="UNKNOWN" task="IE">
+<t>Lenovo resumes efforts to acquire struggling phone maker BlackBerry</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1518" entailment="UNKNOWN" task="IE">
+<t>Lenovo Could Make A Bid For BlackBerry Rumor</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1519" entailment="UNKNOWN" task="IE">
+<t>Lenovo tipped to make a bid for BlackBerry this week</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1520" entailment="UNKNOWN" task="IE">
+<t>Lenovo might be eyeing up BlackBerry... again</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1521" entailment="UNKNOWN" task="IE">
+<t>Lenovo Still Wants to Buy BlackBerry and Will Try Again, Source Suggests</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1522" entailment="UNKNOWN" task="IE">
+<t>Lenovo ready to bid for Blackberry - report</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1523" entailment="UNKNOWN" task="IE">
+<t>Lenovo Looking To Buy BlackBerry Ltd REPORT</t>
+<h>Lenovo will make a bid to buy Blackberry</h>
+</pair>
+<pair id="1647" entailment="UNKNOWN" task="IE">
+<t>Bodies found in Mexico town where students vanished</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1648" entailment="ENTAILMENT" task="IE">
+<t>Newly Discovered Mass Grave Linked to Missing Mexican Students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1649" entailment="CONTRADICTION" task="IE">
+<t>Missing Mexican students not found in mass grave</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1650" entailment="UNKNOWN" task="IE">
+<t>Are missing students in mass graves found near Iguala, Mexico?</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1651" entailment="UNKNOWN" task="IE">
+<t>Police find mass graves with at least 15 bodies near Mexico town where 43 students disappeared after police clash</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1652" entailment="ENTAILMENT" task="IE">
+<t>Mexico hit by student massacre: At least 17 anti-corruption protesters rounded up, murdered and dumped in a mass grave - and another 26 are missing</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1653" entailment="CONTRADICTION" task="IE">
+<t>Mexico prosecutor: Students not in 1st mass graves</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1654" entailment="UNKNOWN" task="IE">
+<t>Mexico finds 4 more graves at site of suspected student massacre</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1655" entailment="CONTRADICTION" task="IE">
+<t>Missing Mexico students not among 28 bodies found in mass grave</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1656" entailment="CONTRADICTION" task="IE">
+<t>Mexico Says Missing Students Not Found In First Mass Graves</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1657" entailment="UNKNOWN" task="IE">
+<t>6 hidden mass graves may hold missing Mexican students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1658" entailment="CONTRADICTION" task="IE">
+<t>Mexican cartel leader kills self bodies in grave not missing students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1659" entailment="ENTAILMENT" task="IE">
+<t>Mexico Student Massacre Update: More Graves Discovered At Murder Site</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1660" entailment="CONTRADICTION" task="IE">
+<t>Mexico Says Students Not Among Dead in Mass Grave</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1661" entailment="CONTRADICTION" task="IE">
+<t>Bodies In Mexico Mass Grave Apparently Not Those Of Missing Students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1662" entailment="UNKNOWN" task="IE">
+<t>Mass Graves Found In Mexico, Near Place Where 43 Students Went Missing</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1663" entailment="UNKNOWN" task="IE">
+<t>Mexico police find mass grave near site 43 students vanished</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1664" entailment="ENTAILMENT" task="IE">
+<t>A Mass Grave Points to a Student Massacre in Mexico</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1665" entailment="UNKNOWN" task="IE">
+<t>Mexican investigators fear mass grave might hold 43 missing students</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1666" entailment="CONTRADICTION" task="IE">
+<t>Mexican students not among bodies found in mass graves</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1667" entailment="UNKNOWN" task="IE">
+<t>Mass grave found after 40 students disappear in Mexican protest</t>
+<h>Mass grave found in Mexico holds bodies of missing students</h>
+</pair>
+<pair id="1757" entailment="UNKNOWN" task="IE">
+<t>Did Mitt Romney Call Michelle Obama First Woman'?</t>
+<h>Mitt Romney said Michelle Obama should be called the First Woman, not the First Lady</h>
+</pair>
+<pair id="1758" entailment="UNKNOWN" task="IE">
+<t>Michelle Obama: The First Woman?</t>
+<h>Mitt Romney said Michelle Obama should be called the First Woman, not the First Lady</h>
+</pair>
+<pair id="1929" entailment="ENTAILMENT" task="IE">
+<t>Man's Girlfriend Pours Acid On His Penis After He Covertly Recorded Their Sex Session</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1930" entailment="ENTAILMENT" task="IE">
+<t>Girl poured acid on boyfriend's penis after he released sex tape</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1931" entailment="ENTAILMENT" task="IE">
+<t>17-yr-old girl pours acid on boyfriend's penis after he leaked their sex tape</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1932" entailment="UNKNOWN" task="IE">
+<t>Woman Reportedly Pours Acid on Boyfriend's Penis After Finding His Sex Tape</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1933" entailment="ENTAILMENT" task="IE">
+<t>Man's Penis Destroyed By Battery Acid Over Viral Sex Video In South Africa</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1934" entailment="ENTAILMENT" task="IE">
+<t>Girl destroys boyfriends penis in acid attack after video of them having sex goes viral</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1935" entailment="ENTAILMENT" task="IE">
+<t>I never intended to kill his penis I was just angry: Mpumalanga acid attack girl</t>
+<h>A 17-year-old poured acid her boyfriend's genitals after their sex tape went viral</h>
+</pair>
+<pair id="1957" entailment="ENTAILMENT" task="IE">
+<t>Pizza delivery driver surprised with 2,000 tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1958" entailment="ENTAILMENT" task="IE">
+<t>Luckiest Pizza Delivery Guy Ever Gets 2,000 Tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1959" entailment="ENTAILMENT" task="IE">
+<t>Pizza delivery man gets tipped more than 2,000 for a single delivery</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1960" entailment="ENTAILMENT" task="IE">
+<t>Ann Arbor pizza delivery driver surprised with 2,000 tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1961" entailment="ENTAILMENT" task="IE">
+<t>Pizza delivery man gets 2,000 tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="1962" entailment="ENTAILMENT" task="IE">
+<t>Ann Arbor pizza delivery driver surprised with 2,000 tip</t>
+<h>A Michigan pizza delivery guy received a 2,084 tip</h>
+</pair>
+<pair id="2079" entailment="CONTRADICTION" task="IE">
+<t>Fox Affiliate Falls for College Humor's Office Note War Prank</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2080" entailment="CONTRADICTION" task="IE">
+<t>This Is The Most Passive-Aggressive Office Battle We've Ever Seen</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2081" entailment="ENTAILMENT" task="IE">
+<t>Dear Sandwich Thief: Man's hilarious response to passive-aggressive sign posted on his office's fridge door sparks incredible kitchen note war</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2082" entailment="ENTAILMENT" task="IE">
+<t>Office sandwich thief is caught after hilarious note war reaches fantastic finale</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2083" entailment="ENTAILMENT" task="IE">
+<t>Lunch theft prompts ransom note from sandwich thief</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2084" entailment="ENTAILMENT" task="IE">
+<t>Sandwich thief gets comeuppance in this awesome office note saga</t>
+<h>Two office workers in an epic battle over a stolen sandwich</h>
+</pair>
+<pair id="2202" entailment="ENTAILMENT" task="IE">
+<t>Soldier shot at War Memorial multiple shots fired in Parliament</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2203" entailment="ENTAILMENT" task="IE">
+<t>BREAKING: Soldier shot at War Memorial in Ottawa</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2204" entailment="UNKNOWN" task="IE">
+<t>There has been a shooting at the War Memorial on Parliament Hill. Unconfirmed reports say a soldier was shot.</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2205" entailment="ENTAILMENT" task="IE">
+<t>Breaking: Soldier shot at National War Memorial in Ottawa</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2206" entailment="ENTAILMENT" task="IE">
+<t>Soldier shot in Ottawa at War Memorial</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2207" entailment="ENTAILMENT" task="IE">
+<t>Gunman shot dead after killing soldier near Canadian parliament</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2208" entailment="ENTAILMENT" task="IE">
+<t>Multiple Shootings Near Canadian Parliament In Ottawa, Soldier Killed</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2209" entailment="ENTAILMENT" task="IE">
+<t>Ottawa Shooting: Soldier Shot at Canada's National War Memorial</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2210" entailment="ENTAILMENT" task="IE">
+<t>Soldier shot at war memorial in Canada</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2211" entailment="ENTAILMENT" task="IE">
+<t>A soldier has been shot dead at Canada's war memorial just steps away from the nation's parliament</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2212" entailment="ENTAILMENT" task="IE">
+<t>Soldier Killed, Suspect Dead In Shooting Near Canadian Parliament</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2213" entailment="ENTAILMENT" task="IE">
+<t>Gunman, a recent convert to Islam, dead after Canadian soldier Nathan Cirillo killed at Ottawa war memorial</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2214" entailment="ENTAILMENT" task="IE">
+<t>Soldier shot near Canadian parliament building</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2215" entailment="ENTAILMENT" task="IE">
+<t>Attack on Ottawa: Dead soldier and gunman identified</t>
+<h>A soldier was shot at the War Memorial in Ottawa, Canada</h>
+</pair>
+<pair id="2391" entailment="ENTAILMENT" task="IE">
+<t>Killing in the name of Kim Jong-un launches attack on others named Kim Jong-un</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2392" entailment="UNKNOWN" task="IE">
+<t>North Korea reportedly bans anyone sharing Kim Jong Un's name</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2393" entailment="ENTAILMENT" task="IE">
+<t>No One In North Korea Is Allowed To Share Kim Jong Un's Name</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2394" entailment="UNKNOWN" task="IE">
+<t>Kim Jong-Un bans the name Kim Jong-un</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2395" entailment="UNKNOWN" task="IE">
+<t>Reports say North Korea's Kim insists on being the only Jong Un</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2396" entailment="UNKNOWN" task="IE">
+<t>North Korea directive reveals apparent ban on sharing Kim Jong-un's name</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2397" entailment="UNKNOWN" task="IE">
+<t>North Korea ordered citizens named Kim Jong Un to change their names, says new report</t>
+<h>North Korea issued a directive that anyone with the name Kim Jong Un must change it</h>
+</pair>
+<pair id="2563" entailment="ENTAILMENT" task="IE">
+<t>Woman Dumped by Boyfriend Spends Entire Week Mourning at KFC</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2564" entailment="ENTAILMENT" task="IE">
+<t>Jilted lover spends a week in KFC to try and get over her ex</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2565" entailment="ENTAILMENT" task="IE">
+<t>Heartbroken girl spends week in KFC after getting dumped</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2566" entailment="ENTAILMENT" task="IE">
+<t>Woman Spends Entire Week In KFC After Getting Dumped By Her Boyfriend</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2567" entailment="ENTAILMENT" task="IE">
+<t>Comfort eating? Chinese woman, 26, spends an entire WEEK in KFC after being dumped by boyfriend</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2568" entailment="ENTAILMENT" task="IE">
+<t>Dumped woman spends a week in KFC to get over ex</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2569" entailment="ENTAILMENT" task="IE">
+<t>Woman Stays In KFC For A Week To Get Over Her Break-Up</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+<pair id="2570" entailment="ENTAILMENT" task="IE">
+<t>Woman spends a week in KFC to get over her break up</t>
+<h>Lovesick woman stays in KFC for one week</h>
+</pair>
+</entailment-corpus>

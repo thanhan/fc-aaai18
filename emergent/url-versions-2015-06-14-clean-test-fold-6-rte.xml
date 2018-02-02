@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="0" entailment="UNKNOWN" task="IE">
+<t>BMO forecasts 19M Apple Watch sales in 2015, with more than half selling in holiday season</t>
+<h>Apple will sell 19 million Apple Watches in 2015</h>
+</pair>
+<pair id="19" entailment="CONTRADICTION" task="IE">
+<t>Iraq Says Arrested Woman Is Not The Wife of ISIS Leader al-Baghdadi</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="20" entailment="UNKNOWN" task="IE">
+<t>DNA Tests Confirm Lebanon Is Holding ISIS Leader's Child</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="21" entailment="ENTAILMENT" task="IE">
+<t>DNA test confirms child is IS head Abu Bakr al-Baghdadi's daughter</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="22" entailment="ENTAILMENT" task="IE">
+<t>Lebanon detains wife and son of Al-Baghdadi</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="23" entailment="ENTAILMENT" task="IE">
+<t>Lebanon confirms holding ISIS chief's kin</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="24" entailment="UNKNOWN" task="IE">
+<t>Lebanon holding IS leader's daughter and ex-wife</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="25" entailment="UNKNOWN" task="IE">
+<t>Confusion Surrounds Capture Of ISIS Leader's Wife</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="26" entailment="UNKNOWN" task="IE">
+<t>Mystery surrounds arrest of woman who may be ISIS leader's wife</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="27" entailment="CONTRADICTION" task="IE">
+<t>Iraq claims ISIS leader al-Baghdadi's wife has NOT been arrested, despite Lebanon insisting woman detained at border told them she was Islamist extremist's spouse</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="28" entailment="ENTAILMENT" task="IE">
+<t>DNA tests prove Lebanon IS holding ISIS chief al-Baghdadi's ex-wife and daughter after they were caught with fake passports</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="29" entailment="ENTAILMENT" task="IE">
+<t>Wife Of ISIS Leader Abu Bakr al-Baghdadi Detained In Lebanon</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="30" entailment="CONTRADICTION" task="IE">
+<t>Iraq Denies Lebanon Captured Abu Bakr al-Baghdadi's Wife and Child</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="31" entailment="UNKNOWN" task="IE">
+<t>Isis leader Abu Bakr al-Baghdadi's wife and son detained in Lebanon</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="32" entailment="ENTAILMENT" task="IE">
+<t>Wife and son of Islamic State leader Abu Bakr al-Baghdadi detained in Lebanon</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="33" entailment="ENTAILMENT" task="IE">
+<t>Wife and son of Isil leader Abu Bakr al-Baghdadi detained at Lebanon border</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="34" entailment="ENTAILMENT" task="IE">
+<t>The Arrest of the ISIS Leader's Wife and Son</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="35" entailment="UNKNOWN" task="IE">
+<t>Islamic State leader's family detained by Lebanon, officials say</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="36" entailment="CONTRADICTION" task="IE">
+<t>Woman detained in Lebanon is not al-Baghdadi's wife, Iraq says</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="37" entailment="ENTAILMENT" task="IE">
+<t>Wife and child of Islamic State leader Baghdadi held in Lebanon</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="38" entailment="UNKNOWN" task="IE">
+<t>Wife, child of Islamic State head Abu Bakr al-Baghdadi held in Lebanon, officials say</t>
+<h>A wife and child of ISIS leader Abu Bakr al-Baghdadi were detained in Lebanon</h>
+</pair>
+<pair id="112" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch to come with AMOLED panels from LG Display</t>
+<h>The Apple Watch will include an AMOLED panel from LG Display</h>
+</pair>
+<pair id="127" entailment="ENTAILMENT" task="IE">
+<t>Why the Gold Apple Watch Edition Must Cost 10,000</t>
+<h>The larger Apple Watch Edition will cost 10,000</h>
+</pair>
+<pair id="128" entailment="UNKNOWN" task="IE">
+<t>Why the most expensive Apple Watch will probably cost around 10,000</t>
+<h>The larger Apple Watch Edition will cost 10,000</h>
+</pair>
+<pair id="129" entailment="UNKNOWN" task="IE">
+<t>Gold Apple Watch Edition price? Speculators say at least 10,000</t>
+<h>The larger Apple Watch Edition will cost 10,000</h>
+</pair>
+<pair id="130" entailment="UNKNOWN" task="IE">
+<t>Would you pay 10,000 for the Apple Watch?</t>
+<h>The larger Apple Watch Edition will cost 10,000</h>
+</pair>
+<pair id="195" entailment="CONTRADICTION" task="IE">
+<t>Apple Watch has a Lightning port for development, but won't when it ships</t>
+<h>The Apple Watch will ship with a diagnostics port</h>
+</pair>
+<pair id="196" entailment="UNKNOWN" task="IE">
+<t>Apple Watch reportedly features unannounced diagnostics port under strap connector</t>
+<h>The Apple Watch will ship with a diagnostics port</h>
+</pair>
+<pair id="197" entailment="ENTAILMENT" task="IE">
+<t>Hidden Diagnostic Port on Apple Watch Could Allow for Smart Band Accessories Updated</t>
+<h>The Apple Watch will ship with a diagnostics port</h>
+</pair>
+<pair id="220" entailment="UNKNOWN" task="IE">
+<t>Apple: Citi Sees 550 and 950 Apple Watches, Accessory Plethora</t>
+<h>The gold Apple Watch Edition will retail for 950 USD</h>
+</pair>
+<pair id="221" entailment="UNKNOWN" task="IE">
+<t>Citi sees Apple Watch price points of 550 and 950 myriad accessories</t>
+<h>The gold Apple Watch Edition will retail for 950 USD</h>
+</pair>
+<pair id="222" entailment="UNKNOWN" task="IE">
+<t>Analyst: Apple Watch Edition to Cost 950</t>
+<h>The gold Apple Watch Edition will retail for 950 USD</h>
+</pair>
+<pair id="223" entailment="UNKNOWN" task="IE">
+<t>Brilliant patent details how Apple may be saving money on the 18k Gold Apple Watch</t>
+<h>The Apple Watch Edition has less gold than typical 18k gold</h>
+</pair>
+<pair id="224" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Edition Will Save On Gold With Patented Alloy, Could Start At 2,999</t>
+<h>The Apple Watch Edition has less gold than typical 18k gold</h>
+</pair>
+<pair id="225" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Edition contains new Apple gold</t>
+<h>The Apple Watch Edition has less gold than typical 18k gold</h>
+</pair>
+<pair id="234" entailment="ENTAILMENT" task="IE">
+<t>Tim Cook says Apple Watch will be available outside U.S. in April</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="235" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch won't be a U.S.-only launch</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="236" entailment="ENTAILMENT" task="IE">
+<t>The Apple Watch will launch outside the US in April too</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="237" entailment="UNKNOWN" task="IE">
+<t>The Apple Watch will be available outside the US when it launches next month</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="238" entailment="ENTAILMENT" task="IE">
+<t>Tim Cook teases Apple Watch launch apps, and its debut in Germany</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="239" entailment="UNKNOWN" task="IE">
+<t>Apple Watch may be available outside US shortly after launch</t>
+<h>The Apple Watch will be available in Germany at launch</h>
+</pair>
+<pair id="383" entailment="UNKNOWN" task="IE">
+<t>Senior Western Intelligence Official Confirms London Rapper Abdel Majed Abdel Bary Is A Suspect In The Foley Killing</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="384" entailment="UNKNOWN" task="IE">
+<t>James Foley Killer Jihadi John Believed to Be Former London Rapper Abdel-Majed Abdel Bary</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="385" entailment="UNKNOWN" task="IE">
+<t>British rapper a suspect in ISIS beheading</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="386" entailment="UNKNOWN" task="IE">
+<t>Former British Rapper Reportedly Under Investigation for James Foley Beheading</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="387" entailment="UNKNOWN" task="IE">
+<t>The rapper, the hacker and the terror travel guide writer. Is one of these British extremists Jihadi John? Three potential Islamic State Beatles emerge as MI5 zeroes in on murderer who beheaded U.S. journalist James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="388" entailment="ENTAILMENT" task="IE">
+<t>Abdel-Majed Abdel Bary in Foley beheading: London rapper songs help identify him</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="389" entailment="UNKNOWN" task="IE">
+<t>US, UK eye rapper as British-born militant who beheaded journalist James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="390" entailment="UNKNOWN" task="IE">
+<t>British intelligence has identified Foley's killer</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="391" entailment="UNKNOWN" task="IE">
+<t>L Jinny: London rapper turned jihadist believed to be under investigation for James Foley beheading</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="392" entailment="ENTAILMENT" task="IE">
+<t>Abdel-Majed Abdel Bary: London Rapper Identified As ISIS Militant Who Beheaded James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="393" entailment="UNKNOWN" task="IE">
+<t>London hip-hop artist Abdel-Majed Abdel Bary key suspect in hunt for killer of American journalist James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="394" entailment="UNKNOWN" task="IE">
+<t>Abdel Majed Abdel Bary Emerges as Suspect in Foley Beheading</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="395" entailment="UNKNOWN" task="IE">
+<t>British-born rapper is main suspect in search for ISIS jihadist who beheaded James Foley</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="396" entailment="UNKNOWN" task="IE">
+<t>Rapper identified as James Foley's executioner: reports</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="397" entailment="UNKNOWN" task="IE">
+<t>Rapper identified as James Foley's executioner: reports</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="398" entailment="UNKNOWN" task="IE">
+<t>L. Jinny? Abdel-Majed Abdel Bary, UK Rapper, Suspected in James Foley Killing: Reports</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="399" entailment="ENTAILMENT" task="IE">
+<t>Gateway Pundit</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="400" entailment="ENTAILMENT" task="IE">
+<t>James Foley executioner said identified as British rapper Read more: James Foley executioner said identified as British rapper</t>
+<h>Abdel-Majed Abdel Bary beheaded James Wright Foley</h>
+</pair>
+<pair id="437" entailment="CONTRADICTION" task="IE">
+<t>Boston.com retracts claim about racist email from professor</t>
+<h>Harvard professor Ben Edelman sent an email with racist overtones to a restaurant that he'd argued with over food pricing</h>
+</pair>
+<pair id="438" entailment="CONTRADICTION" task="IE">
+<t>Update: Did Boston.com Make Up This Story About The Web Sheriff Ben Edelman Sending Racist Emails?</t>
+<h>Harvard professor Ben Edelman sent an email with racist overtones to a restaurant that he'd argued with over food pricing</h>
+</pair>
+<pair id="439" entailment="UNKNOWN" task="IE">
+<t>Boston.com pulls story accusing prof of sending racist emails</t>
+<h>Harvard professor Ben Edelman sent an email with racist overtones to a restaurant that he'd argued with over food pricing</h>
+</pair>
+<pair id="464" entailment="ENTAILMENT" task="IE">
+<t>Sugarhill Gang rapper Big Bank Hank dead at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="465" entailment="ENTAILMENT" task="IE">
+<t>Sugarhill Gang Rapper Big Bank Hank Dies at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="466" entailment="ENTAILMENT" task="IE">
+<t>Big Bank Hank, US rapper and Sugarhill Gang founder member, dies at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="467" entailment="ENTAILMENT" task="IE">
+<t>Sugarhill Gang rapper Big Bank Hank dies at age 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="468" entailment="ENTAILMENT" task="IE">
+<t>Sugarhill Gang co-founder Big Bank Hank dies</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="469" entailment="ENTAILMENT" task="IE">
+<t>Sugarhill Gang's Big Bank Hank Dead At 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="470" entailment="ENTAILMENT" task="IE">
+<t>Big Bank Hank, co-founder of the Sugarhill Gang, has died</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="471" entailment="ENTAILMENT" task="IE">
+<t>Big Bank Hank dead: Sugarhill Gang member and rapper dies aged 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="472" entailment="ENTAILMENT" task="IE">
+<t>Big Bank Hank of The Sugarhill Gang is dead at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="473" entailment="CONTRADICTION" task="IE">
+<t>Sugarhill Gang rapper Big Bank Hank dies aged 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="474" entailment="ENTAILMENT" task="IE">
+<t>Sugarhill Gang Rapper Big Bank Hank Dies at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="475" entailment="ENTAILMENT" task="IE">
+<t>Sugarhill Gang's Big Bank Hank dead at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="476" entailment="ENTAILMENT" task="IE">
+<t>Rapper Big Bank Hank of Sugarhill Gang dies at 57</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="477" entailment="ENTAILMENT" task="IE">
+<t>Big Bank Hank of pioneering rap group Sugarhill Gang has died</t>
+<h>Big Bank Hank of the Sugarhill Gang is dead</h>
+</pair>
+<pair id="492" entailment="ENTAILMENT" task="IE">
+<t>Federal Judge: Enough With the Stupid Names</t>
+<h>A federal judge ruled that black women do not have independent naming rights for their children</h>
+</pair>
+<pair id="701" entailment="UNKNOWN" task="IE">
+<t>Ghost Ship</t>
+<h>A ghost ship filled with Ebola-infected rats is heading towards Florida.</h>
+</pair>
+<pair id="727" entailment="UNKNOWN" task="IE">
+<t>A Murdered Witness?</t>
+<h>20-year-old Deandre Joshua was killed in retaliation for his grand jury testimony in the Michael Brown case.</h>
+</pair>
+<pair id="858" entailment="UNKNOWN" task="IE">
+<t>Could Gold Apple Watch cost 5,000?</t>
+<h>The gold Apple Watch Edition will cost 4,999 USD</h>
+</pair>
+<pair id="859" entailment="UNKNOWN" task="IE">
+<t>The gold Apple Watch Edition could set you back a whopping 4,999</t>
+<h>The gold Apple Watch Edition will cost 4,999 USD</h>
+</pair>
+<pair id="860" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Gold Edition may cost as much as 5,000</t>
+<h>The gold Apple Watch Edition will cost 4,999 USD</h>
+</pair>
+<pair id="861" entailment="UNKNOWN" task="IE">
+<t>Analyst: Apple Watch Edition Could Cost 5,000</t>
+<h>The gold Apple Watch Edition will cost 4,999 USD</h>
+</pair>
+<pair id="872" entailment="UNKNOWN" task="IE">
+<t>Hands Up, Don't Shoot in Hong Kong Protests?</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="873" entailment="ENTAILMENT" task="IE">
+<t>Ferguson and Hong Kong Have One Important Thing in Common</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="874" entailment="ENTAILMENT" task="IE">
+<t>What's Happening in Hong Kong? Stunning Images From the Occupy-Inspired, Ferguson-Tinged Protests</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="875" entailment="ENTAILMENT" task="IE">
+<t>Hands up, don't shoot comes to Hong Kong's pro-democracy movement</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="876" entailment="UNKNOWN" task="IE">
+<t>Is hands up in Hong Kong really the same as in Ferguson?</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="877" entailment="ENTAILMENT" task="IE">
+<t>Hong Kong riot cops forced to withdraw after democracy protesters copy Don't shoot gesture used by US demonstrators after a police officer shot an unarmed black teenager</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="878" entailment="ENTAILMENT" task="IE">
+<t>Hong Kong protesters mimic Ferguson's hands up, don't shoot</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="879" entailment="UNKNOWN" task="IE">
+<t>When We Felt Threatened, We Opened Umbrellas and Raised Our Hands</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="880" entailment="UNKNOWN" task="IE">
+<t>Rumor Check: Are Hong Kong Protesters Really Using the Hands Up, Don't Shoot Gesture in Solidarity With Ferguson?</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="881" entailment="ENTAILMENT" task="IE">
+<t>Hong Kong's protesters are using the hands up, don't shoot gesture from Ferguson</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="882" entailment="ENTAILMENT" task="IE">
+<t>Hong Kong protesters go Ferguson style: Hands up, don't shoot</t>
+<h>Protestors in Hong Kong adopted Hands up, don't shoot from Ferguson</h>
+</pair>
+<pair id="883" entailment="ENTAILMENT" task="IE">
+<t>Passenger Wears A Hazmat Suit To Dulles Airport PHOTO</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="884" entailment="ENTAILMENT" task="IE">
+<t>Woman At Dulles Plays It Safe, Wears A Rain Poncho And Mask</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="885" entailment="ENTAILMENT" task="IE">
+<t>Passenger Wears A Hazmat Suit To Dulles Airport</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="886" entailment="ENTAILMENT" task="IE">
+<t>Air travelers wary of Ebola fears seen with surgical masks ... and a HAZMAT suit</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="887" entailment="ENTAILMENT" task="IE">
+<t>It Begins: HazMat-Wearing Passenger Spotted At Airport</t>
+<h>A passenger at Dulles airport wore a hazmat suit</h>
+</pair>
+<pair id="991" entailment="ENTAILMENT" task="IE">
+<t>Would-be rapist has penis severed by angry mob</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="992" entailment="ENTAILMENT" task="IE">
+<t>Lynch mob use butcher's meat cleaver to castrate rapist they caught attacking teenage girl in alleyway in Indian city</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="993" entailment="ENTAILMENT" task="IE">
+<t>Man has his PENIS cut off by angry mob after attempted rape of teenager</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="994" entailment="ENTAILMENT" task="IE">
+<t>Angry mob chops off man's genitals with butcher's knife for alleged rape attempt</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="995" entailment="ENTAILMENT" task="IE">
+<t>Sex attacker has penis cut off with a cleaver in India</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="996" entailment="ENTAILMENT" task="IE">
+<t>Indian Rapist Castrated By Angry Mob Who Hack Off Gentials With Meat Cleaver GRAPHIC PICTURES</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="997" entailment="ENTAILMENT" task="IE">
+<t>Rajasthan: Man Tries to Rape Teenager, Angry Mob Chops His Penis Off</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="998" entailment="ENTAILMENT" task="IE">
+<t>India Rape Crisis Sees Mob Castrate Alleged Sex Attacker in Shocking Scenes</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="999" entailment="ENTAILMENT" task="IE">
+<t>Lynch mob chop man's penis off after catching him allegedly trying to rape teenager</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1000" entailment="ENTAILMENT" task="IE">
+<t>Lynch Mob Castrates Alleged Rapist In Rajasthan</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1001" entailment="ENTAILMENT" task="IE">
+<t>SHOCKING: Indian Man's Penis Cut-off After He Was Caught Attempting Rape Photos</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1002" entailment="ENTAILMENT" task="IE">
+<t>Angry mob hacks off alleged rapist's genitals with meat cleaver after dragging him into butchers</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1003" entailment="ENTAILMENT" task="IE">
+<t>Rajasthan: Angry mob teaches rapist a lesson chops penis off</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1004" entailment="ENTAILMENT" task="IE">
+<t>Vigilantes cut off alleged rapist's penis</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1005" entailment="ENTAILMENT" task="IE">
+<t>Angry mob cut off rapist's penis with meat cleaver VIEWER DISCRETION</t>
+<h>A crowd chopped off a man's penis after he was caught trying to rape a woman</h>
+</pair>
+<pair id="1021" entailment="CONTRADICTION" task="IE">
+<t>Debunk: No, Apple didn't change up iPhone 6 Plus internals to avoid bending</t>
+<h>Apple added additional reinforcement to its iPhone 6 Plus to ensure it doesn't bend</h>
+</pair>
+<pair id="1022" entailment="UNKNOWN" task="IE">
+<t>Has Apple quietly fixed its iPhone 6 Plus Bendgate problem?</t>
+<h>Apple added additional reinforcement to its iPhone 6 Plus to ensure it doesn't bend</h>
+</pair>
+<pair id="1023" entailment="UNKNOWN" task="IE">
+<t>Has Apple quietly fixed its iPhone 6 Plus Bendgate problem?</t>
+<h>Apple added additional reinforcement to its iPhone 6 Plus to ensure it doesn't bend</h>
+</pair>
+<pair id="1024" entailment="CONTRADICTION" task="IE">
+<t>iFixit Debunks iPhone 6 Plus Reinforcement Claims</t>
+<h>Apple added additional reinforcement to its iPhone 6 Plus to ensure it doesn't bend</h>
+</pair>
+<pair id="1291" entailment="ENTAILMENT" task="IE">
+<t>ISIS Blasts Scorpion Bombs At Civilian Areas In Iraq Mosul Residents Living In Fear</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1292" entailment="ENTAILMENT" task="IE">
+<t>IS using scorpion bombs to terrify Iraqi civilians</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1293" entailment="ENTAILMENT" task="IE">
+<t>ISIS using bombs containing live SCORPIONS in effort to spread panic, in tactic used 2,000 years ago against Romans</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1294" entailment="ENTAILMENT" task="IE">
+<t>Islamic State using SCORPION bombs to terrorise victims</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1295" entailment="ENTAILMENT" task="IE">
+<t>Islamic State fighters detonate SCORPION bombs in terror siege</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1296" entailment="ENTAILMENT" task="IE">
+<t>ISIS launch SCORPION BOMBS to spread panic in Iraq</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1297" entailment="ENTAILMENT" task="IE">
+<t>ISIS Unleash Scorpion Bombs In Iraq</t>
+<h>ISIS is dropping bombs containing live scorpions</h>
+</pair>
+<pair id="1434" entailment="ENTAILMENT" task="IE">
+<t>BREAKING: Brat Pack Judd Nelson Found Dead in Los Angeles Condo</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1435" entailment="CONTRADICTION" task="IE">
+<t>Don't Worry, The Breakfast Club Star Judd Nelson Is Not Dead</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1436" entailment="CONTRADICTION" task="IE">
+<t>Judd Nelson rebuffs Internet rumors that he died of a drug overdose.</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1437" entailment="CONTRADICTION" task="IE">
+<t>80s Brat Pack star Judd Nelson forced to deny that he's dead after fake news story starts trending on social media</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1438" entailment="CONTRADICTION" task="IE">
+<t>Judd Nelson Proof Of Life After Death Hoax: FOX News Impersonator Claims Actor Found Dead In Los Angeles Condo Updated</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1439" entailment="CONTRADICTION" task="IE">
+<t>Judd Nelson isn't dead report is a hoax</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1440" entailment="CONTRADICTION" task="IE">
+<t>Fake Fox News Website Reports Judd Nelson's Death for Some Reason</t>
+<h>Judd Nelson is dead</h>
+</pair>
+<pair id="1441" entailment="ENTAILMENT" task="IE">
+<t>KANYE WEST BARRED FROM ALL FUTURE AWARDS SHOWS</t>
+<h>Kanye West has been banned from future awards shows</h>
+</pair>
+<pair id="1442" entailment="UNKNOWN" task="IE">
+<t>Kanye Banned</t>
+<h>Kanye West has been banned from future awards shows</h>
+</pair>
+<pair id="1443" entailment="UNKNOWN" task="IE">
+<t>Have Kanye Kim Been Banned From Future Grammy Ceremonies?</t>
+<h>Kanye West has been banned from future awards shows</h>
+</pair>
+<pair id="1557" entailment="CONTRADICTION" task="IE">
+<t>Someone Trolled Twitter Into Thinking Macklemore Joined ISIS</t>
+<h>Rap artist Macklemore joined ISIS</h>
+</pair>
+<pair id="1558" entailment="UNKNOWN" task="IE">
+<t>People On Twitter Think Macklemore Has Joined ISIS</t>
+<h>Rap artist Macklemore joined ISIS</h>
+</pair>
+<pair id="1559" entailment="CONTRADICTION" task="IE">
+<t>Macklemore Gets Twitter-Trolled with the MacklemoreJoinedISIS</t>
+<h>Rap artist Macklemore joined ISIS</h>
+</pair>
+<pair id="1560" entailment="ENTAILMENT" task="IE">
+<t>Magic mushroom found growing at Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1561" entailment="ENTAILMENT" task="IE">
+<t>Now THAT'S a Royal trip Alan Titchmarsh finds psychedelic mushroom in the Queen's garden at Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1562" entailment="ENTAILMENT" task="IE">
+<t>Psychoactive magic mushroom found in grounds of Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1563" entailment="ENTAILMENT" task="IE">
+<t>Magic mushrooms found in BUCKINGHAM PALACE by Alan Titchmarsh</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1564" entailment="ENTAILMENT" task="IE">
+<t>Magic Mushrooms Found in Queen Elizabeth's Garden at Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1565" entailment="ENTAILMENT" task="IE">
+<t>Magic mushrooms found at Buckingham Palace</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1566" entailment="ENTAILMENT" task="IE">
+<t>Her Majesty's magic mushrooms</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+<pair id="1567" entailment="ENTAILMENT" task="IE">
+<t>Magic Mushrooms Found on Buckingham Palace Grounds</t>
+<h>Magic mushrooms were found in a Buckingham Palace garden</h>
+</pair>
+</entailment-corpus>

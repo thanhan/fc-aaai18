@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="209" entailment="UNKNOWN" task="IE">
+<t>Piper Jaffray pegs stainless steel Apple Watch price at 499, Edition at 4,999</t>
+<h>The gold Apple Watch Edition will start at 4,999 USD</h>
+</pair>
+<pair id="210" entailment="UNKNOWN" task="IE">
+<t>High-end Apple Watch to start at 5,000 -- analyst</t>
+<h>The gold Apple Watch Edition will start at 4,999 USD</h>
+</pair>
+<pair id="211" entailment="UNKNOWN" task="IE">
+<t>Gene Munster Predicts 499 Steel Apple Watch, 4,999 for 18k Gold Edition</t>
+<h>The gold Apple Watch Edition will start at 4,999 USD</h>
+</pair>
+<pair id="253" entailment="UNKNOWN" task="IE">
+<t>NYT: Apple Watch includes Power Reserve mode, shows only the time but conserves battery life</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="254" entailment="UNKNOWN" task="IE">
+<t>Apple Watch to reportedly offer Power Reserve to help extend battery life</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="255" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Power Reserve feature will save battery life, report says</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="256" entailment="ENTAILMENT" task="IE">
+<t>The Apple Watch has a low-power mode that only tells the time</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="257" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch to Feature Time-Only Power Reserve Mode, Prototypes Disguised as Samsung Watches</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="258" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch's Power Reserve feature combats short battery life</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="259" entailment="UNKNOWN" task="IE">
+<t>Apple Watch reportedly has low-energy power reserve mode</t>
+<h>The Apple Watch will include a feature called Power Reserve</h>
+</pair>
+<pair id="260" entailment="ENTAILMENT" task="IE">
+<t>Apple is bringing special safes to its stores just to house the 18k gold Apple Watch</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="261" entailment="ENTAILMENT" task="IE">
+<t>Apple to keep gold Watch Editions in special in-store safes</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="262" entailment="ENTAILMENT" task="IE">
+<t>Apple Stores will have custom-designed safes to store the gold Apple Watch in</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="263" entailment="ENTAILMENT" task="IE">
+<t>Apple Stores to install safes to secure gold Apple Watches</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="264" entailment="UNKNOWN" task="IE">
+<t>Apple Stores Are Reportedly Installing Custom Safes To House Apple Watches</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="265" entailment="ENTAILMENT" task="IE">
+<t>Apple installing safes in-store to protect gold Watch Edition</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="266" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Edition: special safes to be installed in Apple Stores to house luxury smart watch</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="267" entailment="ENTAILMENT" task="IE">
+<t>Apple Stores to Keep Gold Edition Apple Watch in Custom Safes</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="268" entailment="ENTAILMENT" task="IE">
+<t>18-Karat Gold Apple Watch Edition To Be Locked In Safes At Apple Stores</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="269" entailment="ENTAILMENT" task="IE">
+<t>Gold Apple Watches to be stored in safes in Apple Stores</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="270" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Price, Release Date News: Special Safes In Apple Stores For Gold Models, April Launch Confirmed</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="271" entailment="ENTAILMENT" task="IE">
+<t>Apple Watches to be kept in safes</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="272" entailment="ENTAILMENT" task="IE">
+<t>Gold Apple Watch Will Be Stored In Special Safes At Apple Stores</t>
+<h>The Apple Store will have custom-designed safes to store the gold Apple Watch</h>
+</pair>
+<pair id="304" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Takes Two Hours to Charge, Only Delivers Notifications While on the Wrist</t>
+<h>The Apple Watch takes about two hours to charge</h>
+</pair>
+<pair id="718" entailment="ENTAILMENT" task="IE">
+<t>Feminist Aborts Baby For Being A Boy, Shocked People Don't Approve</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="719" entailment="ENTAILMENT" task="IE">
+<t>I aborted my baby because it was a boy</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="720" entailment="ENTAILMENT" task="IE">
+<t>Feminist says she aborted baby because it was a boy</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="721" entailment="ENTAILMENT" task="IE">
+<t>Feminist Lana Aborts Baby Because It's A Boy And Is Surprised By Backlash</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="722" entailment="CONTRADICTION" task="IE">
+<t>Therefore, the feminist blogger who aborted a boy probably fake</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="723" entailment="ENTAILMENT" task="IE">
+<t>I aborted my baby because it was a boy: Outrage after feminist blogger claims gender prompted termination</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="724" entailment="UNKNOWN" task="IE">
+<t>Has a woman aborted her baby because it's a boy?</t>
+<h>A woman aborted a fetus after discovering it was male</h>
+</pair>
+<pair id="752" entailment="CONTRADICTION" task="IE">
+<t>Crazy Conservatives Are Sure a Gitmo Detainee Killed James Foley</t>
+<h>A former Guantanamo Bay prisoner executed journalist James Wright Foley.</h>
+</pair>
+<pair id="753" entailment="UNKNOWN" task="IE">
+<t>WaPo: Was Foley's killer a former Gitmo detainee?</t>
+<h>A former Guantanamo Bay prisoner executed journalist James Wright Foley.</h>
+</pair>
+<pair id="754" entailment="UNKNOWN" task="IE">
+<t>Was James Foley's murderer released from Guantanamo Bay?</t>
+<h>A former Guantanamo Bay prisoner executed journalist James Wright Foley.</h>
+</pair>
+<pair id="1035" entailment="ENTAILMENT" task="IE">
+<t>My iPhone 6 Plus is yanking out my hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1036" entailment="ENTAILMENT" task="IE">
+<t>Apple Users Add Hairgate to iPhone 6 Problems</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1037" entailment="CONTRADICTION" task="IE">
+<t>The iPhone 6 Hairgate Is Not a Thing</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1038" entailment="ENTAILMENT" task="IE">
+<t>From bendgate to hairgate: Now iPhone 6 users complain the device is ripping out their hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1039" entailment="UNKNOWN" task="IE">
+<t>Is the iPhone 6 Really Pulling Out Your Hair?</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1040" entailment="UNKNOWN" task="IE">
+<t>HairGate: iPhone 6 Customers Are Complaining That The Phone Is Ripping Out Their Hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1041" entailment="UNKNOWN" task="IE">
+<t>HairGate: iPhone 6 Customers Are Complaining That The Phone Is Ripping Out Their Hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1042" entailment="CONTRADICTION" task="IE">
+<t>Hairgate: Reports of iPhone 6 pulling out hair, beards, likely exaggerated</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1043" entailment="ENTAILMENT" task="IE">
+<t>IPhone 6 users are tearing their hair out</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1044" entailment="UNKNOWN" task="IE">
+<t>First bendgate... now it's HAIRGATE: Angry iPhone 6 owners claim design is causing chunks of their hair to be ripped out when they make a phone call</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1045" entailment="UNKNOWN" task="IE">
+<t>iPhone 6 hairgate: Users encounter latest Apple problem after bendgate</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1046" entailment="UNKNOWN" task="IE">
+<t>Hairgate: iPhone hit by new social media storm</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1047" entailment="UNKNOWN" task="IE">
+<t>Hairgate trends on social media: iPhone 6 users complain of ripped out hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1048" entailment="UNKNOWN" task="IE">
+<t>Hairgate: iPhone 6 users say device pulls out hair</t>
+<h>The iPhone 6 pulls out facial hair when being used</h>
+</pair>
+<pair id="1234" entailment="UNKNOWN" task="IE">
+<t>Video Appears to Show Beheading of Journalist James Foley, Who Went Missing in Syria</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1235" entailment="ENTAILMENT" task="IE">
+<t>Obama: US Won't Stop Confronting Islamic state</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1236" entailment="UNKNOWN" task="IE">
+<t>ISIL kills man who appears to be US journalist James Wright Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1237" entailment="ENTAILMENT" task="IE">
+<t>ISIS Beheads American Journalist James Foley in Video Message to U.S.</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1238" entailment="ENTAILMENT" task="IE">
+<t>ISIS Beheads Kidnapped Photojournalist James Wright Foley in Horrific Video Message to the U.S.</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1239" entailment="UNKNOWN" task="IE">
+<t>Islamic Militants Post Video Claiming to Show Beheading of U.S. Journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1240" entailment="ENTAILMENT" task="IE">
+<t>Video showing American journalist beheaded believed real, officials and family say</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1241" entailment="UNKNOWN" task="IE">
+<t>ISIS Seemingly Beheaded American Journalist James Wright Foley Updated</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1242" entailment="ENTAILMENT" task="IE">
+<t>Savages: Islamic State executes American journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1243" entailment="ENTAILMENT" task="IE">
+<t>Pure Evil: Islamic State Beheads American Journalist James Wright Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1244" entailment="UNKNOWN" task="IE">
+<t>Islamic State militants claim to behead missing American journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1245" entailment="UNKNOWN" task="IE">
+<t>Islamic State Militants Claim to Have Beheaded US Journalist James Wright Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1246" entailment="ENTAILMENT" task="IE">
+<t>Video Shows Beheading of American Journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1247" entailment="ENTAILMENT" task="IE">
+<t>Islamic State, in video titled A Message to America, beheads American journalist James Wright Foley who was kidnapped in 2012</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1248" entailment="ENTAILMENT" task="IE">
+<t>BREAKING: Islamic State, in video, beheads American journalist James Wright Foley who was kidnapped in 2012 -BNONews</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1249" entailment="ENTAILMENT" task="IE">
+<t>ISIS beheads photojournalist James Wright Foley in a massage to US to end its intervention in Iraq.</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1250" entailment="ENTAILMENT" task="IE">
+<t>A message from Jim's mom, Diane Foley:</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1251" entailment="ENTAILMENT" task="IE">
+<t>ISIS Beheading of U.S. Journalist James Foley Posted to YouTube</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1252" entailment="ENTAILMENT" task="IE">
+<t>BREAKING: ISIS Beheads American Journalist James Wright Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1253" entailment="UNKNOWN" task="IE">
+<t>Evil straight from the pits of hell: American journalist James Foley reportedly beheaded by ISIS</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1254" entailment="ENTAILMENT" task="IE">
+<t>ISLAMIC STATE BEHEADS MISSING AMERICAN JOURNALIST JAMES WRIGHT FOLEY</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1255" entailment="UNKNOWN" task="IE">
+<t>ISIS Appears To Behead American Photojournalist In YouTube Video</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1256" entailment="ENTAILMENT" task="IE">
+<t>James Foley remembered as brave and tireless journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1257" entailment="ENTAILMENT" task="IE">
+<t>Spare the lives of the remaining hostages. Like Jim they are innocents: Brave mother of beheaded American journalist calls on ISIS to cease killing as she pays tribute to her extraordinary son</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1258" entailment="ENTAILMENT" task="IE">
+<t>Spare the lives of the remaining hostages. Like Jim they are innocents: Brave mother of beheaded American journalist calls on ISIS to cease killing as she pays tribute to her extraordinary son</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1259" entailment="ENTAILMENT" task="IE">
+<t>ISIS beheads American photo-journalist James Wright Foley, threatens more to come</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1260" entailment="ENTAILMENT" task="IE">
+<t>PM vows to redouble efforts against Islamic extremism after barbaric IS murder</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1261" entailment="UNKNOWN" task="IE">
+<t>Isis claims to behead US journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1262" entailment="ENTAILMENT" task="IE">
+<t>James Foley, Missing American Photojournalist, Beheaded By ISIS In Syria</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1263" entailment="ENTAILMENT" task="IE">
+<t>Obama Denounces James Foley's Execution: Today The Entire World Is Appalled</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1264" entailment="UNKNOWN" task="IE">
+<t>US officials: Video shows American's execution</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1265" entailment="UNKNOWN" task="IE">
+<t>Islamic State releases video apparently showing the beheading of missing US journalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1266" entailment="UNKNOWN" task="IE">
+<t>ISIS Reportedly Beheads U.S. Journalist James Wright Foley on Camera</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1267" entailment="UNKNOWN" task="IE">
+<t>James Wright Foley, Kidnapped Journalist, Apparently Executed by ISIS</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1268" entailment="UNKNOWN" task="IE">
+<t>James Foley beheaded: ISIS claims to have killed US journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1269" entailment="ENTAILMENT" task="IE">
+<t>U.S. Authenticates Video Of Militants Beheading American Journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1270" entailment="ENTAILMENT" task="IE">
+<t>ISIS militants behead abducted American journalist James Wright Foley in graphic video</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1271" entailment="UNKNOWN" task="IE">
+<t>Militant Group Says It Killed American Journalist in Syria</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1272" entailment="ENTAILMENT" task="IE">
+<t>Obama, Outraged Over Beheading, Vows to Stay on Course</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1273" entailment="ENTAILMENT" task="IE">
+<t>Video shows ISIL beheading of photojournalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1274" entailment="UNKNOWN" task="IE">
+<t>Journalist James Wright Foley reportedly beheaded by ISIS</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1275" entailment="UNKNOWN" task="IE">
+<t>ISIS Reportedly Beheads American Photojournalist in IraqRunning ScaredVikings Star Adrian Peterson Reportedly Indicted for Child AbuseWhy the Military Treats Male Sexual Assault Victims So HorriblyWhy Google Bought a SpoonWe All Have Certain Words We Use Too Often. What's Yours?Meatless MondaysThe Beatles. Bob Dylan. Biggie Smalls.How to Fix Gerrymandering and Improve American Politics in One Fell SwoopThe Very Funny Comic Who Just Became SNL's Next Weekend Update Anchor</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1276" entailment="ENTAILMENT" task="IE">
+<t>ISIS Beheads American Journalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1277" entailment="ENTAILMENT" task="IE">
+<t>James Foley: American Journalist James Wright Foley Beheaded in New ISIS Terrorist Video Breaking News</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1278" entailment="UNKNOWN" task="IE">
+<t>ISIL video claims beheading of kidnapped journalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1279" entailment="UNKNOWN" task="IE">
+<t>Islamic State militants claim to have killed US journalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1280" entailment="ENTAILMENT" task="IE">
+<t>Obama: murder of James Foley shocks the conscience of the entire world</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1281" entailment="UNKNOWN" task="IE">
+<t>ISIL Claims to Behead an American Photojournalist</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1282" entailment="UNKNOWN" task="IE">
+<t>Islamic State claims it executed American photojournalist James Foley</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1283" entailment="ENTAILMENT" task="IE">
+<t>Obama denounces killing of journalist James Foley and pledges justice</t>
+<h>ISIS beheaded journalist James Wright Foley</h>
+</pair>
+<pair id="1298" entailment="UNKNOWN" task="IE">
+<t>ISIS Is Selling the Body of James Foley for 1 Million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1299" entailment="ENTAILMENT" task="IE">
+<t>ISIS wants 1M for Foley's body</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1300" entailment="UNKNOWN" task="IE">
+<t>ISIS Is Reportedly Trying To Sell James Foley's Remains For 1 Million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1301" entailment="ENTAILMENT" task="IE">
+<t>ISIS Is Trying To Sell The Body Of U.S. Hostage James Foley For 1 Million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1302" entailment="UNKNOWN" task="IE">
+<t>Fresh agony for James Foley's family as sick ISIS militants try to sell them his headless body for 1million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1303" entailment="ENTAILMENT" task="IE">
+<t>Islamic State trying to SELL decapitated body of US hostage James Foley for 1 MILLION</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1304" entailment="ENTAILMENT" task="IE">
+<t>Isis: James Foley's beheaded body in 1m humanity case sale offer to family</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1305" entailment="UNKNOWN" task="IE">
+<t>James Foley beheading: ISIS militants trying to sell murdered hostage's body to his parents for 1m</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1306" entailment="UNKNOWN" task="IE">
+<t>ISIS reportedly wants 1 million for beheaded hostage James Foley's corpse</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1307" entailment="UNKNOWN" task="IE">
+<t>Islamic State Attempting to Sell James Foley's Body for 1 Million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1308" entailment="UNKNOWN" task="IE">
+<t>IS reportedly tries to sell slain US hostage's body for 1 million Read more: IS reportedly tries to sell slain US hostage's body for 1 million</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1309" entailment="ENTAILMENT" task="IE">
+<t>Islamic State puts James Foley's body up for sale for 1M</t>
+<h>ISIS is trying to sell the remains of James Foley</h>
+</pair>
+<pair id="1329" entailment="ENTAILMENT" task="IE">
+<t>Nun Complains Of Stomach Pains, Later Gives Birth To Baby Boy</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1330" entailment="ENTAILMENT" task="IE">
+<t>Nun who gave birth had no idea she was pregnant</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1331" entailment="ENTAILMENT" task="IE">
+<t>Nun gives birth, intends to keep baby</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1332" entailment="ENTAILMENT" task="IE">
+<t>Nun who had no idea she was pregnant gives birth after going to hospital with stomach pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1333" entailment="ENTAILMENT" task="IE">
+<t>Cloistered nun has a stomach ache hospital gives birth to a baby Google Translate</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1334" entailment="ENTAILMENT" task="IE">
+<t>Nun complains of stomach pains... and GIVES BIRTH: Sister who had no idea she was pregnant has a baby boy at hospital in Italy</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1335" entailment="ENTAILMENT" task="IE">
+<t>Nun gives birth to surprise baby after complaining of stomach pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1336" entailment="ENTAILMENT" task="IE">
+<t>Nun gives birth to surprise baby after complaining of stomach pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1337" entailment="UNKNOWN" task="IE">
+<t>Nun has surprise baby after complaining of stomach pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1338" entailment="ENTAILMENT" task="IE">
+<t>Nun who GAVE BIRTH to baby boy after suffering agonising stomach pains had no idea she was pregnant</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1339" entailment="ENTAILMENT" task="IE">
+<t>Wayward sister nun the wiser about baby</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1340" entailment="ENTAILMENT" task="IE">
+<t>Nun Gives Birth To Baby Boy After Suffering Intense Stomach Pains</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1341" entailment="UNKNOWN" task="IE">
+<t>Cloistered nun gives birth to a baby The convent: There is a sister Google Translate</t>
+<h>An nun in an Italian convent gave birth to a child</h>
+</pair>
+<pair id="1537" entailment="UNKNOWN" task="IE">
+<t>Macaulay Culkin Dead? Fans Freak Out Over Death Rumors</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1538" entailment="CONTRADICTION" task="IE">
+<t>Duped again: Macaulay Culkin is not dead</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1539" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin dead: Actor is victim of another death hoax</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1540" entailment="ENTAILMENT" task="IE">
+<t>Breaking News: Macaulay Culkin Found Dead at Age 34</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1541" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin Dead? Another Death Hoax Circulates On Facebook</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1542" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin Hasn't Died Despite What Everyone Is Saying On Facebook</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1543" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin dead: The death hoax is once again on the child actor</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1544" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin Dead: Actor Once Again Victim Of Death Hoax</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1545" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin NOT Dead: Facebook, Twitter Death Hoax Goes Viral</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1546" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin Victim of Another Online Death Hoax</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1547" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin death hoax: Rumours about former child star confirmed as false</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1548" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin Dead: Internet Death Hoax Claims Actor Found Dead In Apartment</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1549" entailment="CONTRADICTION" task="IE">
+<t>MACAULAY CULKIN IS THE LATEST VICTIM OF A CELEBRITY DEATH HOAX AND THESE 9 STARS KNOW EXACTLY HOW HE FEELS</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1550" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin dead hoax: Fake death report spreads on social networks</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1551" entailment="UNKNOWN" task="IE">
+<t>Macaulay Culkin Dead?</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1552" entailment="CONTRADICTION" task="IE">
+<t>Macaulay Culkin Dead? Hoax Goes Viral, Claims Actor Found Dead in Apartment</t>
+<h>Macaulay Culkin is dead</h>
+</pair>
+<pair id="1682" entailment="UNKNOWN" task="IE">
+<t>SMALL METEORITE STRIKES NICARAGUA, GOVERNMENT SAYS</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1683" entailment="CONTRADICTION" task="IE">
+<t>NASA Raises Doubts About Reports of Nicaraguan Meteorite</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1684" entailment="UNKNOWN" task="IE">
+<t>Large space object slams Nicaragua's capital as asteroid passes Earth</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1685" entailment="ENTAILMENT" task="IE">
+<t>See the Crater a Meteorite Made in Nicaragua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1686" entailment="CONTRADICTION" task="IE">
+<t>Managua explosion not a meteorite, NASA suggests</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1687" entailment="CONTRADICTION" task="IE">
+<t>Doubts cast over Nicaragua meteorite claim</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1688" entailment="ENTAILMENT" task="IE">
+<t>Meteorite leaves crater in Nicaraguan capital Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1689" entailment="UNKNOWN" task="IE">
+<t>Questions raised over Nicaragua meteorite</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1690" entailment="ENTAILMENT" task="IE">
+<t>Meteorite Strikes Nicaraguan Capital, Creates 16-Foot-Deep Crater</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1691" entailment="ENTAILMENT" task="IE">
+<t>Meteorite makes big crater in Nicaragua, government says</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1692" entailment="UNKNOWN" task="IE">
+<t>Nicaraguan commission on possible meteorite crash presents rock samples</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1693" entailment="ENTAILMENT" task="IE">
+<t>Nicaragua meteorite: Experts attempt to understand whether mysterious meteorite fell from passing Pitbull asteroid</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1694" entailment="ENTAILMENT" task="IE">
+<t>Meteorite Leaves House-Sized Crater in Nicaragua's Capital</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1695" entailment="ENTAILMENT" task="IE">
+<t>Meteor Leaves 40-Foot Crater Near Managua's Airport</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1696" entailment="CONTRADICTION" task="IE">
+<t>Scientists Doubt That Meteor Caused Crater In Nicaragua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1697" entailment="ENTAILMENT" task="IE">
+<t>Small Meteorite Hits Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1698" entailment="UNKNOWN" task="IE">
+<t>Nicaragua says meteorite probable cause of blast in capital</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1699" entailment="UNKNOWN" task="IE">
+<t>Did a Meteorite Impact in Nicaragua over the Weekend?</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1700" entailment="ENTAILMENT" task="IE">
+<t>Rare meteorite impact causes blast in Nicaragua's capital, Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1701" entailment="CONTRADICTION" task="IE">
+<t>Nicaragua Meteorite Impact Theory May Be Meteor-wrong</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1702" entailment="ENTAILMENT" task="IE">
+<t>Nicaragua asks U.S. for help investigating meteorite crater</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1703" entailment="ENTAILMENT" task="IE">
+<t>Meteorite leaves crater in Nicaraguan capital Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1704" entailment="UNKNOWN" task="IE">
+<t>Meteorite caused mysterious boom in Nicaragua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1705" entailment="ENTAILMENT" task="IE">
+<t>Meteorite strike in Nicaragua puzzles experts</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1706" entailment="CONTRADICTION" task="IE">
+<t>Nasa questions whether crater in Nicaragua caused by meteorite</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1707" entailment="CONTRADICTION" task="IE">
+<t>Explosion reported near the Nicaraguan capital attributed to meteorite impact, but experts, including NASA, cast doubt on claims</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1708" entailment="UNKNOWN" task="IE">
+<t>Small meteorite strikes Nicaragua, government says</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1709" entailment="ENTAILMENT" task="IE">
+<t>Small Meteorite Strikes in Nicaragua's Capital City of Managua</t>
+<h>A meteorite landed in Nicaragua.</h>
+</pair>
+<pair id="1718" entailment="ENTAILMENT" task="IE">
+<t>MIRACLE CAT CLAWS ITS WAY OUT OF ITS OWN GRAVE FIVE DAYS AFTER BEING BURIED</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1719" entailment="ENTAILMENT" task="IE">
+<t>Zombie Cat: Buried Kitty Believed Dead, Meows Back to Life</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1720" entailment="ENTAILMENT" task="IE">
+<t>Zombie Cat Claws Way Out of Grave Five Days After Being Buried Alive</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1721" entailment="ENTAILMENT" task="IE">
+<t>Dead cat claws out of grave 5 days later</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1722" entailment="ENTAILMENT" task="IE">
+<t>This Zombie Cat Returned Home Five Days After Being Buried By Its Owner</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1723" entailment="ENTAILMENT" task="IE">
+<t>Miracle cat rises from the dead five days after burial</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1724" entailment="ENTAILMENT" task="IE">
+<t>Rise of the zombie cat: Pet who was killed and buried by his owner climbed out of his grave five days later</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1725" entailment="ENTAILMENT" task="IE">
+<t>Zombie Cat Claws Way Out Of Grave And Into Our Hearts UPDATED</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1726" entailment="ENTAILMENT" task="IE">
+<t>Zombie Cat: Buried Cat Claws Way Out Of Grave After Being Left For Dead</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1727" entailment="ENTAILMENT" task="IE">
+<t>Tail of survival: Buried cat, believed dead, claws back to life</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1728" entailment="ENTAILMENT" task="IE">
+<t>Hungry Florida cat defies death, digs its way out of grave to return home VIDEO</t>
+<h>A cat that was hit by a car and believed dead dug himself out of his grave</h>
+</pair>
+<pair id="1761" entailment="ENTAILMENT" task="IE">
+<t>Shocking Chinese parents sell their son to fund for daughter's Cancer treatment</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1762" entailment="ENTAILMENT" task="IE">
+<t>Shocking Photos Mom Tries To Sell Son To Pay For Daughter's Cancer Treatment</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1763" entailment="ENTAILMENT" task="IE">
+<t>Mum Offers to Sell Twin Boy to Save Twin Girl</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1764" entailment="ENTAILMENT" task="IE">
+<t>Chinese parents try to SELL their son to pay for medical treatment for his sick twin sister</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1765" entailment="ENTAILMENT" task="IE">
+<t>Mum faces real-life Sophie's Choice as she tries to sell her son to fund daughter's care</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1766" entailment="ENTAILMENT" task="IE">
+<t>Shocking picture shows mother trying to sell her own son to pay for twin daughter's cancer treatment</t>
+<h>A Chinese mother attempted to sell her son to pay for his twin sister's lifesaving medical treatment</h>
+</pair>
+<pair id="1875" entailment="ENTAILMENT" task="IE">
+<t>SNOWDEN: Elf On A Shelf Actually Hugely Successful NSA Project Read more: http:www.duffelblog.com201412elf-on-a-shelf-snowdenixzz3MAOziZJf</t>
+<h>Popular Christmas toy Elf On The Shelf is an espionage project run by the National Security Agency</h>
+</pair>
+<pair id="1940" entailment="CONTRADICTION" task="IE">
+<t>These Men Weren't Really Tricked Into Sexually Harassing Their Moms</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1941" entailment="CONTRADICTION" task="IE">
+<t>HOAX: TV show tricks chronic catcallers into harassing their own mothers</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1942" entailment="ENTAILMENT" task="IE">
+<t>NEWS Viral Video: What Happens When You Accidentally Catcall Your Mom</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1943" entailment="ENTAILMENT" task="IE">
+<t>CATCALLING IS NEVER FUNNY UNLESS IT'S THESE BROS TRICKED INTO CATCALLING THEIR MOTHERS</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1944" entailment="UNKNOWN" task="IE">
+<t>Watch Two Guys Appear to Get Tricked Into Catcalling Their Own Moms</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1945" entailment="ENTAILMENT" task="IE">
+<t>A Peruvian TV show is tricking men into catcalling their mothers, for feminism</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1946" entailment="CONTRADICTION" task="IE">
+<t>Slbale your mother, the mockumentary to stop street harassment in Peru Google Translate</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1947" entailment="ENTAILMENT" task="IE">
+<t>These Men Freak Out When They Discover The Women They Are Harassing Are Their Moms In Disguise VIDEO</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1948" entailment="CONTRADICTION" task="IE">
+<t>This Campaign Shows A Pretty Genius Way To Stop Men Catcalling In The Street</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1949" entailment="ENTAILMENT" task="IE">
+<t>The men caught cat-calling and wolf whistling their own MOTHERS: Hilarious TV show disguises women so they can experience their sons behaviour</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1950" entailment="ENTAILMENT" task="IE">
+<t>When Street Harassers Realize The Women They're Catcalling Are Their Moms In Disguise</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1951" entailment="ENTAILMENT" task="IE">
+<t>Whistling At Your Mom: Video Showing Sons Catcalling their Mothers Goes Viral VIDEO</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1952" entailment="ENTAILMENT" task="IE">
+<t>This Man Kept HARASSING Women On The Streets. Until One Day MOM?</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1953" entailment="ENTAILMENT" task="IE">
+<t>These Men Catcalling Their Undercover Mothers Is the Best Payback Ever</t>
+<h>A Video shows sexist Peruvian men being tricked into harassing their own mothers</h>
+</pair>
+<pair id="1954" entailment="UNKNOWN" task="IE">
+<t>Arab woman pilot who is poster girl for Gulf states blitz on ISIS is disowned by her family for bombing Sunni heroes of Iraq and the Levant</t>
+<h>The female UAE pilot bombing ISIS was disowned by her family</h>
+</pair>
+<pair id="1955" entailment="CONTRADICTION" task="IE">
+<t>Google translate AED site: Family Flyer Maryam Mansouri emphasizes fabricating a statement repudiating them</t>
+<h>The female UAE pilot bombing ISIS was disowned by her family</h>
+</pair>
+<pair id="1956" entailment="ENTAILMENT" task="IE">
+<t>Mariam Al Mansouri: Female Fighter Pilot Disowned By Family For Bombing ISIS Terrorists In Syria</t>
+<h>The female UAE pilot bombing ISIS was disowned by her family</h>
+</pair>
+<pair id="1983" entailment="ENTAILMENT" task="IE">
+<t>Apple considering dedicated Apple Watch stores as it sets up Paris booth, London Selfridges Wonder Room</t>
+<h>Apple will open a pop-up Apple Watch store in London's Selfridges department store</h>
+</pair>
+<pair id="1984" entailment="UNKNOWN" task="IE">
+<t>Apple Watch pop up stores prognosticated for Paris, London and SXSW</t>
+<h>Apple will open a pop-up Apple Watch store in London's Selfridges department store</h>
+</pair>
+<pair id="1985" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Pop-Up Shop Also Planned for London's Selfridges Department Store</t>
+<h>Apple will open a pop-up Apple Watch store in London's Selfridges department store</h>
+</pair>
+<pair id="2112" entailment="ENTAILMENT" task="IE">
+<t>Mom Calls 911 On Masturbating Teenage Son Boy Arrested, Charged With New Self-Rape State Law</t>
+<h>An Arizona boy was charged with self-rape after his mother caught him masturbating</h>
+</pair>
+<pair id="2191" entailment="ENTAILMENT" task="IE">
+<t>NASA Confirms Earth Will Experience 6 Days of Total Darkness in December 2014</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2192" entailment="CONTRADICTION" task="IE">
+<t>Nasa's six days of total darkness in December 2014 is a hoax</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2193" entailment="CONTRADICTION" task="IE">
+<t>Daysofdarkness: No, There Won't Be Six Days Of Darkness In December</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2194" entailment="CONTRADICTION" task="IE">
+<t>Nasa Confirms Earth Will Experience 6 Days of Total Darkness in December Fake News Story Goes Viral</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2195" entailment="CONTRADICTION" task="IE">
+<t>Nasa Confirms Six Days of Darkness in December: No, they don't - it's a hoax</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2196" entailment="CONTRADICTION" task="IE">
+<t>NASA: Viral news on days of darkness in December is hoax</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2197" entailment="CONTRADICTION" task="IE">
+<t>6 Days Darkness in December 2014 100 Fake NASA Confirmed 3 Days Total Darkness Hoax as Well</t>
+<h>Earth will experience six days of darkness in December</h>
+</pair>
+<pair id="2218" entailment="UNKNOWN" task="IE">
+<t>Video Appears to Show ISIS Execution of Second American Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2219" entailment="UNKNOWN" task="IE">
+<t>Islamic State video reportedly shows beheading of Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2220" entailment="ENTAILMENT" task="IE">
+<t>ISIS online video shows beheading of U.S. journalist Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2221" entailment="UNKNOWN" task="IE">
+<t>ISIS claims to behead US reporter Steven Sotloff in new video</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2222" entailment="UNKNOWN" task="IE">
+<t>Islamic State releases video of beheading of U.S. hostage Steven Sotloff: site intelligence monitoring service</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2223" entailment="UNKNOWN" task="IE">
+<t>ISIS Reportedly Beheads A Second American Journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2224" entailment="UNKNOWN" task="IE">
+<t>Islamic State beheads US hostage Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2225" entailment="ENTAILMENT" task="IE">
+<t>ISIS Executes 2nd American Journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2226" entailment="UNKNOWN" task="IE">
+<t>Stephen Sotloff beheading shown in video, ISIS claims</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2227" entailment="ENTAILMENT" task="IE">
+<t>U.S.: Video showing Sotloff beheading is authentic</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2228" entailment="UNKNOWN" task="IE">
+<t>Video purportedly shows beheading of U.S. hostage Steven J. Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2229" entailment="ENTAILMENT" task="IE">
+<t>ISIS video shows beheading of American journalist Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2230" entailment="ENTAILMENT" task="IE">
+<t>White House confirms authenticity of ISIS video showing beheading of reporter</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2231" entailment="ENTAILMENT" task="IE">
+<t>Steven Sotloff, American Journalist, Beheaded By ISIS</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2232" entailment="ENTAILMENT" task="IE">
+<t>Video Of Steven Sotloff Slaying By ISIS Is Authentic, U.S. Confirms</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2233" entailment="UNKNOWN" task="IE">
+<t>Steven Sotloff beheading: British captive shown in Isis video which claims to show death of second US journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2234" entailment="ENTAILMENT" task="IE">
+<t>Islamic State releases video showing beheading of US hostage Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2235" entailment="UNKNOWN" task="IE">
+<t>ISIS Releases Video Allegedly Showing Beheading of U.S. Journalist Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2236" entailment="ENTAILMENT" task="IE">
+<t>Steven Sotloff beheading: Recap updates as Obama says US will degrade and destroy ISIS</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2237" entailment="UNKNOWN" task="IE">
+<t>ISIS Beheads American Journalist Steven Sotloff, Monitoring Group Says</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2238" entailment="ENTAILMENT" task="IE">
+<t>U.S. Authenticates Video Showing Sotloff's Beheading</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2239" entailment="UNKNOWN" task="IE">
+<t>ISIS Reported to Behead Second American</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2240" entailment="ENTAILMENT" task="IE">
+<t>After Beheading of Steven Sotloff, Obama Pledges to Punish ISIS</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2241" entailment="ENTAILMENT" task="IE">
+<t>NSC appalled by Sotloff beheading</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2242" entailment="UNKNOWN" task="IE">
+<t>Journalist Steven Sotloff reportedly executed by ISIS</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2243" entailment="UNKNOWN" task="IE">
+<t>Islamic state issues video of beheading of U.S. hostage: SITE</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2244" entailment="ENTAILMENT" task="IE">
+<t>Steven Sotloff beheaded by Islamic State - latest</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2245" entailment="UNKNOWN" task="IE">
+<t>Second American Journalist Beheaded by Islamic State Terrorists</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2246" entailment="ENTAILMENT" task="IE">
+<t>ISIS Beheads Second American Journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2247" entailment="UNKNOWN" task="IE">
+<t>ISIL Has Reportedly Beheaded Journalist Steven Sotloff</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2248" entailment="ENTAILMENT" task="IE">
+<t>U.S. confirms authenticity of second journalist beheading video</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2249" entailment="UNKNOWN" task="IE">
+<t>Video purports to show beheading of US journalist</t>
+<h>ISIS beheads Steve Sotloff</h>
+</pair>
+<pair id="2319" entailment="UNKNOWN" task="IE">
+<t>US Intel: Taliban Man Released From Gitmo in Bergdahl Deal is Back to Militant Activity</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2320" entailment="ENTAILMENT" task="IE">
+<t>Guantanamo Detainee Exchanged for American POW Attempts a Return to Battle</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2321" entailment="UNKNOWN" task="IE">
+<t>Taliban terrorist swapped for Bowe Bergdahl is under intensified surveillance after he allegedly contacted Al Qaeda</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2322" entailment="UNKNOWN" task="IE">
+<t>Official: Gitmo prisoner traded for Bergdahl reaching out to Taliban</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2323" entailment="UNKNOWN" task="IE">
+<t>Bergdahl: Senator Says Jihadists Swapped For U.S. Troop In Touch With Al-Qaida Affiliate</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2324" entailment="ENTAILMENT" task="IE">
+<t>Prisoner Released in Bergdahl Exchange Tried to Reconnect With Taliban</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2325" entailment="UNKNOWN" task="IE">
+<t>Senator: Detainees swapped for Bergdahl have contacted militants</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2326" entailment="UNKNOWN" task="IE">
+<t>Guantanamo detainee freed in Bowe Bergdahl swap back to terrorism</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2327" entailment="UNKNOWN" task="IE">
+<t>Taliban Detainee Swapped for Bowe Bergdahl Suspected of Trying to Return to Terrorism</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2328" entailment="UNKNOWN" task="IE">
+<t>One of Taliban Five in Bowe Bergdahl swap allegedly returned to militancy</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2329" entailment="UNKNOWN" task="IE">
+<t>Taliban member swapped by Obama for Bowe Bergdahl tried to return to terror: report</t>
+<h>At least one of the Taliban Five exchanged for soldier Bowe Bergdahl is trying to return to militancy</h>
+</pair>
+<pair id="2387" entailment="ENTAILMENT" task="IE">
+<t>Texas Turkey Farm Contaminated With Ebola, Over 250,000 Holiday Turkeys Infected</t>
+<h>A Texas turkey farm was contaminated with Ebola</h>
+</pair>
+<pair id="2388" entailment="CONTRADICTION" task="IE">
+<t>Nationwide turkey recall? Ebola-infected birds? USDA debunks the hoax</t>
+<h>A Texas turkey farm was contaminated with Ebola</h>
+</pair>
+<pair id="2389" entailment="CONTRADICTION" task="IE">
+<t>Hoax Report Claims 250,000 Texas Turkeys Infected With Ebola</t>
+<h>A Texas turkey farm was contaminated with Ebola</h>
+</pair>
+<pair id="2390" entailment="ENTAILMENT" task="IE">
+<t>TEXAS TURKEY FARM CONTAMINATED WITH EBOLA, OVER 250,000 HOLIDAY TURKEYS INFECTED</t>
+<h>A Texas turkey farm was contaminated with Ebola</h>
+</pair>
+<pair id="2456" entailment="ENTAILMENT" task="IE">
+<t>Email to Tim Cook prompted change of Apple's on hold music quality</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+<pair id="2457" entailment="ENTAILMENT" task="IE">
+<t>How a Reddit user convinced Tim Cook to change Apple's on-hold music</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+<pair id="2458" entailment="UNKNOWN" task="IE">
+<t>This Story About How Tim Cook Changed The On Hold Music At Apple Shows Why He's Such A Great CEO</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+<pair id="2459" entailment="ENTAILMENT" task="IE">
+<t>How a Reddit user convinced Tim Cook to change Apple's on-hold music</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+<pair id="2460" entailment="ENTAILMENT" task="IE">
+<t>Tim Cook makes change at Apple after reading email from unhappy customer</t>
+<h>Apple CEO Tim Cook changed the company's on-hold music</h>
+</pair>
+</entailment-corpus>

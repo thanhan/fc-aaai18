@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?><entailment-corpus lang="EN">
+<pair id="198" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Digital Crown -- Could It Color Adjusted?</t>
+<h>The Digital Crown on the Apple Watch will come in different colors.</h>
+</pair>
+<pair id="442" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber Helps Defend Russian Fisherman From Bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="443" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber Saved A Guy Getting Mauled By A Bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="444" entailment="UNKNOWN" task="IE">
+<t>Man Mauled By Bear Says He's Only Alive Thanks to Justin Bieber</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="445" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber's Baby Saves Man From Violent Bear Attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="446" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber saves man from bear attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="447" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber ringtone saves man being mauled by bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="448" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber ringtone saved a Russian fisherman during a bear attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="449" entailment="ENTAILMENT" task="IE">
+<t>Bieber ringtone scares bear, saves man's life</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="450" entailment="ENTAILMENT" task="IE">
+<t>A Russian Guy Says His Justin Bieber Ringtone Saved Him From A Bear Attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="451" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber Saved This Guy From a Bear Attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="452" entailment="ENTAILMENT" task="IE">
+<t>Finally, proof that Justin Bieber IS unbearable: Russian fisherman saved from bear attack when ringtone featuring one of the pop brat's songs scares it away</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="453" entailment="ENTAILMENT" task="IE">
+<t>Man saved from bear attack - thanks to his Justin Bieber ringtone</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="454" entailment="ENTAILMENT" task="IE">
+<t>Fisherman Saved from Deadly Bear Attack by His Justin Bieber Ringtone</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="455" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber scares off GRIZZLY BEAR and saves fisherman from a mauling</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="456" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber Basically Saves A Russian Man From A Bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="457" entailment="ENTAILMENT" task="IE">
+<t>Man saved from bear attack when his Justin Bieber ringtones goes off, sending bear fleeing</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="458" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber Ringtone Startles Bear</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="459" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber ringtone saves Russian fisherman from bear attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="460" entailment="CONTRADICTION" task="IE">
+<t>Bear attack foiled by Justin Bieber's music: A story too good to check</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="461" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber ringtone saves Russian man from bear attack</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="462" entailment="ENTAILMENT" task="IE">
+<t>Unbearable: Man fends off bear attack by playing Justin Bieber song</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="463" entailment="ENTAILMENT" task="IE">
+<t>Justin Bieber ringtone scares bear, saves Russian fisherman</t>
+<h>A man was saved from a bear attack thanks to a Justin Bieber ringtone</h>
+</pair>
+<pair id="483" entailment="CONTRADICTION" task="IE">
+<t>Vladimir Putin gives speech on dangers of military aggression</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="484" entailment="CONTRADICTION" task="IE">
+<t>No, a bird didn't poop on Vladimir Putin</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="485" entailment="ENTAILMENT" task="IE">
+<t>WATCH: Bird Launches Airstrike on Putin's Shoulder UPDATED</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="486" entailment="CONTRADICTION" task="IE">
+<t>A Bunch Of Folks Are Passing Around This Hoax Video Of A Bird Pooping On Vladimir Putin</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="487" entailment="CONTRADICTION" task="IE">
+<t>No, Vladimir Putin did not get pooped on by a bird during a First World War speech</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="488" entailment="CONTRADICTION" task="IE">
+<t>Vladimir Putin Bird Poop Video is Fake</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="489" entailment="CONTRADICTION" task="IE">
+<t>If Only A Bird Really Did Poop on Putin</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="490" entailment="CONTRADICTION" task="IE">
+<t>The video of a bird pooping on Vladimir Putin is a hoax</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="491" entailment="UNKNOWN" task="IE">
+<t>News sites fall for Putin bird-dropping video</t>
+<h>A bird pooped on Vladimir Putin during a speech</h>
+</pair>
+<pair id="552" entailment="ENTAILMENT" task="IE">
+<t>Woman catches husband cheating with her twin, humiliates them</t>
+<h>Spurned wife leaves cheating husband and her twin naked in busy car park</h>
+</pair>
+<pair id="553" entailment="ENTAILMENT" task="IE">
+<t>Spurned wife leaves cheating husband and twin naked in busy car park</t>
+<h>Spurned wife leaves cheating husband and her twin naked in busy car park</h>
+</pair>
+<pair id="554" entailment="ENTAILMENT" task="IE">
+<t>Woman, Ting Su, Finds Husband Cheating With Her Own Twin, Gets Spectacular Revenge</t>
+<h>Spurned wife leaves cheating husband and her twin naked in busy car park</h>
+</pair>
+<pair id="555" entailment="ENTAILMENT" task="IE">
+<t>Scorned wife leaves love-rat husband and twin sister NAKED in car park</t>
+<h>Spurned wife leaves cheating husband and her twin naked in busy car park</h>
+</pair>
+<pair id="647" entailment="CONTRADICTION" task="IE">
+<t>Brian Williams Debunks Peeing Meteorologist Report On NBC Nightly News: Video</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="648" entailment="ENTAILMENT" task="IE">
+<t>Weatherman caught peeing live on camera</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="649" entailment="CONTRADICTION" task="IE">
+<t>Brian Williams Insists NBC News Meteorologist Did Not Pee in the Snow While on Air</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="650" entailment="UNKNOWN" task="IE">
+<t>Did NBC Nightly News Go Live To A Man Who Was Taking A Piss?</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="651" entailment="UNKNOWN" task="IE">
+<t>WAS NBC METEOROLOGIST MIKE SEIDEL PEEING IN THE SNOW ON CAMERA? A TESTY BRIAN WILLIAMS EXPLAINS</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="652" entailment="ENTAILMENT" task="IE">
+<t>NBC weatherman caught urinating in the woods live on air</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="653" entailment="ENTAILMENT" task="IE">
+<t>Weather Reporter Caught Writing His Name In The Snow Was NOT Ready To Go On Camera UPDATED</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="654" entailment="CONTRADICTION" task="IE">
+<t>Wild Misinformation: Brian Williams Explains the Mike Seidel Liveshot</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="655" entailment="CONTRADICTION" task="IE">
+<t>Brian Williams: No, Our Meteorologist Was Not Peeing on Live TV</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="656" entailment="ENTAILMENT" task="IE">
+<t>Watch moment TV weatherman is caught urinating in the bushes LIVE on camera</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="657" entailment="UNKNOWN" task="IE">
+<t>Brian Williams slams social media for speculation weatherman Mike Seidel relieved himself on air</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="658" entailment="UNKNOWN" task="IE">
+<t>SEE IT: NBC meteorologist Mike Seidel appears to relieve himself during broadcast network says he was looking for phone</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="659" entailment="CONTRADICTION" task="IE">
+<t>Weather Channel's Mike Seidel was not caught with his pants down</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="660" entailment="CONTRADICTION" task="IE">
+<t>Brian Williams Demands Apology From Social Media Over Erroneous Urination Reports Video</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="661" entailment="UNKNOWN" task="IE">
+<t>Weather Reporter Mike Seidel Was Caught Off Guard on Live TV and Appeared to Be Urinating in the Snow -- Watch</t>
+<h>NBC meteorologist Mike Seidel was caught relieving himself on camera</h>
+</pair>
+<pair id="665" entailment="ENTAILMENT" task="IE">
+<t>Dog Found Abandoned With Suitcase Filled With His Belongings</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="666" entailment="ENTAILMENT" task="IE">
+<t>Dog abandoned at Ayr station with belongings in suitcase</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="667" entailment="ENTAILMENT" task="IE">
+<t>This Dog Was Left At A Railway Station With A Suitcase Of His Belongings After He Was Sold On Gumtree</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="668" entailment="ENTAILMENT" task="IE">
+<t>Dog abandoned at Scottish rail station with suitcase full of belongings Read more: http:www.ctvnews.caworlddog-abandoned-at-scottish-rail-station-with-suitcase-full-of-belongings-1.2175026ixzz3O9Shc1IO</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="669" entailment="ENTAILMENT" task="IE">
+<t>From the Philippines to Canada: Dog-lovers around the world offer home to abandoned Shar-Pei Kai - but carers say he will stay in Scotland after he turned up at train station</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="670" entailment="ENTAILMENT" task="IE">
+<t>Hunt for cruel owner who abandoned dog at train station</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="671" entailment="ENTAILMENT" task="IE">
+<t>Dog found abandoned outside railway station with suitcase of his belongings</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="672" entailment="ENTAILMENT" task="IE">
+<t>Search launched for dog's owner after pooch found dumped next to suitcase filled with belongings</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="673" entailment="ENTAILMENT" task="IE">
+<t>Dog abandoned at railway station with suitcase set for happy ending as offers pour in</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="674" entailment="ENTAILMENT" task="IE">
+<t>Dog found abandoned at Scottish train station with suitcase of belongings</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="675" entailment="ENTAILMENT" task="IE">
+<t>Dog abandoned at Scotland train station with suitcase</t>
+<h>An abandoned dog was found at Scottish railway station with a suitcase of his belongings</h>
+</pair>
+<pair id="740" entailment="UNKNOWN" task="IE">
+<t>Report claims steel Apple Watch to start at 500, gold model between 4-5K</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="741" entailment="UNKNOWN" task="IE">
+<t>Rumor: Gold Apple Watch Edition priced up to 5,000, steel version at 500, will debut on Feb. 14</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="742" entailment="UNKNOWN" task="IE">
+<t>Rumor: Stainless Steel Apple Watch Will Cost 500, Gold 4,000</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="743" entailment="UNKNOWN" task="IE">
+<t>Apple Watch to start at 500 in stainless steel, thousands for gold model</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="744" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Stainless Steel variant reportedly priced at 500, 4,000 for the gold variant</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="745" entailment="UNKNOWN" task="IE">
+<t>Stainless steel Apple Watch could cost just 499, but gold will be 10 times as pricey</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="746" entailment="UNKNOWN" task="IE">
+<t>Info iGen: 500 for Apple Watch, February 14?</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="747" entailment="UNKNOWN" task="IE">
+<t>Insiders Claim Steel Apple Watch to Start at 500, Gold at 4,000</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="748" entailment="UNKNOWN" task="IE">
+<t>Apple Watch Pricing to Reportedly Start at 500 for Stainless Steel, 4,000 for Gold</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="749" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch pricing: Will you spend 5000 for Gold edition, 500 for stainless steel?</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="750" entailment="ENTAILMENT" task="IE">
+<t>Want a Gold Apple Watch? All You Need is 5,000</t>
+<h>The stainless steel Apple Watch will retail for 500 USD</h>
+</pair>
+<pair id="943" entailment="ENTAILMENT" task="IE">
+<t>Hewlett-Packard Plans to Break in Two</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="944" entailment="ENTAILMENT" task="IE">
+<t>Hewlett-Packard Announces Plans To Break Up Company</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="945" entailment="UNKNOWN" task="IE">
+<t>HP to split into two companies, one focused on PCsprinters and one on enterprise computing</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="946" entailment="ENTAILMENT" task="IE">
+<t>HP is better not together company to split into enterprise and PCprinter businesses</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="947" entailment="UNKNOWN" task="IE">
+<t>Hewlett-Packard will reportedly split into two companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="948" entailment="ENTAILMENT" task="IE">
+<t>HP confirms plan to split company</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="949" entailment="ENTAILMENT" task="IE">
+<t>Hewlett-Packard to split into two companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="950" entailment="ENTAILMENT" task="IE">
+<t>Hewlett-Packard plans to break into 2 companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="951" entailment="ENTAILMENT" task="IE">
+<t>IT'S OFFICIAL: HP Is Splitting Into 2 Separate Businesses</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="952" entailment="ENTAILMENT" task="IE">
+<t>Hewlett-Packard Plans To Split Into Two Companies: WSJ Report</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="953" entailment="ENTAILMENT" task="IE">
+<t>Hewlett-Packard to break into 2 companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="954" entailment="UNKNOWN" task="IE">
+<t>Hewlett-Packard plans to split into two companies: Report</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="955" entailment="UNKNOWN" task="IE">
+<t>HP to split into two businesses -- report</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="956" entailment="ENTAILMENT" task="IE">
+<t>Hewlett-Packard to split in 2 companies</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="957" entailment="ENTAILMENT" task="IE">
+<t>Hewlett-Packard splits off PC, printer businesses</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="958" entailment="ENTAILMENT" task="IE">
+<t>Hewlett-Packard to split into two public companies, lay off 5,000</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="959" entailment="ENTAILMENT" task="IE">
+<t>HP officially splitting into two companies update</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="960" entailment="UNKNOWN" task="IE">
+<t>Hewlett-Packard Plans To Break Into Two Companies: Report</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="961" entailment="UNKNOWN" task="IE">
+<t>Sorry - this page has been removed.</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="962" entailment="UNKNOWN" task="IE">
+<t>HP reportedly plans to split PC and printer business from enterprise unit</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="963" entailment="ENTAILMENT" task="IE">
+<t>HP announces plan to split in two</t>
+<h>Claim Hewlett-Packard will split itself into two separate companies</h>
+</pair>
+<pair id="1219" entailment="CONTRADICTION" task="IE">
+<t>Islamic State Leader al-Baghdadi Not Dead</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1220" entailment="UNKNOWN" task="IE">
+<t>ISIS leader dead?</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1221" entailment="UNKNOWN" task="IE">
+<t>ISIS Leader Abu Bakr Al-Baghdadi Assassinated In U.S. Airstrike</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1222" entailment="ENTAILMENT" task="IE">
+<t>Iraqi airstrike kills key ISIL leader</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1223" entailment="CONTRADICTION" task="IE">
+<t>We took a look at the photo said to show the body of Islamic State leader Abu Bakr Al-Baghdadi right and found it was really an ethnic Albanian militant killed in 2013</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1224" entailment="CONTRADICTION" task="IE">
+<t>Rumors of ISIS leader's death debunked</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1225" entailment="CONTRADICTION" task="IE">
+<t>Rumors of ISIS leader's death debunked</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1226" entailment="ENTAILMENT" task="IE">
+<t>Urgent: The Leader of ISIL Abu Bakr al-Baghdadi Killed Photo</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1227" entailment="UNKNOWN" task="IE">
+<t>ISIS leader killed in US airstrikes</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1228" entailment="UNKNOWN" task="IE">
+<t>ISIS Leader Killed: Abu Bakr Al-Baghdadi Reportedly Killed By U.S. Airstrike</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1229" entailment="UNKNOWN" task="IE">
+<t>ISIS Leader Killed: Abu Bakr Al-Baghdadi Reportedly Killed By U.S. Airstrike</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1230" entailment="UNKNOWN" task="IE">
+<t>URGENT: ISIS leader Abu Bakr al-Baghdadi allegedly killed by US airstrikes</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1231" entailment="CONTRADICTION" task="IE">
+<t>Pentagon Denies It Killed ISIS Chief As Airstrikes Hit Top Extremists</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1232" entailment="UNKNOWN" task="IE">
+<t>Iraqi social-media rumors claim IS leader slain</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1233" entailment="CONTRADICTION" task="IE">
+<t>Photo of slain IS leader reported to be doctored</t>
+<h>ISIS leader Abu Bakr al-Baghdadi was killed by an U.S. airstrike</h>
+</pair>
+<pair id="1284" entailment="ENTAILMENT" task="IE">
+<t>Isis tells mother on rescue mission :You've just eaten your son</t>
+<h>ISIS gave a Kurdish woman a meal and told her she'd eaten her own son</h>
+</pair>
+<pair id="1285" entailment="UNKNOWN" task="IE">
+<t>ISIS militants trick mother into eating her kidnapped son</t>
+<h>ISIS gave a Kurdish woman a meal and told her she'd eaten her own son</h>
+</pair>
+<pair id="1286" entailment="UNKNOWN" task="IE">
+<t>ISLAMIC STATE FED MURDERED MAN TO HIS OWN MOTHER</t>
+<h>ISIS gave a Kurdish woman a meal and told her she'd eaten her own son</h>
+</pair>
+<pair id="1287" entailment="UNKNOWN" task="IE">
+<t>Isis fed murdered kidnap victim to his own mother after she travelled to their headquarters and demanded to see him</t>
+<h>ISIS gave a Kurdish woman a meal and told her she'd eaten her own son</h>
+</pair>
+<pair id="1288" entailment="ENTAILMENT" task="IE">
+<t>There is no limit to their depravity Islamic State FEED mother her own SON</t>
+<h>ISIS gave a Kurdish woman a meal and told her she'd eaten her own son</h>
+</pair>
+<pair id="1289" entailment="ENTAILMENT" task="IE">
+<t>After ISIS trick mum into eating son - 5 other reluctant cannibals including those forced to eat own body parts</t>
+<h>ISIS gave a Kurdish woman a meal and told her she'd eaten her own son</h>
+</pair>
+<pair id="1290" entailment="ENTAILMENT" task="IE">
+<t>ISIS: Desperate mum told you've just eaten your son after visiting militants base in search of kidnap victim</t>
+<h>ISIS gave a Kurdish woman a meal and told her she'd eaten her own son</h>
+</pair>
+<pair id="1406" entailment="ENTAILMENT" task="IE">
+<t>Kim Jong-un relying on cobra wine after problems with trouser snake</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1407" entailment="ENTAILMENT" task="IE">
+<t>Kim Jong-un drinks rare snake wine to boost love life</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1408" entailment="ENTAILMENT" task="IE">
+<t>Kim Jong-un necks litres of rare SNAKE wine because he's too fat to please his wife</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1409" entailment="ENTAILMENT" task="IE">
+<t>Snake wine to the rescue of Kim Jong-un's love life</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1410" entailment="ENTAILMENT" task="IE">
+<t>KIM JONG-UN NECKS SNAKE WINE FOR VIRILITY</t>
+<h>Kim Jong Un is drinking cobra wine to help restore his virility</h>
+</pair>
+<pair id="1505" entailment="ENTAILMENT" task="IE">
+<t>That powerful Lego letter to parents from the 1970s? It's real</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1506" entailment="ENTAILMENT" task="IE">
+<t>These LEGO Instructions from 1974 Are Awesome And Yes, They're Real</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1507" entailment="UNKNOWN" task="IE">
+<t>These egalitarian Lego instructions from the 1970s are pretty cool, but are they real?</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1508" entailment="ENTAILMENT" task="IE">
+<t>A Letter Lego Sent to Parents in 1974 Holds an Important Message for the Parents of 2014</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1509" entailment="ENTAILMENT" task="IE">
+<t>Forty years ago, Lego wrote a powerful letter to parents about how gender works</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1510" entailment="ENTAILMENT" task="IE">
+<t>This Letter To Parents From A 1970s Lego Set Contains An Important Message For Gender Equality</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1511" entailment="ENTAILMENT" task="IE">
+<t>Letter From LEGO To Parents In The 70s Makes An Important Point About Gender</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1512" entailment="ENTAILMENT" task="IE">
+<t>Lego letter from the 1970s still offers a powerful message to parents 40 years later</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1513" entailment="ENTAILMENT" task="IE">
+<t>Lego letter to parents in 1974 on gender equality still resonates 40 years on</t>
+<h>Lego sent a letter to parents in the 1970s that had a powerful message about gender equality</h>
+</pair>
+<pair id="1529" entailment="ENTAILMENT" task="IE">
+<t>LG will be sole supplier of Apple Watch display</t>
+<h>LG will be the sole supplier of OLED displays for the Apple Watch</h>
+</pair>
+<pair id="1530" entailment="ENTAILMENT" task="IE">
+<t>LG to make millions of flexible Plastic OLED displays for the Apple Watch</t>
+<h>LG will be the sole supplier of OLED displays for the Apple Watch</h>
+</pair>
+<pair id="1578" entailment="ENTAILMENT" task="IE">
+<t>Man Kicked Off Flight Thanks to His Burning Hatred for Christmas</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1579" entailment="ENTAILMENT" task="IE">
+<t>Passenger Gets Kicked Off Plane After Merry Christmas Meltdown</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1580" entailment="ENTAILMENT" task="IE">
+<t>Airline passenger freaks out over crew's Merry Christmas greeting</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1581" entailment="ENTAILMENT" task="IE">
+<t>Passenger tossed after flipping out over staff's Merry Christmas</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1582" entailment="ENTAILMENT" task="IE">
+<t>Passenger headed to Dallas rages over Merry Christmas, removed from plane</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1583" entailment="ENTAILMENT" task="IE">
+<t>Man removed from plane over Christmas greeting dispute</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1584" entailment="ENTAILMENT" task="IE">
+<t>Man kicked off flight after Merry Christmas greeting sets him off</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1585" entailment="ENTAILMENT" task="IE">
+<t>Angry Passenger Tossed Off Plane after Crew Wishes Him Merry Christmas</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1586" entailment="ENTAILMENT" task="IE">
+<t>American Airlines boots man from plane after Merry Christmas prompts meltdown</t>
+<h>A man was removed from an American Airlines flight after he became upset due to being wished a Merry Christmas by the crew</h>
+</pair>
+<pair id="1710" entailment="CONTRADICTION" task="IE">
+<t>Michelle Obama's Hair Appeared Totally Uncensored on Saudi TV</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1711" entailment="CONTRADICTION" task="IE">
+<t>Michelle Obama Not Blurred Out on Saudi TV</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1712" entailment="CONTRADICTION" task="IE">
+<t>Saudis Say Michelle Obama Not Blurred on TV</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1713" entailment="ENTAILMENT" task="IE">
+<t>Michelle Obama's face blurred by Saudi state television</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1714" entailment="UNKNOWN" task="IE">
+<t>Updated Saudi State Television Allegedly Blurs Michelle Obama's Face During Meeting With New Saudi King</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1715" entailment="CONTRADICTION" task="IE">
+<t>No, Saudi TV Did Not Blur Out Images of Michelle Obama</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1716" entailment="CONTRADICTION" task="IE">
+<t>No, Saudi TV Didn't Blur Out Michelle Obama's Face When the President Met King Salman</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1717" entailment="ENTAILMENT" task="IE">
+<t>Michelle Obama's face blurred by Saudi state television</t>
+<h>Saudi TV blurred out Michelle Obama's uncovered face during a visit to the country</h>
+</pair>
+<pair id="1767" entailment="ENTAILMENT" task="IE">
+<t>Sick Mum Sedated After Trying To Eat Baby</t>
+<h>A woman tried to eat her baby after giving birth</h>
+</pair>
+<pair id="1768" entailment="UNKNOWN" task="IE">
+<t>Cannibal mother tries to eat her newborn baby after giving birth</t>
+<h>A woman tried to eat her baby after giving birth</h>
+</pair>
+<pair id="1769" entailment="ENTAILMENT" task="IE">
+<t>Cannibal mum tries to EAT her own baby shortly after giving birth</t>
+<h>A woman tried to eat her baby after giving birth</h>
+</pair>
+<pair id="1845" entailment="CONTRADICTION" task="IE">
+<t>Story of gutsy bravehearts who fought off Boko Haram is a hoax</t>
+<h>Image shows a group of Nigerian women armed with AK-47s who saved a town and school from Boko Haram</h>
+</pair>
+<pair id="1846" entailment="ENTAILMENT" task="IE">
+<t>Another Boko Haram Attack Repelled By Armed Women</t>
+<h>Image shows a group of Nigerian women armed with AK-47s who saved a town and school from Boko Haram</h>
+</pair>
+<pair id="1847" entailment="CONTRADICTION" task="IE">
+<t>Story of gutsy bravehearts who repelled Boko Haram attack is a hoax</t>
+<h>Image shows a group of Nigerian women armed with AK-47s who saved a town and school from Boko Haram</h>
+</pair>
+<pair id="2154" entailment="ENTAILMENT" task="IE">
+<t>New Audio Shows Michael Brown Was Shot at 11 Times</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2155" entailment="UNKNOWN" task="IE">
+<t>Shots Heard In Alleged Brown Shooting Recording AUDIO</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2156" entailment="UNKNOWN" task="IE">
+<t>Alleged audio of Michael Brown shooting released</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2157" entailment="UNKNOWN" task="IE">
+<t>CNN Plays Alleged Recording of Michael Brown Shooting</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2158" entailment="UNKNOWN" task="IE">
+<t>CNN audio: Is this the moment Michael Brown was shot?</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2159" entailment="ENTAILMENT" task="IE">
+<t>New Audio Reveals Pause in Gunfire When Michael Brown Was Shot: Attorney</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2160" entailment="UNKNOWN" task="IE">
+<t>CNN Plays Alleged Audiotape of Michael Brown ShootingMilitarization Of Police</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2161" entailment="UNKNOWN" task="IE">
+<t>Experts: More facts needed on purported audio recording of Michael Brown shooting</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2162" entailment="UNKNOWN" task="IE">
+<t>An audio recording of the Michael Brown shooting has reportedly surfaced</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2163" entailment="UNKNOWN" task="IE">
+<t>Alleged Audio of Michael Brown Shooting Doesn't Sound Good for Officer Darren Wilson</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2164" entailment="UNKNOWN" task="IE">
+<t>Michael Brown shooting audio caught on tape?</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2165" entailment="UNKNOWN" task="IE">
+<t>CNN Broadcasts Purported Audio Containing Gunshots That Felled Michael Brown Jr. Leaders, Celebrities Fill Pews At Teen's Funeral</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2166" entailment="UNKNOWN" task="IE">
+<t>Alleged New Audio of Michael Brown Shooting</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2167" entailment="UNKNOWN" task="IE">
+<t>New Audio Recording From Ferguson May Capture Michael Brown Shooting</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2168" entailment="ENTAILMENT" task="IE">
+<t>Attorney: New audio reveals pause in gunfire when Michael Brown was shot</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2169" entailment="ENTAILMENT" task="IE">
+<t>Audio captured at time of Michael Brown shooting, company says</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2170" entailment="UNKNOWN" task="IE">
+<t>Alleged audio of Michael Brown shooting has surfaced</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2171" entailment="UNKNOWN" task="IE">
+<t>Moment Michael Brown was shot dead caught on audio recording: FBI handed potentially damning tape of ELEVEN shots being fired - including final volley of kill shots</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2172" entailment="ENTAILMENT" task="IE">
+<t>Audio recording of Michael Brown being gunned down WAS made at the time he was killed: App company appears to confirm tape of ELEVEN bullets being fired - including final volley of kill shots</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2173" entailment="ENTAILMENT" task="IE">
+<t>Video Messaging App Says Audio Recording Of Michael Brown's Shooting Is Authentic</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2174" entailment="UNKNOWN" task="IE">
+<t>New Audio Allegedly Captures Moment Michael Brown Was Shot</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2175" entailment="CONTRADICTION" task="IE">
+<t>Was Alleged Audio of Michael Brown Shooting on CNN a Hoax?</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2176" entailment="UNKNOWN" task="IE">
+<t>CNN Airs Alleged Audio from Michael Brown Shooting</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2177" entailment="CONTRADICTION" task="IE">
+<t>CNN Expert on Brown Audio: At First I Thought Someone's Trying to Punk CNN</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2178" entailment="ENTAILMENT" task="IE">
+<t>Audio of gunfire in Michael Brown case authenticated by app company</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2179" entailment="UNKNOWN" task="IE">
+<t>FBI Probing Alleged Audio of Michael Brown Shooting</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2180" entailment="UNKNOWN" task="IE">
+<t>Audio recording allegedly captures moment Michael Brown was shot</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2181" entailment="UNKNOWN" task="IE">
+<t>Possible audio tape of Michael Brown shooting</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2182" entailment="UNKNOWN" task="IE">
+<t>CNN plays chilling audio recording allegedly from Michael Brown shooting: At least 11 shots</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2183" entailment="UNKNOWN" task="IE">
+<t>CNN Posts Alleged Audio of Michael Brown ShootingRunning ScaredVikings Star Adrian Peterson Reportedly Indicted for Child AbuseWhy the Military Treats Male Sexual Assault Victims So HorriblyWhy Google Bought a SpoonWe All Have Certain Words We Use Too Often. What's Yours?Meatless MondaysThe Beatles. Bob Dylan. Biggie Smalls.How to Fix Gerrymandering and Improve American Politics in One Fell SwoopThe Very Funny Comic Who Just Became SNL's Next Weekend Update Anchor</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2184" entailment="UNKNOWN" task="IE">
+<t>Ferguson riots: audio may have captured Michael Brown shooting</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2185" entailment="CONTRADICTION" task="IE">
+<t>Is the Alleged Audio of the Gunshots That Killed Michael Brown a Hoax?</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2186" entailment="UNKNOWN" task="IE">
+<t>Audio Reveals Pause Between Gunshots When Michael Brown Was Shot</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2187" entailment="UNKNOWN" task="IE">
+<t>An Audio Recording of the Michael Brown Shooting Has Reportedly Surfaced</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2188" entailment="UNKNOWN" task="IE">
+<t>Audio may have captured Michael Brown shooting</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2189" entailment="ENTAILMENT" task="IE">
+<t>Video messaging service verifies timing of CNN audio recording</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2190" entailment="UNKNOWN" task="IE">
+<t>Audio recording allegedly captures at least 10 shots fired in Michael Brown killing</t>
+<h>There's an audio recording of the Michael Brown shooting</h>
+</pair>
+<pair id="2373" entailment="ENTAILMENT" task="IE">
+<t>Texas Plumber Has No Idea How Company Truck Ended Up With ISIS</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2374" entailment="ENTAILMENT" task="IE">
+<t>Texas plumber baffled after truck ends up in the hands of Syrian rebels</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2375" entailment="ENTAILMENT" task="IE">
+<t>Texas plumber threatened over jihadis using his old truck</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2376" entailment="ENTAILMENT" task="IE">
+<t>Texas plumber's truck on front line of Syria war</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2377" entailment="ENTAILMENT" task="IE">
+<t>How did a Texas plumber's truck end up with Syrian rebels? video</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2378" entailment="UNKNOWN" task="IE">
+<t>Did a plumber's pick-up truck from Texas end up carrying an anti-aircraft gun for Islamic fighters on the front lines of Syria?</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2379" entailment="ENTAILMENT" task="IE">
+<t>Texas City plumber's truck ends up in Syrian war</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2380" entailment="ENTAILMENT" task="IE">
+<t>Texas Plumber Isn't Sure How Extremists In Syria Ended Up With His Work Truck</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2381" entailment="ENTAILMENT" task="IE">
+<t>Islamist terrorists Jabhat Ansar al-Deen tweet picture of Texas plumber's truck fitted with anti-aircraft gun in Syria</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2382" entailment="ENTAILMENT" task="IE">
+<t>Texas plumber's truck spotted in Syria: We have nothing to do with terror at all</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2383" entailment="ENTAILMENT" task="IE">
+<t>Texas Truck Winds Up in Syria With Islamic Militants</t>
+<h>A Texas plumbing company's truck is now being used by militant Islamist fighters in Syria</h>
+</pair>
+<pair id="2398" entailment="CONTRADICTION" task="IE">
+<t>Woman With Three Breasts Is Reportedly A Fake: Jasmine Tridevil's Real Identity Revealed</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2399" entailment="ENTAILMENT" task="IE">
+<t>Woman has third breast implanted</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2400" entailment="CONTRADICTION" task="IE">
+<t>Third boob likely a hoax</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2401" entailment="CONTRADICTION" task="IE">
+<t>This Third Boob Is Probably Only Real in Our Hearts</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2402" entailment="CONTRADICTION" task="IE">
+<t>Three Boobs Are Most Likely Two Boobs and a Lie</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2403" entailment="ENTAILMENT" task="IE">
+<t>Woman Gets Third Boob Implanted, Wants to Be Unattractive to Men</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2404" entailment="ENTAILMENT" task="IE">
+<t>Woman pays 20,000 for third breast to make herself LESS attractive to men</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2405" entailment="CONTRADICTION" task="IE">
+<t>Woman with three breasts was a fake who has tricked people online before</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2406" entailment="CONTRADICTION" task="IE">
+<t>The Story of the 3-Boobed Lady Is As Fake As Her Third Boob</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2407" entailment="CONTRADICTION" task="IE">
+<t>The Story of a Woman Getting a Third Boob to Appear Unattractive to Men Is a Hoax Updated</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2408" entailment="ENTAILMENT" task="IE">
+<t>Meet the 3-boobed woman</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2409" entailment="UNKNOWN" task="IE">
+<t>Three-boobed woman: They're not fake</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2410" entailment="CONTRADICTION" task="IE">
+<t>Three-Boobed Girl probably a hoax, because obviously</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2411" entailment="UNKNOWN" task="IE">
+<t>Florida woman claims to have surgically added third breast</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2412" entailment="ENTAILMENT" task="IE">
+<t>Florida Woman Has Surgery To Add Third Breast To Her Chest</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2413" entailment="CONTRADICTION" task="IE">
+<t>Woman Who Claimed To Have Surgery To Add Third Breast Exposed As Hoaxer</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2414" entailment="UNKNOWN" task="IE">
+<t>Florida woman reportedly gets third breast surgically implanted</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2415" entailment="CONTRADICTION" task="IE">
+<t>Woman's Claims She Had Plastic Surgery To Add A Third Breast Likely A Hoax</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2416" entailment="UNKNOWN" task="IE">
+<t>Fake or freak? Woman, 21, claims to have paid 20,000 to surgically add third breast in desperate bid to become a reality TV star</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2417" entailment="CONTRADICTION" task="IE">
+<t>They're fake Woman who claims to have surgically implanted third breast is a self-proclaimed hoaxer who once reported a 3 breast prosthesis stolen from her luggage</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2418" entailment="UNKNOWN" task="IE">
+<t>Woman claims she had third breast added, hopes to become a TV star</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2419" entailment="CONTRADICTION" task="IE">
+<t>Woman who claimed to have third breast added is fake</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2420" entailment="UNKNOWN" task="IE">
+<t>Jasmine Tridevil Has Surgery To Add Third Breast Total Recall Style</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2421" entailment="CONTRADICTION" task="IE">
+<t>Is Jasmine Tridevil's Triple Breasted Tale An Internet Hoax?</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2422" entailment="UNKNOWN" task="IE">
+<t>Is Jasmine Tridevil's Third Boob Real? Alisha Hessler Hoax Rumors Swirl</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2423" entailment="ENTAILMENT" task="IE">
+<t>Woman Adds Third Breast by Undergoing Surgery to Participate in Reality Show</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2424" entailment="ENTAILMENT" task="IE">
+<t>Woman has surgery to get third breast: The three most statistically unlikely pairs of boobs</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2425" entailment="ENTAILMENT" task="IE">
+<t>Triple-breasted woman pictured before operation and vows surgery footage will prove third boob is no hoax</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2426" entailment="ENTAILMENT" task="IE">
+<t>Jasmine Tridevil: The woman with three breasts</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2427" entailment="ENTAILMENT" task="IE">
+<t>Jasmine Tridevil: Woman with three breast denies surgery hoax claims</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2428" entailment="UNKNOWN" task="IE">
+<t>Three-breasted Florida woman Jasmine Tridevil insists third boob is real, but police report shows she once lost prosthesis</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2429" entailment="ENTAILMENT" task="IE">
+<t>Florida woman has surgery to add third breast to make herself unattractive to men</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2430" entailment="CONTRADICTION" task="IE">
+<t>Woman with three breasts is a fake</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2431" entailment="UNKNOWN" task="IE">
+<t>Breast Chancer</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2432" entailment="ENTAILMENT" task="IE">
+<t>I had a third breast implant so I can turn off men</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2433" entailment="CONTRADICTION" task="IE">
+<t>3-Boobed Woman a Fake</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2434" entailment="ENTAILMENT" task="IE">
+<t>Florida woman gets third breast to become unattractive 32</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2435" entailment="CONTRADICTION" task="IE">
+<t>Three-breasted woman outed as fake by Tampa police</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2436" entailment="UNKNOWN" task="IE">
+<t>Tampa woman claims to add 3rd breast</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2437" entailment="UNKNOWN" task="IE">
+<t>Woman with three breasts: Real or hoax?</t>
+<h>A Florida woman got a third breast</h>
+</pair>
+<pair id="2461" entailment="ENTAILMENT" task="IE">
+<t>1901 Boston time capsule yields small red book</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2462" entailment="UNKNOWN" task="IE">
+<t>Oldest Time Capsule in U.S. Unearthed in Boston</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2463" entailment="ENTAILMENT" task="IE">
+<t>Founding Fathers-Era Time Capsule Found in Boston</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2464" entailment="ENTAILMENT" task="IE">
+<t>Time Capsule from Paul Revere and Samuel Adams Discovered in Boston</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2465" entailment="ENTAILMENT" task="IE">
+<t>State House time capsule from 1795 unearthed</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2466" entailment="ENTAILMENT" task="IE">
+<t>Paul Revere's 1795 time capsule unearthed</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2467" entailment="ENTAILMENT" task="IE">
+<t>America's oldest time capsule unearthed at Boston statehouse after being buried in 1795 by Sam Adams and Paul Revere Read more: http:www.dailymail.co.uknewsarticle-2870826Time-capsule-removed-Massachusetts-Statehouse.htmlixzz3LkxsT77z Follow us: MailOnline on Twitter DailyMail on Facebook</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2468" entailment="ENTAILMENT" task="IE">
+<t>Small red book among finds in 113-year-old Boston time capsule</t>
+<h>A 113-year-old time capsule was found hidden inside a lion statue in Boston</h>
+</pair>
+<pair id="2480" entailment="ENTAILMENT" task="IE">
+<t>A really devoted man spent 460 on surgery for his constipated goldfish</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2481" entailment="ENTAILMENT" task="IE">
+<t>Constipated goldfish operated on by North Walsham vet</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2482" entailment="ENTAILMENT" task="IE">
+<t>Devoted pet owner spends 300 to save his GOLDFISH after it became constipated</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2483" entailment="ENTAILMENT" task="IE">
+<t>Photo gallery: Amazing 300 operation by North Walsham vet on constipated goldfish</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2484" entailment="ENTAILMENT" task="IE">
+<t>Norfolk Man Pays 300 For His Constipated Goldfish To Have Lifesaving Surgery</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2485" entailment="ENTAILMENT" task="IE">
+<t>British man pays 460 to save constipated goldfish's life</t>
+<h>A man paid 300 for surgery for his constipated goldfish</h>
+</pair>
+<pair id="2520" entailment="ENTAILMENT" task="IE">
+<t>A Wanted Man Responded To A Police Facebook Post That He Would Turn Himself In</t>
+<h>After Canadian police published a wanted post on Facebook, the target replied and later turned himself in</h>
+</pair>
+<pair id="2521" entailment="ENTAILMENT" task="IE">
+<t>Rodney Constantine keeps Facebook promise and turns himself in to police</t>
+<h>After Canadian police published a wanted post on Facebook, the target replied and later turned himself in</h>
+</pair>
+<pair id="2522" entailment="ENTAILMENT" task="IE">
+<t>See you Monday: N.L. man keeps Facebook promise to police, turns himself in Read more: http:www.ctvnews.cacanadasee-you-monday-n-l-man-keeps-facebook-promise-to-police-turns-himself-in-1.2206960ixzz3QEDaSGxU</t>
+<h>After Canadian police published a wanted post on Facebook, the target replied and later turned himself in</h>
+</pair>
+<pair id="2523" entailment="ENTAILMENT" task="IE">
+<t>Rodney Constantine, Newfoundland Suspect, Keeps Facebook Pledge To Turn Himself In</t>
+<h>After Canadian police published a wanted post on Facebook, the target replied and later turned himself in</h>
+</pair>
+<pair id="2524" entailment="UNKNOWN" task="IE">
+<t>Apple Watch predicted to take 55 of the 2015 global smartwatch market with 15.4M units shipped</t>
+<h>Apple will sell 15 million Apple Watches in 2015</h>
+</pair>
+<pair id="2525" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch Smartwatch to Ship 15 Million Units Worldwide in 2015</t>
+<h>Apple will sell 15 million Apple Watches in 2015</h>
+</pair>
+<pair id="2526" entailment="ENTAILMENT" task="IE">
+<t>Apple Watch to sell 15M units in 2015 and ignite global smartwatch market</t>
+<h>Apple will sell 15 million Apple Watches in 2015</h>
+</pair>
+</entailment-corpus>
