@@ -905,3 +905,55 @@ def snopes_cmv():
     
     util.get_acc(a_test, cf.res_s[cf.n_train:], \
                    cf.res_v[cf.train_m:], cf.alpha[cf.train_m:], bin_brier=True)
+                   
+
+def export(train_data, X_train, source_len=724):
+    """
+    produce classifiers for web app using baseline.
+    return (claim classifier, stance classifier, 
+           a dictionary from source name to source id)
+    """
+    clf_stance = sklearn.linear_model.LogisticRegression(penalty='l1')
+    stances = []
+    for s in train_data.articleHeadlineStance:
+        if s == 'against':
+            stances.append(-1 )
+        elif s == 'for':
+            stances.append(1)
+        else:
+            stances.append(0)
+    clf_stance.fit(X_train, stances)
+    
+    dic_f = get_features(train_data, \
+            train_data.articleHeadlineStance, source_len=source_len)
+        
+    (train_claims, train_y) = extract_truth_labels(train_data)
+    n = len(train_claims)
+    m = dic_f.items()[0][1].shape[0]
+    
+    train_f = np.zeros((n, m))
+    for i, c in enumerate(train_claims): train_f[i, :] = dic_f[c]
+    
+    
+    # only take true/false
+    final_train_f = []
+    final_train_y = []
+    for i in range(n):
+        if train_y[i] != 'unknown':
+            final_train_f.append(train_f[i,:])
+            final_train_y.append(1 if train_y[i] == 'true' else 0)
+            
+    final_train_f = np.asarray(final_train_f)        
+    
+    # train the model
+    clf_claim = sklearn.linear_model.LogisticRegression(fit_intercept=False)
+    clf_claim.fit(final_train_f, final_train_y)
+    
+    #sources = ['' for i in range(source_len)]
+    #for row in train_data.itertuples():
+    #    i = row.sourceCount - 1 # 1-index to 0-index
+    #    sources[i] = row.source
+    sources = get_dic_sources(train_data)
+    
+    return (clf_claim, clf_stance, sources)
+                   
